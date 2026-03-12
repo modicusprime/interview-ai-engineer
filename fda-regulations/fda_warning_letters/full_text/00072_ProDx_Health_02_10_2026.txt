@@ -1,0 +1,53 @@
+COMPANY: ProDx Health
+DATE: 02/10/2026
+SUBJECT: Investigational Device Exemptions (IDE)/Premarket Approval Application (PMA)
+ISSUING_OFFICE: Center for Biologics Evaluation and Research (CBER)
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/prodx-health-720762-02102026
+============================================================
+
+Delivery Method:
+Via UPS and EMAIL
+Reference #:
+CBER 26-720762
+Product:
+Biologics
+Recipient:
+Recipient Name
+Andreas Kogelnik, MD, PhD
+Recipient Title
+Founder & Chief Executive Officer
+ProDx Health
+1190 O'Brien Dr
+Menlo Park
+,
+CA
+94025
+United States
+support@prodxhealth.com
+Issuing Office:
+Center for Biologics Evaluation and Research (CBER)
+United States
+WARNING LETTER
+February 10, 2026
+CBER 26-720762
+Dear Dr. Andreas Kogelnik:
+The United States Food and Drug Administration (FDA or the Agency) has learned that your firm, ProDx Health, is offering for sale in the United States human immunodeficiency virus (HIV) serological diagnostic sample self-collection kits (hereinafter, your “sample self-collection kits”) without marketing authorization, in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+1
+Under section 201(h)(1) of the FD&C Act, 21 U.S.C. 321(h)(1), your sample self-collection kits are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+FDA has reviewed your company’s website at https://prodxhealth.com (last visited February 2026) and your firm’s February 3, 2026 response to previous FDA correspondence.  Based on our review of these materials, your firm offers its sample self-collection kits for delivery to individuals and intends for these individuals to use the kits to self-collect serological samples and ship those samples to laboratories for HIV testing. FDA has determined that your sample self-collection kits are adulterated under section 501(f)(1)(B) of the FD&C Act, 21 U.S.C. 351(f)(1)(B) because they do not have an approved premarket approval application (PMA) in effect pursuant to section 515(a) of the FD&C Act, 21 U.S.C. 360e(a), or an approved application for an investigational device exemption (IDE) under section 520(g) of the FD&C Act, 21 U.S.C. 360j(g).  Your sample self-collection kits are also misbranded under section 502(o) of the FD&C Act, 21 U.S.C. 352(o), because notification of the intent to introduce the device into commercial distribution has not been provided to the Agency, as required by section 510(k) of the FD&C Act, 21 U.S.C. 360(k).
+FDA has not authorized your firm’s sample self-collection kits for use in HIV serological diagnostic testing. Notably, this letter focuses on your sample self-collection kits and is not intended to be a comprehensive list of potential issues with your firm’s products.
+Without appropriate testing, data review, and marketing authorization, there is a lack of assurance of the safety and effectiveness of your sample self-collection kits. Self-collection raises several issues of importance, including, for example, whether the user can safely and properly collect the specimen, if the sample has been properly shipped, and if there is adequate stability of the specimen given the time lapse between collection and testing and the potential impact of shipping conditions. We note that there are FDA-approved over-the-counter HIV self-tests that can help meet the needs of individuals who wish to test themselves at home or who are unable to access other testing options.
+The violations cited in this letter are not meant to be an all-inclusive list of violations that may exist in connection with your products. FDA requests that your firm immediately cease any activities that result in the misbranding or adulteration of your sample self-collection kits. Your firm should take prompt action to address the violations identified in this letter.  Failure to adequately address this matter may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties.
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies.  If you believe that your firm’s sample self-collection kits are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration in your response to this letter.
+Within fifteen working days of receipt of this letter, please notify FDA in writing of the specific steps that you have taken to correct any violations.  Your response should include an explanation of each step being taken to prevent the recurrence of violations as well as related documentation. If you cannot complete all corrective actions within fifteen working days, state the reason for the delay and the date by which you will complete the correction.
+Send your electronic response and any questions regarding this letter to CBER’s Office of Compliance and Biologics Quality, Division of Case Management at CBERDCMRecommendations@fda.hhs.gov.
+Sincerely,
+/s/
+Melissa J. Mendoza
+Director
+Office of Compliance and Biologics Quality
+Center for Biologics Evaluation and Research
+1
+The letter FDA issued you on January 8, 2026, erroneously referred to your device as a “dried blood
+spot (DBS) card” self-collection kit. We have removed that letter from our website and are issuing this
+amended Warning Letter.

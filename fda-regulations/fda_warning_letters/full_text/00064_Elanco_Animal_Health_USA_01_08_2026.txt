@@ -1,0 +1,162 @@
+COMPANY: Elanco Animal Health USA
+DATE: 01/08/2026
+SUBJECT: False & Misleading Claims/Misbranded
+ISSUING_OFFICE: Center for Veterinary Medicine
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/elanco-animal-health-usa-710613-01082026
+============================================================
+
+Product:
+Animal & Veterinary
+Recipient:
+Recipient Name
+Jeffrey Simmons
+Recipient Title
+President and CEO
+Elanco Animal Health USA
+2500 Innovation Way
+Greenfield
+,
+IN
+46140
+United States
+Issuing Office:
+Center for Veterinary Medicine
+United States
+January 8, 2026
+Re: NADA 141-550 Pradalex™ (pradofloxacin injection)
+CMS #: 710613
+WARNING LETTER
+Dear: Mr. Simmons:
+The U.S. Food and Drug Administration (FDA) has reviewed your promotional communications for Pradalex (pradofloxacin injection) including a print advertisement titled “Fast track recovery with Pradalex™,”
+1
+a detail aid titled “The Right Solution at the Right Time,”
+2
+a “Cattle technical manual”
+3
+linked on the Pradalex beef product website,
+4
+a promotional presentation titled “Pradalex (pradofloxacin injection) Cattle and Swine Product Overview,
+5
+and a promotional video
+6
+featuring Elanco representatives discussing the presentation, and noted false or misleading claims and representations about the safety and effectiveness of this product. These promotional communications misbrand your product within the meaning of the Federal Food, Drug, and Cosmetic Act (FD&C Act) section 502(a) [21 U.S.C. 352(a)], section 502(n) [21 U.S.C. 352(n)]; section 201(n) [21 U.S.C. 321(n)]; and 21 CFR 202.1(e)(5). It is a prohibited act to distribute a misbranded product in interstate commerce. Section 301(a) [21 U.S.C. 331(a)]. This violation is especially concerning because pradofloxacin is in the fluoroquinolone drug class and fluoroquinolones are considered critically important antimicrobials in human medicine.
+7
+Background
+8
+According to the Indications section of the FDA-approved package insert:
+In cattle:
+Pradalex is indicated for the treatment of [Bovine Respiratory Disease] BRD associated with
+Mannheimia haemolytica, Pasteurella multocida, Histophilus somni
+and
+Mycoplasma bovis
+in cattle intended for slaughter (beef calves 2 months of age and older, growing beef steers, growing beef heifers, and beef bulls intended for slaughter), and in cattle intended for breeding less than 1 year of age (replacement beef and dairy heifers less than 1 year of age and beef and dairy bulls less than 1 year of age). Not for use in cattle intended for breeding 1 year of age and older (replacement beef and dairy heifers 1 year of age and older, beef and dairy bulls 1 year of age and older, and beef and dairy cows), beef calves less than 2 months of age, dairy calves, and veal calves.
+In swine:
+Pradalex is indicated for the treatment of [Swine Respiratory Disease] SRD associated with
+Bordetella bronchiseptica, Glaesserella (Haemophilus) parasuis, Pasteurella multocida, Streptococcus suis, and Mycoplasma hyopneumoniae
+in weaned swine intended for slaughter (nursery, growing, and finishing swine, boars intended for slaughter, barrows, gilts intended for slaughter, and sows intended for slaughter).
+Not for use in swine intended for breeding (boars intended for breeding, replacement gilts, and sows intended for breeding) and in nursing piglets.
+The package insert contains the following “CAUTION” statements: “Federal law prohibits the extra-label use of this drug in food-producing animals” and “To ensure responsible antimicrobial drug use, use of pradofloxacin should be limited to treatment of bovine respiratory disease (BRD) in cattle and treatment of swine respiratory disease (SRD) in swine only after consideration of other non-fluoroquinolone therapeutic options.”
+The Freedom of Information Summary for Pradalex explains that the caution statement about responsible antimicrobial drug use was added to “all labels, inserts and marketing materials” to reduce the risk to public health from development of fluoroquinolone resistance among foodborne
+Campylobacter
+and
+Salmonella
+originating from treated cattle and swine.
+9
+Specifically, inappropriate use of fluoroquinolones such as pradofloxacin contributes to antimicrobial resistance among organisms of human health concern, such as foodborne
+Campylobacter
+and
+Salmonella
+. Thus, use of pradofloxacin in food producing animals should be reserved for the treatment of clinical conditions that have responded poorly to other classes of antimicrobials.
+False or Misleading Claims
+Prescription drug advertisements and labeling (promotional communications) misbrand a drug if they are false or misleading in any particular (see FD&C Act sections 502(a), (n) (21 U.S.C 352(a), (n)). The determination of whether a promotional communication is misleading includes, among other things, not only representations made or suggested in the promotional communication, but also the extent to which the promotional communication fails to reveal facts material in light of the representations made or with respect to consequences that may result from the use of the drug as recommended or suggested in the promotional communication. See FD&C Act section 201(n) (21 U.S.C 321(n)) and 21 CFR 202.1(e)(5).
+First Pull Claims
+The detail aid titled “The Right Solution at the Right Time” contains a chart stating that the “Recommended Protocol” for Pradalex is “First-pull treatment.” Likewise, the Product Overview presentation titled “Pradalex (pradofloxacin injection) Cattle and Swine Product Overview” contains the following statement: “Pradalex is an ideal choice for first pull BRD and SRD treatment.” This claim is also repeated multiple times in the promotional video.
+“First pull” refers to the first time an animal is treated for a specific condition. However, the CAUTION statement on the package insert specifically states that pradofloxacin should only be used “after consideration of other non-fluoroquinolone therapeutic options.” As explained in the Human Food Safety section of the Freedom of Information Summary for Pradalex, “use of pradofloxacin in food producing animals should…be reserved for the treatment of clinical conditions which have responded poorly to other classes of antimicrobials.” Therefore, the claim that Pradalex is “Recommended” for “First-pull treatment” or an “ideal choice for a first pull” is false or misleading and causes the product to be misbranded.
+All Relevant Pathogens Claims
+Additionally, the Product Overview presentation and associated video contain the statements:
+“Effective for the treatment of
+all relevant BRD pathogens
+.” [emphasis original]
+and
+“Effective for the treatment of
+all relevant SRD pathogens
+.” [emphasis original].
+The “all relevant BRD pathogens” claim is also repeated in a Cattle Technical Manual that is linked on the Pradalex cattle website. However, pradofloxacin treatment has not been shown to be effective for some pathogens that are relevant for BRD and SRD and therefore those pathogens are not part of the approved indication, including
+Bibersteinia trehalosi,
+which is a bacterial pathogen that may play a primary role in BRD
+10, 11
+and
+Actinobacillus pleuropneumoniae
+(APP), which is considered a major pathogen in SRD. APP is described as a “primary bacterial pathogen” for SRD by a reference cited in the Product Overview presentation
+12
+and is listed on a promotional flyer for SRD disseminated by Elanco.
+13
+This flyer even contains a table showing that pradofloxacin is not recommended for use for the treatment of APP. Therefore, stating that Pradalex is effective for “all relevant” pathogens for both BRD and SRD in the Product Overview presentation and video overstates the effectiveness of the drug and is a false or misleading claim.
+Further, these claims may promote extralabel use of Pradalex because it is only approved to treat BRD and SRD associated with certain pathogens, but these promotional communications suggest Pradalex is effective for all pathogens associated with BRD or SRD. As noted on the label, federal law prohibits the extra-label use of Pradalex in food producing animals. Advertising or promotion of extralabel uses in animals of approved new animal drugs is not permitted by the extralabel drug use regulations (see 21 CFR 530.4).
+Comparative Claims
+The print advertisement titled “Fast track recovery with Pradalex” contains the statement “Treat respiratory disease with 2x the power in less than half the time” with a picture of a cow on a racetrack and a pig in a race car. This statement is false or misleading because it implies that Pradalex is effective against “respiratory disease” generally in cows and pigs. Pradalex is approved for the treatment of BRD and SRD associated with specific pathogens. There are other respiratory diseases in cattle and swine. Furthermore, it appears that this statement is making a claim about treatment times (“Treat… in less than half the time”) based on an in vitro measurement of bacterial kill rates against bovine strains of
+Mannheimia haemolytica
+and
+Pasteurella multocida
+. This statement cites Elanco data on file and a scientific article of an in vitro kill experiment measuring the rate and extent of bacterial killing by pradofloxacin against two BRD pathogens in comparison with seven other antimicrobials.
+14
+Evidence of bacterial kill rates in a cell culture is not evidence of treatment times in cows and pigs. As noted in the scientific article itself, “In vitro measurements, as they are reported here, cannot be extrapolated to clinical outcomes…. Rapid reductions in viable cells may predict shorter courses of therapy; however, this would need confirmation in clinical trials investigating the length of therapy.”
+15
+In addition, it is unclear what “power” refers to in this statement. We also note that the study measured BRD pathogens, but the advertisement includes a picture of a pig.
+The Product Overview presentation and associated video also contain the following statements that are unclear and, therefore, may be misleading:
+“In cattle, Pradalex kills BRD bacteria with 3x the power in less than half the time.”
+and
+“Pradalex kills SRD bacteria with 2x the power in less than half the time.”
+These broad statements imply that the comparative “power” and speed of bacterial killing of Pradalex applies to all drugs approved for the same indications. However, for the BRD statement, the presentation and video do not indicate a direct comparison with any other antibiotic. For the SRD statement, the graph in the presentation and the explanation in the video only show a direct comparison between the plasma concentration of Pradalex and the plasma concentration of a single other drug, enrofloxacin. A similar statement on the product webpage for SRD
+16
+, “Pradalex is an SRD antibiotic treatment that reaches twice the concentration in a third of the time…” does not indicate a direct comparison with any other antibiotic. In addition, the meaning of the term “power” is unclear and could be interpreted to refer more broadly to the effectiveness of Pradalex or more specifically to the plasma concentration of Pradalex.
+Conclusion and Requested Response
+For the reasons discussed above, your promotional materials misbrand Pradalex within the meaning of the FD&C Act. FD&C Act section 502(a), [21 U.S.C. 352(a)]; section 502(n) [21 U.S.C. 352(n)]; section 201(n) [21 U.S.C. 321(n)]; and 21 CFR 202.1(e)(5). Introducing or delivering misbranded new animal drugs for introduction into interstate commerce violates section 301(a) of the FD&C Act [21 U.S.C. 331(a)].
+This letter is not intended to be an all-inclusive statement of violations that may exist in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+This letter notifies you of our concerns and provides you an opportunity to address them. Failure to adequately address this matter may lead to legal action, including without limitation, seizure, and injunction.
+Within fifteen (15) working days of receipt of this letter, please submit a written response addressing the concerns described in this letter, listing all promotional communications for Pradalex that contain representations like that described above, and explaining any plan for discontinuing use of such communications, or for ceasing distribution of Pradalex. If you cannot complete the above requested actions within fifteen (15) working days, state the reason for the delay and the time within which you will complete them.
+If you believe that your products are not in violation of the FD&C Act, please include in your submission to us your reasoning and any supporting information for our consideration within 15 working days from the date of receipt of this letter.
+Please direct your response to the undersigned at the Food and Drug Administration, Center for Veterinary Medicine, Division of Pharmacovigilance and Surveillance, 5001 Campus Drive, CPK1, College Park, MD, 20740. Please send a courtesy copy by email to CVMSurveillance@fda.hhs.gov. All correspondence should include a subject line that clearly identifies the submission as a Response to Warning Letter #710613.
+If you have any questions, please contact Dr. Christopher Loss by email at christopher.loss@fda.hhs.gov.
+Sincerely,
+/S/
+Linda Walter-Grimm, DVM
+Director, Division of Pharmacovigilance and
+Surveillance
+Office Surveillance and Compliance
+Center for Veterinary Medicine
+_____________________
+1
+Identified by Elanco as PM-US-25-2059 and submitted to the Drug Experience Reporting System (DERS) under cover of form 2301 on October 31, 2025.
+2
+Identified by Elanco as PM-US-21-1022 and submitted to the DERS under cover of form 2301 on June 25, 2025.
+3
+Identified by Elanco as PM-US-24-1012.
+4
+Pradalex (pradofloxacin injection) Beef Product Page last viewed on January 8, 2026.
+5
+Identified by Elanco as PM-US-24-2153 and submitted to the DERS under cover of form 2301 on December 11, 2024.
+6
+Identified by Elanco as PM-US-25-0047 and submitted to the DERS under cover of form 2301 on January 29, 2025.
+7
+World Health Organization. Critically Important Antimicrobials for Human Medicine: 6th Revision 2018. See Draft Guidance for Industry #152 Evaluating the Safety of Antimicrobial New Animal Drugs with Regard to their Microbiological Effects on Bacteria of Human Health Concern. Food and Drug Administration, Center of Veterinary Medicine, January 2023.
+8
+This section does not include all the safety and risk information in the package insert for Pradalex and does not necessarily represent the risk information that should be included in the promotional communication(s) cited in this letter.
+9
+U.S. Food and Drug Administration, Center for Veterinary Medicine, April 9, 2024, Freedom of Information Summary, NADA 141-550 Pradalex (pradofloxacin injection) https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/15250 at 29.
+10
+Holschbach, C. L., Aulik, N., Poulsen, K., & Ollivett, T. L. (2020). Prevalence and temporal trends in antimicrobial resistance of bovine respiratory disease pathogen isolates submitted to the Wisconsin Veterinary Diagnostic Laboratory: 2008–2017. Journal of Dairy Science, 103(10), 9464–9472. https://doi.org/10.3168/jds.2019-17570
+11
+Merck Veterinary Manual. (n.d.). Retrieved June 10, 2025, from https://www.merckvetmanual.com/respiratorysystem/bovine-respiratory-disease-complex/overview-of-bovine-respiratory-diseasecomplex#Etiology_v74932734
+12
+Blondeau, J. M., & Fitch, S. D. (2024). Comparison of the Minimum Inhibitory and Mutant Prevention Drug Concentrations for Pradofloxacin and 7 Other Antimicrobial Agents Tested Against Swine Isolates of Actinobacillus pleuropneumoniae and Pasteurella multocida.
+Molecules (Basel, Switzerland)
+, 29(22), Article 5448. https://doi.org/10.3390/molecules29225448
+13
+Identified by Elanco as PM-US-25-0197 and submitted to the DERS under cover of form 2301 on March 21, 2025.
+14
+Blondeau, J.M.; Fitch, S.D. Comparative In Vitro Killing by Pradofloxacin in Comparison to Ceftiofur, Enrofloxacin, Florfenicol, Marbofloxacin, Tildipirosin, Tilmicosin and Tulathromycin against Bovine Respiratory Bacterial Pathogens. Microorganisms 2024.
+15
+Id. at 11.
+16
+Pradalex (pradofloxacin injection) https://farmanimal.elanco.com/us/swine/product/pradalex last viewed January 8, 2026.

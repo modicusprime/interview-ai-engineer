@@ -1,0 +1,164 @@
+COMPANY: Raw Bistro Inc.
+DATE: 02/17/2026
+SUBJECT: CGMP/Food for Animals/Prepared, Packed or Held Under Insanitary Conditions/Adulterated
+ISSUING_OFFICE: Center for Veterinary Medicine
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/raw-bistro-inc-719038-02172026
+============================================================
+
+Delivery Method:
+VIA EMAIL WITH READ RECEIPT: NO HARD COPY TO FOLLOW
+Product:
+Animal & Veterinary
+Recipient:
+Recipient Name
+Patricia Greene
+Recipient Title
+Owner
+Raw Bistro Inc.
+305 Cannon Street West
+Cannon Falls
+,
+MN
+55009-1509
+United States
+(b)(6), (b)(7)(C)
+Issuing Office:
+Center for Veterinary Medicine
+United States
+WARNING LETTER
+CMS # 719038
+February 17, 2026
+Dear Patricia Greene,
+The U.S. Food and Drug Administration (FDA) inspected your pet food manufacturing facility located at 305 Cannon Street West, Cannon Falls, Minnesota, from September 16 through September 29, 2025, as a follow-up to a Regulatory Meeting held with you on February 21, 2024. We received and evaluated your written response, dated October 20, 2025, to the Form FDA 483, Inspectional Observations (FDA 483). Additionally, we received additional proposed corrections in your recall correspondence dated November 20, 2025.
+During the inspection, the investigator found evidence of significant violations of FDA’s Current Good Manufacturing Practice, Hazard Analysis, and Risk-Based Preventive Controls for Food for Animals requirements, Title 21, Code of Federal Regulations, Part 507 (21 CFR Part 507), which cause your products to be adulterated in that they were prepared, packed, or held under insanitary conditions whereby they may have been contaminated with filth, or whereby they may have been rendered injurious to health.
+1
+The failure of the owner, operator, or agent in charge of a covered facility to comply with the preventive control requirements of 21 CFR Part 507 (located in subparts A, C, D, E, and F of Part 507) is a prohibited act.
+2
+Additionally, the introduction or delivery for introduction into interstate commerce of any food that is adulterated is a prohibited act.
+3
+On September 24, 2025, concurrent with the inspection, FDA conducted sampling of your Raw Bistro Dog Fare Grass-Fed Beef Entrée, best by 08/27/2026, lot 239. The unopened samples were collected from a third-party retailer to assist FDA in evaluating the effectiveness of your preventive controls. Analysis revealed the finished product contained
+Salmonella
+Paratyphi. Therefore, this lot of your dog food products is adulterated because
+Salmonella
+may render the food injurious to health.
+4
+You conducted a Class I recall of this product on October 10, 2025.
+You may find the Federal Food, Drug and Cosmetic Act (FD&C Act) and FDA’s regulations through links in FDA’s homepage at www.fda.gov.
+At the close of the inspection, you were issued a Form FDA 483. As noted above, we received your FDA 483 response dated October 20, 2025. We have reviewed this response and address your corrective actions below.
+Hazard Analysis and Risk-Based Preventive Controls Requirements
+During our inspection of your facility, evidence of violations of the preventive controls requirements observed by the investigator included the following:
+1. You did not identify and implement preventive controls to provide assurances that any hazards requiring a preventive control will be significantly minimized or prevented, as required by 21 CFR 507.34(a)(1).
+Your hazard analysis for “RAW/FRESH FOOD” identifies pathogens, including
+Salmonella
+and
+Listeria monocytogenes
+, as hazards requiring a preventive control. You established and implemented a preventive control through your procedure titled, “SOP-
+(b)(4)
+Wash/Dip Process,” in which you dip your in-process meat and poultry ingredients in a
+(b)(4)
+wash (
+(b)(4)
+preventive control). However, your preventive control is not adequate, as evidenced by FDA sample 1235454 of your Raw Bistro Dog Fare Grass-Fed Beef Entrée, best by 08/27/2026, lot 239, which tested positive for
+Salmonella
+Paratyphi.
+Further, your
+(b)(4)
+preventive control is not adequate to prevent recontamination with environmental pathogens. You must perform an evaluation of environmental pathogens whenever animal food is exposed to the environment prior to packaging and the packaged animal food does not receive a treatment or otherwise include a control measure that would significantly minimize the pathogen, as required by 21 CFR 507.33(c)(2). After the application of your
+(b)(4)
+preventive control during manufacturing, your products go through several processing steps such as
+(b)(4)
+, that further manipulate the products and expose them to the environment prior to packaging. During the inspection, you provided the investigator with results from environmental swabbing conducted at your facility by the
+(b)(5)
+. The results show
+(b)(5)
+found
+L. monocytogenes
+and
+Listeria welshimeri
+on food contact surfaces within your manufacturing environment. Although
+L. welshimeri
+is not pathogenic, its presence can be an indicator of poor sanitation and that conditions may be suitable for the presence and growth of
+L. monocytogenes
+.
+Evaluation of your response
+In your written response to the FDA 483, you emphasized that you are implementing your preventive control by targeting meat and poultry ingredients with a
+(b)(4)
+wash used according to the manufacturer’s guidelines. You also provided an updated hazard analysis that identifies pathogens as a hazard for fruit and vegetable ingredients controlled by a prerequisite supplier approval program and temperature control. You additionally identified pathogens as a hazard at the
+(b)(4)
+processing step “
+(b)(4)
+of patties” controlled by temperature monitoring and hold and release testing prerequisite programs. Your response did not include updated procedures for your supplier approval or temperature monitoring programs and implementation records for your supplier approval, temperature monitoring, and hold and release testing programs. Therefore, we are unable to fully evaluate your corrective actions. However, we can comment generally that temperature monitoring and hold and release testing programs are not adequate to significantly minimize or prevent the hazard of pathogens. Some pathogens can grow under refrigerated conditions, and although other pathogens may not grow, they can survive for long periods of time under refrigerated conditions and maintain their ability to cause illness. Additionally, while finished product testing is an effective way to verify the control of a biological hazard such as pathogens, finished product testing does not significantly reduce or minimize the hazard and is not considered a preventive control.
+We encourage you to respond to this letter with any updated procedures you have regarding your preventive control or prerequisite programs for biological hazards.
+2. You did not validate that the process preventive control you identified in accordance with 21 CFR 507.34 is adequate to control the hazard as appropriate to the nature of the preventive control and its role in your facility’s food safety system, as required by 21 CFR 507.47(a).
+Specifically, your hazard analysis identified a
+(b)(4)
+wash for your meat and poultry ingredients as a preventive control for the hazard of pathogens. The FDA reviewed your
+(b)(4)
+Validation Protocol with associated sampling records and determined this documentation does not validate that
+(b)(4)
+is an effective preventive control for pathogens for your manufacturing process.
+The proposed validation protocol instructs your firm to collect
+(b)(4)
+subsamples,
+(b)(4)
+. The protocol only identifies
+Salmonella
+as a pathogen of concern even though your hazard analysis determined other pathogens such as
+L. monocytogenes
+and
+Escherichia coli
+O157:H7 require preventive control. Additionally, the protocol does not identify your intended log reduction. The analytical results you provided for
+(b)(4)
+indicate neither your
+(b)(4)
+samples contained
+Salmonella
+or
+L. monocytogenes
+. In order to determine a log reduction, an established level must be present before implementation of your proposed preventive control. Therefore, you are unable to quantify whether
+(b)(4)
+provides any reduction in pathogens.
+Evaluation of your response
+Your written response to the FDA 483 discusses your current hold and release finished product testing program and states you are in the process of re-evaluating your validation process. You also provided background scientific journals regarding the effectiveness of
+(b)(4)
+in reducing pathogens, which you believe validates your use of
+(b)(4)
+for your process. Your response is not adequate. While
+(b)(4)
+may provide a certain pathogen log reduction, you did not provide any scientific or technical evidence to demonstrate
+(b)(4)
+provides an adequate log reduction for your products under your processing conditions. Additionally, as discussed above, utilizing a
+(b)(4)
+wash for your meat and poultry ingredients does not address possible pathogen contamination from other ingredients or your processing environment. Further, finished product testing is considered a verification activity (see 21 CFR 507.49) and is not a control for pathogens.
+3. You did not conduct a hazard analysis to identify and evaluate, based on experience, illness data, scientific reports, and other information, known or reasonably foreseeable hazards for each type of animal food you manufacture, process, pack, or hold in your facility to determine whether there are any hazards requiring a preventive control, as required by 21 CFR 507.33(a).
+Specifically, your written hazard analysis does not identify or evaluate the known or reasonably foreseeable hazard of nutrient deficiency or toxicity for the dog food you manufacture. For pet food intended to provide a complete nutritional diet for dogs, a known or reasonably foreseeable hazard is nutrient deficiencies and toxicities that could result from the manufacturing processes, including the addition of a vitamin and mineral mix. For example, other pet food companies have recalled dog food due to excess vitamin D.
+Evaluation of your response
+In your written response, you provided an updated hazard analysis that identifies “Vitamins and minerals level too high” as a hazard at the “Adding
+(b)(4)
+ingredients to
+(b)(4)
+, vitamins)” step. You intend to reduce the probability this hazard could occur in the absence of a preventive control with visual inspection, training employees to follow the recipe, and receiving certificates of analysis from your mineral supplier. However, we are not able to evaluate your corrections because you did not provide supporting documentation, such as the criteria of your visual inspections, requirements for the certificates of analysis from your supplier, or training records, to show how these prerequisite programs can reduce the probability the hazard could occur in the absence of a preventive control, to the point where you can determine that a preventive control is not required.
+Conclusion
+This letter is not intended to be an all-inclusive statement of violations that may exist at your facility or in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that you comply with all requirements of federal law and FDA regulations.
+This letter notifies you of our concerns and provides you an opportunity to address them. You should take prompt action to correct any violations. Failure to adequately address this matter may lead to legal action, including without limitation, seizure and injunction.
+For more information about FDA’s current thinking on the requirements of 21 CFR Part 507, see:
+For Industry | FDA (https://www.fda.gov/animal-veterinary/resources-you/industry).
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing of the specific steps that you have taken to correct any violations. Include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. If you cannot complete corrective actions within fifteen (15) working days, state the reason for the delay and the time within which you will complete the correction. If you believe your products are not in violation of the FD&C Act and FDA regulations, include your reasoning and any supporting information for our consideration.
+The Food & Drug Administration, Center for Veterinary Medicine, Office of Surveillance and Compliance is encouraging electronic submission of any response you choose to submit to this letter. We encourage you to submit files up to 100 megabytes in a single email, and to divide files greater than 100 megabytes so they may be submitted as smaller files in separate emails. If you submit electronic correspondence, please ensure that your facility’s name, the CMS number at the top of this letter, and the inspection location are included in your correspondence. We intend to issue an electronic acknowledgement upon receipt of your email.
+Please direct your electronic correspondence to Compliance Officer Andrew J. Howard at Andrew.Howard@fda.hhs.gov. If you have questions regarding this letter, please contact Compliance Officer Andrew J. Howard by telephone at (410) 779-5125, or by email at Andrew.Howard@fda.hhs.gov.
+/S/
+Isaac K. Carney
+Director of Food Compliance, Office of Surveillance and Compliance
+Center for Veterinary Medicine
+U.S. Food and Drug Administration
+cc:
+(b)(5)
+_______________________
+1
+See Section 402(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) [21 U.S.C. § 342(a)(4)], and 21 CFR 507.1(a)(1)(ii).
+2
+See Section 301(uu) of the FD&C Act [21 U.S.C. § 331(uu)].
+3
+See Section 301(a) of the FD&C Act [21 U.S.C. § 331(a)].
+4
+See Section 402(a)(1) of the FD&C Act [21 U.S.C. § 342(a)(1)].

@@ -1,0 +1,18 @@
+services:
+  fda-rag:
+    build: .
+    stdin_open: true # equivalent to docker run -i
+    tty: true # equivalent to docker run -t (needed for the chat loop)
+    environment:
+      - HF_TOKEN=${HF_TOKEN} # pulled from your shell env or a .env file
+    volumes:
+      # Persist scraped letters, FAISS index, and model cache between runs
+      - ./fda_warning_letters:/app/fda_warning_letters
+      - ./fda_faiss_index:/app/fda_faiss_index
+      - hf_cache:/app/.cache/huggingface
+    # Override CMD to rebuild the index when you have new letters:
+    #   docker compose run fda-rag (no args, uses CMD --skip-index)
+    #   docker compose run fda-rag python main.py (rebuild)
+
+volumes:
+  hf_cache: # named volume so the ~500 MB model download is reused

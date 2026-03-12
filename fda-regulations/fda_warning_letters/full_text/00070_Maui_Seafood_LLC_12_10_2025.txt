@@ -1,0 +1,366 @@
+COMPANY: Maui Seafood LLC
+DATE: 12/10/2025
+SUBJECT: Seafood HACCP/CGMP for Foods/Adulterated/Insanitary Conditions
+ISSUING_OFFICE: Human Foods Program
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/maui-seafood-llc-715844-12102025
+============================================================
+
+Delivery Method:
+VIA Electronic Mail
+Product:
+Food & Beverages
+Recipient:
+Recipient Name
+Yong J. Chang
+Recipient Title
+Owner
+Maui Seafood LLC
+1741 S. Mojave Rd
+Las Vegas
+,
+NV
+89104-4503
+United States
+mauiseafoodlv@gmail.com
+Issuing Office:
+Human Foods Program
+United States
+December 10, 2025
+WARNING LETTER
+Re: CMS Case # 715844
+Dear Mr. Chang:
+The United States Food and Drug Administration (FDA) conducted an inspection of your ready-to-eat (RTE) seafood processing facility, located at 1741 S. Mojave Rd, Las Vegas, NV 89104-4503, from April 28 through May 16, 2025. During our inspection of your facility, the FDA investigators found serious violations of the seafood Hazard Analysis and Critical Control Point (HACCP) regulation, Title 21, Code of Federal Regulations, Part 123. Additionally, FDA collected environmental samples (i.e., swabs) from various areas in your processing facility. FDA laboratory analysis of the environmental swabs found the presence of
+Listeria monocytogenes (L. monocytogenes)
+, a human pathogen, in your facility.
+Based on FDA’s inspectional findings and the analytical results for samples collected from your production environment, we have determined your RTE whole, raw, refrigerated fishery products including tuna and salmon, are adulterated within the meaning of section 402(a)(4) of the Federal Food, Drug and Cosmetic Act (the Act), 21 U.S.C. § 342(a)(4) in that they have been prepared, packed, or held under insanitary conditions whereby they may have become contaminated with filth, or whereby they may have been rendered injurious to health. Furthermore, in accordance with 21 CFR 123.6(g), failure of a processor of fish or fishery products to have and implement a HACCP plan that complies with this section or otherwise operate in accordance with the requirements of Part 123, renders the fish or fishery products adulterated within the meaning of section 402(a)(4) of the Act [21 U.S.C. § 342(a)(4)]. You may find the Act, the seafood HACCP regulation, and the June 2022 Edition of the Fish and Fisheries Products Hazards and Controls Guidance (the Hazards Guide) through links in FDA's home page at www.fda.gov.
+At the conclusion of the inspection, FDA investigators issued an FDA Form 483 (FDA-483), Inspectional Observations, listing the violations found at your facility. You provided responses to the inspection on May 16 and 28, 2025, describing corrective actions taken or planned by your firm. After reviewing the inspectional findings, analytical results, and the responses that your firm provided, we are issuing this letter to advise you of FDA’s concerns and to provide detailed information describing the findings at your facility. We address your responses below.
+Pathogen Findings
+L. monocytogenes
+is a pathogenic bacterium that is widespread in the environment and may be introduced into a food processing facility from raw materials, humans, or equipment. Without proper controls,
+L. monocytogenes
+can proliferate in food processing facilities where it may contaminate food. Therefore, it is essential to identify the areas of the food processing plant where this organism is able to grow and survive and to apply controls or take corrective actions as necessary to eradicate the organism. Consuming foods contaminated with
+L. monocytogenes
+can lead to a severe, sometimes life-threatening illness called listeriosis, which is a major public health concern due to the severity of the disease, its high case-fatality rate, its long incubation time, and its tendency to affect individuals with underlying conditions.
+FDA investigators collected environmental samples from your processing facility on April 30, 2025. FDA analysis of the environmental sample 1278716 confirmed that
+(b)(4)
+of
+(b)(4)
+environmental swabs were positive for
+L. monocytogenes
+. The positive findings included
+(b)(4)
+swabs collected from food contact surfaces including in the processing room on the top right of the salmon cutting board on table #
+(b)(4)
+(sub #
+(b)(4)
+); sub #
+(b)(4)
+which was collected from the top middle of the cutting board on table #
+(b)(4)
+, metal crevice of the cutting board, and handle of hose; and on the far right and left side of the strip curtains in the staging area (subs #
+(b)(4)
+and #
+(b)(4)
+) that were observed to come into direct contact with RTE yellowfin tuna. Additionally,
+L. monocytogenes
+was found on the inside of the
+(b)(4)
+and
+(b)(4)
+drain slots in the processing room (subs #
+(b)(4)
+and #
+(b)(4)
+), and the center of drain #
+(b)(4)
+in the staging area (sub #
+(b)(4)
+).
+Whole genome sequencing (WGS) was conducted on the above referenced
+L. monocytogenes
+isolates. The WGS analysis revealed
+(b)(4)
+strain that consisted of the
+(b)(4)
+L. monocytogenes
+isolates that matched
+(b)(4)
+isolate from a “smoked salmon” sample, and
+(b)(4)
+clinical isolates from 2017 and 2018, indicating that this strain can cause illness. We advised you of the importance of these WGS results via a conference call on June 4, 2025.
+The presence of
+L. monocytogenes
+in your facility is significant in that it demonstrates your sanitation efforts are inadequate to effectively control pathogens in your facility to prevent contamination of food or minimize its presence on food-contact surfaces. Appropriate control of
+L. monocytogenes
+in a food processing environment requires knowledge of the unique characteristics of the organism and implementing the corresponding hygienic practices necessary to control this pathogen. Once it is established in a production area, personnel or equipment can facilitate the pathogen’s movement and contamination of food-contact surfaces and finished product. It is essential to identify the harborage sites in the food processing plant and equipment where this organism is able to grow and survive and to take such corrective actions as are necessary to eradicate the organism. Our evaluation of your response to the FDA’s
+L. monocytogenes
+findings is discussed later in this letter.
+Additionally, FDA environmental sample 1278716 also detected
+Listeria innocua (L. innocua)
+, a non- pathogenic
+Listeria
+species, in
+(b)(4)
+environmental swabs, including on food contact surfaces. The presence of
+Listeria
+species such as
+L. innocua
+suggests that conditions are suitable for survival and/or growth of
+L. monocytogenes
+, which, as noted above, has been found in your facility.
+Seafood HACCP Violations (21 CFR Part 123)
+Your significant deviations are as follows:
+1. You must monitor sanitation conditions and practices during processing with sufficient frequency to ensure compliance with current good manufacturing practice (CGMP) requirements under 21 CFR Part 117, subpart B that are appropriate to your plant and food products (21 CFR 123.11(b)). However, your firm did not monitor the following conditions and practices with sufficient frequency to ensure cGMP compliance:
+A. You did not ensure all food contact surfaces, including utensils, were cleaned as necessary to protect against food contamination, as required by 21 CFR 117.35(d). This is related to the condition and cleanliness of food contact surfaces, including utensils, as required by 21 CFR 123.11(b)(2). Specifically:
+i. On April 28 and 29, 2025, cutting boards #
+(b)(4)
+–#
+(b)(4)
+, used in the production of RTE salmon, were heavily worn and grooved. The grooves were soiled with brown, gray, and black filth. The top right corner of the salmon cutting board on table #
+(b)(4)
+was found positive for
+L. monocytogenes
+(Sample 1278716, sub #
+(b)(4)
+). The corners of cutting boards #
+(b)(4)
+and #
+(b)(4)
+had an accumulation of brown and black filth which can be potential pathogen harborage areas.
+ii. On April 28, 2025, the ice scoop handle had clear tape wrapped around the handle. This tape had an accumulation of filth in the seams of each wrap. This ice scoop is used to scoop ice which has direct contact with RTE, raw seafood products, including salmon.
+B. You did not conduct all food manufacturing, processing, packing, and holding under conditions and controls necessary to minimize the potential growth of microorganisms, contamination of food, and deterioration of food, as required by 21 CFR 117.80(c)(2). This is related to the prevention of cross-contamination from insanitary objects to food, food packaging material, and other food contact surfaces, including utensils, gloves, and outer garments, and from raw product to cooked product, as required by 21 CFR 123.11(b)(3). Specifically:
+i. On April 28, 2025, an employee removed the floor drain cover in Cooler
+(b)(4)
+to scoop fish bones, blood, debris, and fish scales and fins out of the drain with their gloved hand. The employee then touched the hose to rinse the drain. Thereafter, the employee exited Cooler
+(b)(4)
+entered into Cooler
+(b)(4)
+running their gloved hands along the plastic door curtains upon exiting. The employee then re-entered Cooler
+(b)(4)
+from Cooler
+(b)(4)
+, through the plastic door curtains, and resumed cleaning the drain, without washing hands and changing gloves between these different tasks.
+A second employee then used their bare hands to put the drain cover back, then moved between Cooler
+(b)(4)
+and Cooler
+(b)(4)
+while touching the curtains in both directions. Thereafter, they pushed the rack of tuna loins into Cooler
+(b)(4)
+without washing their hands.
+ii. On April 29, 2025, an employee used their gloved hands to pick up and throw away fish trimming scraps from the floor where there was an accumulation of filthy water, fish pieces, and filth with the appearance of blood in the Staging Area.
+L. monocytogenes
+was found approximately
+(b)(4)
+feet from this area in the center of drain #
+(b)(4)
+(Sample 1278716, sub #
+(b)(4)
+). This employee then immediately picked up a whole RTE big eye tuna product from a cardboard box and carried it into the Processing Room for processing without washing their hands and changing gloves. The FDA investigator did not observe this employee change their gloves during the entire processing shift.
+iii. On April 29, 2025, an employee picked up a plastic case band (which is strapped around the Styrofoam cases of fish to secure the lids) off the floor in the Processing Room. This plastic case band was approximately
+(b)(4)
+from the drain that tested positive for
+L. monocytogenes
+(Sample 1278716, sub #
+(b)(4)
+). This employee then threw the plastic case band away and proceeded to descale RTE fresh salmon products without washing their hands and changing gloves. The salmon were processed on Table #1 which was positive for
+L. monocytogenes
+(Sample 1278716, sub #
+(b)(4)
+).
+iv. On April 29–30, 2025, white cloth towels with a diluted bleach solution were used to wipe down cutting board #4 and then used to wipe down RTE fresh salmon products. The same towels were also used to wipe down finished product polystyrene boxes, creating cross-contamination between RTE products, food contact surfaces, and packaging materials. These towels were saturated by dipping them into a bleach solution of
+(b)(4)
+ppm contained in a red bucket on the bottom level of table #
+(b)(4)
+. The bleach solution was not changed during processing, and by the end of processing, the solution in the red bucket had become opaque and gray. As the towels became dirty, turning from white to gray, they were not replaced with clean towels as needed. Additionally, after reviewing the bleach solution label, there are no indications that this bleach is safe, in any dilution, for use directly on food.
+v. On April 28, 2025, seven seafood processing aprons were observed to be heavily soiled, including some stored outside the facility. The aprons were not cleaned and sanitized before the next processing shift on April 29, 2025, as
+(b)(4)
+of the
+(b)(4)
+soiled aprons were used by employees during processing without being cleaned before use. RTE yellowfin tuna, RTE big eye tuna, and RTE fresh salmon products came into direct contact with these
+(b)(4)
+soiled aprons during processing.
+vi. On April 29, 2025, fresh, unpackaged RTE yellowfin tuna and RTE big eye tuna products passed through and were in direct contact of soiled curtains into the Processing Room, which was previously touched by two employees who touched the ground without washing hands and changing gloves.
+L. monocytogenes
+was found on curtains in the staging area leading into the Processing Room (Sample 1278716, subs #
+(b)(4)
+and #
+(b)(4)
+).
+vii. On April 29–30, 2025, boxes and lids used for packing RTE salmon were stored directly on the floor in the Staging Area, which was observed flooded with dirty water and located near a drain that tested positive for
+L. monocytogenes
+(Sample 1278716, sub #68). These polystyrene boxes and lids were rinsed off with water from a hose, then carried through the soiled Processing Room curtains, which tested positive for
+L. monocytogenes
+(Sample 1278716, subs #
+(b)(4)
+and #
+(b)(4)
+), and then used to pack RTE fresh salmon products without any additional cleaning and sanitizing.
+viii. On April 28–30, 2025, the walls and ceilings of the Processing Room and condenser unit #3 had an accumulation of black, gray, and brown filth, including material with the appearance of dried fish residue and mold, in areas where RTE seafood products are processed directly beneath and exposed to the environmen
+t.
+C. You did not prevent drip condensate from fixtures, ducts and pipes from contaminating food, food-contact surfaces, or food-packaging materials, as required by 21 CFR 117.20(b)(4). This is related to the protection of food, food packaging material, and food contact surfaces from adulteration with condensate, as required by 21 CFR 123.11(b)(5). Specifically:
+i. On April 29 and 30, 2025, condensation from condenser unit #
+(b)(4)
+in Cooler
+(b)(4)
+was dripping onto boxes of RTE seafood products, including RTE fresh salmon product cases. Additionally, condensation was dripping directly onto RTE yellowfin tuna loins that were wrapped in plastic and stored on a four-level metal rack that was transported from Cooler
+(b)(4)
+into Cooler
+(b)(4)
+. Additionally, on April 30, 2025, while the same four-level metal rack was staged below the condenser, condensation was dripping onto the rack and in direct contact with partially wrapped RTE yellowfin tuna loins.
+ii. On April 28 and 30, 2025, condenser unit #
+(b)(4)
+was dripping onto additional RTE seafood product boxes in Cooler
+(b)(4)
+. On April 29, 2025, there was accumulated condensation on top of a box of RTE yellowfin tuna product. When the box was moved from Cooler
+(b)(4)
+to the Staging Area, an employee opened the box lid and the pooled condensate water on the lid splashed onto another box of exposed RTE yellowfin tuna. Furthermore, on April 28, 2025, condenser unit #
+(b)(4)
+had a broken and leaking outflow pipe located approximately
+(b)(4)
+feet from boxes of RTE seafood products, which was dripping onto the wall and floor of Cooler
+(b)(4)
+You explained to the FDA investigator that the condensers in Cooler
+(b)(4)
+had been dripping for approximately
+(b)(4)
+months. You indicated that you had been waiting for parts for the condenser units.
+Additionally, your sanitation monitoring records do not accurately reflect the conditions in the facility as evidenced by your “Sanitation Standard Operating Procedures (SSOP) Monitoring Record” for “GENERAL SANITATION – Daily,” between April 28–30, 2025, where the conditions described above were marked with an “s” for being satisfactory.
+2. You must implement the monitoring procedures and frequency that you have listed in your HACCP Plan, to comply with 21 CFR 123.6(b) and (c)(4). Specifically:
+A. For your HACCP Plan, “
+(b)(4)
+,” revised October 20, 2023, for yellowfin tuna and big eye tuna products:
+i. Your firm did not follow the monitoring procedures for “
+(b)(4)
+CCP #
+(b)(4)
+” which includes visual observation of adequacy of ice or gel packs present, verifying the internal temperature of one fish in
+(b)(4)
+% of shipping containers but not fewer than
+(b)(4)
+containers (or all containers if lot has less than
+(b)(4)
+containers) received, and digital time and temperatures of data loggers for transit periods over
+(b)(4)
+hours to control Scombrotoxin Formation and Pathogen Growth. Your “
+(b)(4)
+” logs do not show you are recording the adequacy of ice or gel packs for “Scombroid Species” and are only recording the internal temperature of one fish per shipment. Furthermore, you are not documenting a representative number of containers that were inspected. Your firm did not complete the “
+(b)(4)
+” for “Yellowfin Tuna” received on April 28, 2025, and processed on April 29, 2025. Also, adequate data logger records are not maintained to show your seafood products were continuously monitored during transits over
+(b)(4)
+hours.
+ii. Your firm did not follow the monitoring procedures for “
+(b)(4)
+” of daily cooler temperature checks on normal working days and daily review of data logger at the next day of business for the time no one was at the facility. Your firm did not record temperatures for “Cooler
+(b)(4)
+” or meeting of critical limit for “
+(b)(4)
+” on your “
+(b)(4)
+” reviewed for December 30, 2024, through April 29, 2025. The “
+(b)(4)
+” had already been completed for April 30, 2025, through May 3, 2025, which were collected by FDA on April 29, 2025. Additionally, your HACCP Plan does not include a daily check of your data logger to ensure the storage temperature did not exceed
+(b)(4)
+°F, as stated in your critical limit.
+B. For your HACCP plan, “
+(b)(4)
+,” revised January 6, 2025, for fresh salmon products:
+i. Your firm did not follow the monitoring procedures for “
+(b)(4)
+” which includes verifying the internal temperature of one fish in
+(b)(4)
+% of shipping containers but not fewer than
+(b)(4)
+containers (or all containers if lot has less than
+(b)(4)
+containers) received and digital time and temperatures of data loggers for transit periods over
+(b)(4)
+hours to control Pathogen Growth and toxin formation. Your “
+(b)(4)
+” logs show you are only recording the internal temperature of
+(b)(4)
+fish per shipment and are not documenting a representative number of containers that were inspected. Also, adequate data logger records are not maintained to show your seafood products were continuously monitored during transit periods over
+(b)(4)
+hours.
+ii. Your firm did not follow the monitoring procedures for “
+(b)(4)
+” of daily cooler temperature checks on normal working days and “
+(b)(4)
+.” Your firm did not record temperatures for “Cooler
+(b)(4)
+” on your “
+(b)(4)
+” reviewed for December 30, 2024, through April 29, 2025. The “
+(b)(4)
+” had already been completed for April 30, 2025, through May 3, 2025, which were collected by FDA on April 29, 2025. Additionally, your HACCP Plan does not include a daily check of your data logger to ensure the storage temperature did not exceed
+(b)(4)
+°F, as stated in the critical limit.
+Additionally, you stated that your firm uses the “
+(b)(4)
+” to monitor fish temperature and processing room temperatures during processing of your fish products. For instance, your HACCP Plan for “
+(b)(4)
+”, “
+(b)(4)
+” step, “
+(b)(4)
+”, indicates your “
+(b)(4)
+” will be used to monitor “
+(b)(4)
+.” You did not complete the “
+(b)(4)
+” form during the processing of your fish products on April 23-26, 2025.
+3. You must have a HACCP plan that, at a minimum, lists the critical limits that must be met, to comply with 21 CFR 123.6(c)(3). A critical limit is defined in 21 CFR 123.3(c) as "the maximum or minimum value to which a physical, biological, or chemical parameter must be controlled at a critical control point to prevent, eliminate, or reduce to an acceptable level the occurrence of the identified food safety hazard." However, your firm’s HACCP plan for “
+(b)(4)
+,” revised January 7, 2025, lists a critical limit of
+(b)(4)
+°F, which, at the “
+(b)(4)
+” and “
+(b)(4)
+” critical control points, is not adequate to control
+Clostridium botulinum
+growth and toxin formation. Your HACCP plan states
+(b)(4)
+. Your receiving and finished product storage critical limits should ensure that these products are maintained below 38°F (3.3°C) throughout transit and stored below 38°F (3.3°C).
+4. You must verify that your HACCP plan is adequate to control food safety hazards that are reasonably likely to occur, and the plan is being effectively implemented. However, your firm did not review consumer complaints to determine whether they relate to the performance of critical control points or reveal the existence of unidentified critical control points to comply with 21 CFR 123.8(a)(2)(i). Additionally, when a deviation occurs, you are to ensure no product enters commerce that is either injurious to health or is otherwise adulterated and correct the cause of the deviation to comply with 21 CFR 123.7(b). During the inspection, you explained your “
+(b)(4)
+” log is also your log of complaints. During a review of your “
+(b)(4)
+” log, it was observed that between January 2, 2025 and April 29, 2025, you documented
+(b)(4)
+consumer complaints about your fish products which included
+(b)(4)
+complaints for tuna with returns related to bad quality, color changes, and brown color, but you did not document any corrective actions such as a food safety evaluation or the disposition of the product. Further, you explained that some products may be re-sold. For example, the complaints about your tuna indicate
+(b)(4)
+.
+We evaluated your May 16 and 28, 2025 responses, which included a repair estimate, and you explained that you
+(b)(4)
+. You also stated that you
+(b)(4)
+.” You further explained that on May 22, 2025, you were
+(b)(4)
+.”
+We acknowledge that after Southern Nevada Health District (SNHD) issued a cease-and-desist order on May 16, 2025, they conducted a follow-up inspection on May 22, 2025. According to the SNHD report, your facility made major construction repairs, and you conducted
+Listeria
+swabbing on all cutting boards, all prep tables, processing room wall, hand wash sink, 3-compartment sink, processing room drains and electrical switches, and warehouse areas including curtains and storage shelves. The report indicated that all test results were negative. As a result of their inspection, SNHD approved your facility to reopen.
+While we acknowledge you were approved to reopen your facility by SNHD, based on the information you have provided, FDA is unable to evaluate if you are adequately controlling
+L. monocytogenes
+and if you are monitoring the sanitary conditions and practices in your facility. We continue to be concerned about your ability to maintain a sanitary environment, as you did not provide supporting documentation to demonstrate how you plan to prevent future reoccurrence of
+Listeria
+contamination including
+L.
+monocytogenes
+, and how you will ensure a sanitary environment is maintained. We recommend you consider taking additional actions, such as developing an environmental monitoring procedure, root cause analysis to determine the cause(s) of the
+Listeria
+findings and providing analytical results for environmental sample testing. We also recommend that you provide us with a copy of records of the cleaning and sanitizing of the facility with details on the procedures used (including the chemicals and method used, by whom, and when), a new cleaning and sanitizing procedure, standard sanitation operating procedures (SSOPs) and monitoring logs to demonstrate implementation of the SSOPs, and employee training records. Additionally, your response did not include a revised HACCP plan and critical control point monitoring records.
+The violations cited in this letter are not intended to be an all-inclusive list of the violations that exist at your facility or in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including applicable FDA regulations.
+This letter notifies you of our concerns and provides you an opportunity to address them. Failure to adequately address this matter may result in legal action including, without limitation, seizure, injunction, or administrative action for suspension of food facility registration if criteria and conditions warrant.
+Please notify FDA in writing within fifteen (15) working days of receipt of this letter, of the specific steps and corrections you have taken to address any violations. Include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. If you cannot complete corrective actions within fifteen (15) working days, state the reason for the delay and the time within which you will do so. If you believe that your products are not in violation of the Act, include your reasoning and any supporting information for our consideration.
+Please send your reply to the Food and Drug Administration, Attention: Sheena Phillips, Compliance Officer, via email at Sheena.Phillips@fda.hhs.gov.If you have any questions regarding this letter, you may contact Sheena Phillips, Compliance Officer, via email at Sheena.Phillips@fda.hhs.gov. Please reference CMS # 715844 on any submissions and within the subject line of any email correspondence to the agency.
+Sincerely,
+/S/
+Maria S. Knirk, JD, MBA
+Acting Director, Office of Enforcement
+Office of Compliance and Enforcement
+Human Foods Program
+Food and Drug Administration

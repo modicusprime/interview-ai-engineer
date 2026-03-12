@@ -1,0 +1,281 @@
+COMPANY: Cosmetic Manufacturers Pty Ltd.
+DATE: 02/06/2026
+SUBJECT: CGMP/Finished Pharmaceuticals/Adulterated
+ISSUING_OFFICE: Center for Drug Evaluation and Research (CDER)
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/cosmetic-manufacturers-pty-ltd-719225-02062026
+============================================================
+
+Delivery Method:
+VIA EMAIL WITH READ RECEIPT
+Reference #:
+320-26-43
+Product:
+Drugs
+Recipient:
+Recipient Name
+Mr. Valentine P. Fittler
+Recipient Title
+CEO & Managing Director
+Cosmetic Manufacturers Pty Ltd.
+PO Box 5767
+Queensland Mail Centre
+Bundall
+QLD
+9726
+Australia
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+Warning Letter
+320-26-43
+February 6, 2026
+Dear Mr. Fittler:
+The United States Food and Drug Administration (FDA) inspected your drug manufacturing facility, Cosmetic Manufacturers (Aust) Pty Ltd., FEI 3007187387, at 14 Kingston Drive, Helensvale, Queensland, from March 31 to April 8, 2025.
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+We reviewed your April 23, 2025, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+You did not ensure drug products manufactured at your facility were evaluated for all critical quality attributes. You did not test
+(b)(4)
+drug products for identity and strength of the active ingredient
+(b)(4)
+, and particulate and foreign matter. Additionally, you did not evaluate the preservative content of
+(b)(4)
+drug product.
+Your response is inadequate. We acknowledge your commitment to validate an analytical test method for
+(b)(4)
+assay and to implement
+(b)(4)
+assay testing for future batch release and retrospective testing of reserve samples of
+(b)(4)
+drug products. However, you do not commit to reevaluate your batch release criteria to identify all critical quality attributes and establish appropriate batch release criteria.
+In response to this letter provide:
+A comprehensive assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+An updated list of chemical and microbial specifications, including test methods, used to analyze each batch of your drug products before a batch disposition decision. Include:
+o A detailed description of how you will ensure drug products manufactured for distribution to the United States are held to suitable batch release criteria. Include any references to sources of information (e.g., specific qualified consultants and published materials including the United States Pharmacopeia).
+o Scientific justification for each chemical and microbial specification.
+An action plan and timelines for conducting full chemical and microbiological testing of reserve samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+A summary of all results obtained from testing reserve samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+2. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+(b)(4)
+is used in the formulation of your
+(b)(4)
+products and cleaning of production equipment. Your testing and specifications of your
+(b)(4)
+are inadequate. You did not test samples of
+(b)(4)
+for all significant quality attributes, including
+(b)(4)
+. You also have not established suitability of test methods, including evaluating whether your drug product formulations intrinsically inhibit microbiological growth during bioburden testing.
+Your response is inadequate. We acknowledge your commitment to implement
+(b)(4)
+testing of
+(b)(4)
+samples. However, in your response to this violation and several others you noted that the basis of your procedures is to comply with local regulatory requirement(s) despite manufacturing drug products intended for distribution to the United States. It is incumbent upon your firm to ensure it complies with all applicable U.S. statutory and regulatory requirements prior to distributing drug products to the U.S. market.
+You also commit to revalidate your
+(b)(4)
+system over a period of
+(b)(4)
+and determine whether you need to adjust your routine sampling schedule based on the results. You currently test the
+(b)(4)
+loop
+(b)(4)
+. You do not provide scientific justification for limiting the validation of your
+(b)(4)
+system to a
+(b)(4)
+period or for your sampling schedules for the
+(b)(4)
+loop
+(b)(4)
+.
+We acknowledge your commitment to conduct “bioburden suitability studies” on bulk samples to assess any potential growth inhibition of the drug products. However, you do not explain how these studies will be performed, nor do you commit to provide this information to FDA in a future response.
+Appropriate bioburden controls must be implemented to provide assurance that your subsequent terminal sterilization processes will be successful.
+In response to this letter provide:
+A comprehensive assessment of all component and product specifications and limits associated with the manufacture of drugs for the U.S. market to identify and correct those that do not align with U.S. requirements.
+A procedure for your
+(b)(4)
+system monitoring that specifies routine microbial testing of
+(b)(4)
+to ensure its acceptability for use in each batch of drug products produced by your firm.
+The current action/alert limits for total counts and objectionable organisms used for your
+(b)(4)
+system.
+A procedure governing your program for ongoing control and monitoring that ensures the system consistently produces
+(b)(4)
+that meets
+(b)(4)
+, USP monograph specifications and appropriate microbial limits.
+The protocol, sampling method(s), and test method(s) used to assess potential growth inhibition of drug products you manufacture for distribution to the United States.
+The protocol and executed protocol report supporting the detectability of
+Burkholderia cepacia
+using your existing test method for detection of Pseudomonads.
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+Your manufacturing process validation was inadequate for
+(b)(4)
+bulk solutions. Your sampling methodologies lacked scientific justification, and you did not you test for the concentration of active ingredient
+(b)(4)
+in each product. Your manufacturing process validation for
+(b)(4)
+bulk solution relied on samples taken from the
+(b)(4)
+of a
+(b)(4)
+vessel that were analyzed for
+(b)(4)
+content. Your manufacturing process validation for
+(b)(4)
+bulk solution relied on samples taken from the
+(b)(4)
+of a
+(b)(4)
+vessel that were analyzed for appearance and
+(b)(4)
+content. The
+(b)(4)
+bulk solutions are
+(b)(4)
+and may be challenging to achieve uniform distribution of the ingredients due to their composition of approximately
+(b)(4)
+%
+(b)(4)
+, respectively.
+Our review of the 2023 manufacturing process validation report for the
+(b)(4)
+bulk solution also revealed it failed to meet the pre-established
+(b)(4)
+content percent coefficient of variation criterion of
+(b)(4)
+% with a calculated value of
+(b)(4)
+%. The validation report states, “For the purposes of this validation exercise, this result will be accepted, and no further action is required.”
+Our review of documents collected during the inspection also revealed you do not ensure
+(b)(4)
+drugs are manufactured in areas with adequate environmental controls. For example, your procedure governing environmental monitoring identifies your action level for passive air monitoring as
+(b)(4)
+colony forming units/plate following a
+(b)(4)
+exposure in manufacturing areas. If the product exposure poses substantial hazard (e.g., filling operation in which containers are
+(b)(4)
+or are exposed for more than a
+(b)(4)
+before closing), then the product should be filled in grade A with at least a grade C background. Otherwise, grade B or C air classifications may be appropriate for filling prior to terminal sterilization. Appropriate microbial levels should be established for these zones. In addition, the filling and closing operation should be adequately separated from the surrounding room environment, and it should be conducted under extensive HEPA filter coverage.
+Your response is inadequate. You commit to draft and execute a revised
+(b)(4)
+validation protocol for each of the drug products you manufacture for the U.S. market. You do not include justification for the methodology of sampling from the “
+(b)(4)
+” versus other sampling methods that provide a more scientifically sound approach. You commit to hire a third-party expert to train the head of your quality organization on validation principles. However, you do not commit to provide documentation supporting how this training will equip your quality organization with the knowledge necessary to ensure validation activities are aligned with U.S. regulatory requirements.
+In response to this letter provide:
+A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation, including active ingredient concentration, to ensure a continuing state of control.
+A timeline for performing appropriate process performance qualification for each of your marketed drug products. Also provide a risk assessment and any follow up actions to be taken for the distributed drug products produced without prior performance of any process validation studies.
+Process performance protocol(s) and written procedures for qualification of equipment and facilities. If not explicitly stated in the process performance protocols, include an explanation for each process control parameter and acceptance criterion.
+A detailed program for designing, validating, maintaining, controlling, and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+An independent assessment of your environmental monitoring program including, but not limited to, establishing appropriate limits, sampling locations and frequencies, investigating deviations, and trend analysis, and a comprehensive CAPA plan.
+4. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+You have not demonstrated all equipment used to manufacture finished drug products is suitable for its intended use. You qualified the
+(b)(4)
+filler machine for the filling of
+(b)(4)
+in
+(b)(4)
+mL bottles following an inadequate product
+(b)(4)
+approach. For example, you filled
+(b)(4)
+mL of a
+(b)(4)
+product into
+(b)(4)
+bottles and
+(b)(4)
+mL of a
+(b)(4)
+product into
+(b)(4)
+bottles. The qualification documentation does not provide adequate scientific justification for this limited
+(b)(4)
+approach. It also does not explain how
+(b)(4)
+batch size products like
+(b)(4)
+, which has a theoretical batch size of
+(b)(4)
+bottles, fits within the
+(b)(4)
+approach. The
+(b)(4)
+filler machine also failed to meet the qualification criterion for fill weight percent coefficient of variation for the
+(b)(4)
+product filled in
+(b)(4)
+mL bottles.
+You have also not established whether your cleaning procedures consistently reduce chemical and microbiological residues to acceptable levels. The cleaning validation protocol was not designed to demonstrate reproducibility of the cleaning process. For example, the cleaning validation protocol required
+(b)(4)
+swab samples to be taken from different locations for each of the
+(b)(4)
+qualification runs. Your cleaning validation also did not adequately justify the decision to use a
+(b)(4)
+tank in lieu of the
+(b)(4)
+tank used to manufacture the
+(b)(4)
+drug products. For example, there is no discussion of the
+(b)(4)
+tanks’ material(s) of construction and interior features (e.g., drains, ports,
+(b)(4)
+).
+Your response is inadequate. You commit to requalify your
+(b)(4)
+filler machine using a “maximum batch size [of]
+(b)(4)
+” by approximately October 2026 but do not commit to reassess your protocol design (e.g.,
+(b)(4)
+approach) and acceptance criteria. Additionally, you do not commit to implement interim actions to ensure drug products manufactured on the machine meet their required quality attributes. You also commit to revise your written procedure for cleaning validation activities to verify the cleaning process will consistently render surfaces suitably clean. However, you do not commit to adequately justify your various
+(b)(4)
+methodologies and to revalidate your cleaning process.
+In response to this letter provide:
+Your plan for ensuring that each piece of equipment used to manufacture drug products is appropriately qualified for its purpose. Include a detailed explanation for each use of
+(b)(4)
+in lieu of evaluating different elements separately.
+Appropriate improvements to your cleaning validation program with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+o drugs with higher toxicities
+o drugs with higher drug potencies
+o drugs of lower solubility in their cleaning solvents
+o drugs with characteristics that make their residues difficult to clean
+o swabbing locations for areas that are most difficult to clean
+o maximum hold times before cleaning
+In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product. A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+The date by which your cleaning processes for drug manufacturing equipment will be validated.
+Interim controls to ensure equipment used to manufacture drug products is suitably clean.
+Responsibilities as a Contractor
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+You and your customer,
+(b)(4)
+, have a quality agreement regarding the manufacture of drug products. You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/contract-manufacturing-arrangements-drugs-quality-agreements-guidance-industry.
+Please note that FDA issued a Warning Letter to
+(b)(4)
+on
+(b)(4)
+. Additionally, the drug products
+(b)(4)
+were placed on Import Alert 66-41 on
+(b)(4)
+.
+Drug Production Ceased
+We acknowledge your commitment to cease production of all drugs at this facility for the U.S. market.
+If you plan to resume any manufacturing operations regulated under the FD&C Act, notify this office before resuming your drug manufacturing operations. You are responsible for resolving all deficiencies and systemic flaws to ensure your firm is capable of ongoing CGMP compliance. In your notification to the Agency, provide a summary of your remediations to demonstrate that you have appropriately completed all corrective action and preventive action (CAPA).
+Conclusion
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+FDA placed all drugs and drug products offered for import into the United States from your firm on Import Alert 66-40 on January 8, 2026.
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+Failure to address any violations may also result in the FDA continuing to refuse admission of articles manufactured at Cosmetic Manufacturers (Aust) Pty Ltd.,14 Kingston Drive, Helensvale, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3007187387 and ATTN: Jason F. Chancey.
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

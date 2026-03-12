@@ -1,0 +1,757 @@
+COMPANY: Diasol, Inc.
+DATE: 01/29/2026
+SUBJECT: Investigational Device Exemptions (IDE)/Premarket Approval Application (PMA)
+ISSUING_OFFICE: Center for Devices and Radiological Health
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/diasol-inc-719460-01292026
+============================================================
+
+Delivery Method:
+VIA Electronic Mail
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Monica F. Abeles
+Recipient Title
+Owner and President
+Diasol, Inc.
+310 S. 43rd Ave., Ste. B
+Phoenix
+,
+AZ
+85009
+United States
+(b)(6)@diasol.com
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+WARNING LETTER
+CMS #719460
+January 29, 2026
+Dear Ms. Abeles:
+During an inspection of your firm located in Phoenix, AZ from July 21, 2025, through August 19, 2025, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures disinfectants used to disinfect dialysate delivery systems and water purification systems used in hemodialysis (i.e. Diasol Bicarb, Diasol Concentrate, Diasol Additives, and CirtiSol Concentrate) for treatment of patients with renal failures or toxemic conditions. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or are intended to affect the structure or function of the body.
+Unapproved Device Violation
+Our inspection revealed that your solutions of Citric Acid in 50% and 20% concentrations indicated for use in the cleaning, decalcification, and heat disinfection of hemodialysis machines are adulterated under section 501(f)(1)(B) of the Act, 21 U.S.C. § 351(f)(1)(B), because your firm does not for these devices have an approved application for premarket approval (PMA) in effect pursuant to section 515(a) of the Act, 21 U.S.C. § 360e(a), or an approved application for an investigational device exemption (IDE) under section 520(g) of the Act, 21 U.S.C. § 360j(g). These devices are also misbranded under section 502(o) of the Act, 21 U.S.C. § 352(o), because your firm did not timely notify the agency of its intent to begin the introduction or delivery for introduction into interstate commerce for commercial distribution of the devices, as required by section 510(k) of the Act, 21 U.S.C. § 360(k). While you do have a clearance under section 510(k), K020231, for a Citric Acid product intended for use with sorbent regenerated dialysis to allow physicians to customize the dialysate to meet patients’ needs, that product is not intended for use in the disinfection of hemodialysis machines. Accordingly, you were required to submit a premarket notification (510(k)) for your solutions of Citric Acid in 50% and 20% concentrations indicated for use in the cleaning, decalcification, and heat disinfection of hemodialysis machines (see 21 CFR 807.81(a)(3)(ii)).
+For a device requiring premarket approval, the notification required by section 510(k) of the Act, 21 U.S.C. § 360(k), is deemed satisfied when a PMA is pending before the agency. [21 CFR 807.81(b)(1)(i)]. The kind of information that your firm needs to submit in order to obtain approval or clearance for the devices is described on the Internet at http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/default.htm. The FDA will evaluate the information that your firm submits and respond as appropriate.
+Quality System Regulation Violation(s)
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act (21 U.S.C. § 351(h)), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received your email responses dated September 10, 2025, October 8, 2025, and November 21, 2025, concerning our investigator’s observations noted on the Form FDA 483, List of Inspectional Observations (FDA 483) that was issued to your firm on August 19, 2025. We address the responses below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to adequately establish procedures for finished device acceptance, as required by 21 CFR § 820.80(d).
+Specifically, according to your procedure for Final Acceptance, SOP 80.001, Rev. 03, your firm did not adequately implement final testing activities. For example:
+A. Your firm claims compliance to following
+(b)(4)
+(currently
+(b)(4)
+). The standard requires all electrolytes identified on the label must be within
+(b)(4)
+of the labeled value, except sodium, which must be within
+(b)(4)
+, or
+(b)(4)
+, whichever is greater. However, the acceptability range in your DMR and Device History Records (DHRs) does not meet this requirement. For example:
+i. The acceptable range for formulations with 1K Potassium is
+(b)(4)
+mEq/L per the standard; however, your firm’s specified range for 1K Potassium is established at
+(b)(4)
+mEq/L, as documented in your DMR and DHRs. Nine (9) DHRs reviewed from March 2024 to July 2025 for dialysate acid concentrate products labeled as having
+(b)(4)
+mEq/L of Potassium showed that they were released with Potassium concentration results of
+(b)(4)
+mEq/L, which exceeds the acceptable range in
+(b)(4)
+standard of
+(b)(4)
+mEq/L.
+ii. According to
+(b)(4)
+standard, the minimum acceptable level of Calcium should be
+(b)(4)
+mEq/L; however, your firm’s acceptance criteria for formulations requires
+(b)(4)
+mEq/L of Calcium, set between
+(b)(4)
+mEq/L as documented in your DMR and DHRs. Out of 23 Device History Records (DHRs) reviewed from March 2024 to July 2025 for acid concentrate labeled as
+(b)(4)
+mEq/L of Calcium, 15 DHRs were released with Calcium results at
+(b)(4)
+mEq/L, which is below the allowed range established by the
+(b)(4)
+standard.
+B. Your firm’s In-Process and Final Batch Testing Procedure, WI 80.004, Rev. 3 and the procedure for Final Acceptance, SOP 80.001, Rev. 3, requires that Dextrose (Glucose) is tested on the
+(b)(4)
+container for each batch in accordance with the specifications in your Device History Records (DHRs). Your firm did not implement these procedures or its process for releasing finished products. Your firm released 4 out of 34 DHRs without Dextrose (Glucose) test results. Your firm began distributing three batches (Batch #’s 3170, 3168, and 3166) of the Diasol Acid Concentrates without Dextrose results on 7/14/2025; and one batch (Batch #DCS16) of the Dry Citrisol product without Dextrose result on 08/05/2025.
+Your response is inadequate. We understand that you entered into an agreement with
+(b)(4)
+to perform testing side-by-side with other labs such as
+(b)(4)
+and
+(b)(4)
+to determine the test result error for specific flagged batches, or to determine if it is your firm’s production error, with the electrolyte ranges not meeting the
+(b)(4)
+standard. Your firm should also recognize that your specification ranges are not compliant, instead of solely concentrating on determining if the laboratory testing method (
+(b)(4)
+method) is accurate. You should demonstrate that your specifications meet the relevant
+(b)(4)
+standard your firm has selected to follow and FDA requirements for their intended use. The lab-to-lab comparison studies should be reviewed in combination after updating your Device Master Records (DMRs) to comply with
+(b)(4)
+standard. Your firm should confirm which specific analytical methods the labs use to ensure adherence to the standard.
+Please provide documented evidence that your firm is committed to updating your DMRs to comply with the applicable standards. You should be specific in your Final Acceptance Procedure and DMR/DHRs that the electrolyte ranges are compliant. Your firm should not use the current non-compliant electrolyte ranges pending additional testing. Changing laboratories may not address the main problem that your specifications do not meet the required
+(b)(4)
+standard. All electrolyte ranges should reflect the requirements of the standard you have chosen to follow. Finally, all results for the batches noted in the FDA 483 for observation 1A, should be reviewed to conform with the
+(b)(4)
+standard.
+Furthermore, regarding observation 1B, we understand that you are performing glucose testing on retained samples from the affected lots and your procedures (WI 80.004 and SOP 80.001) have been updated to include QA review and signoff for glucose testing prior to release. Also, you have planned to conduct
+(b)(4)
+audits of DHRs and batch release documentation and conduct CAPA effectiveness review. Please provide evidence of these corrective actions. Your firm should provide justification demonstrating how weight verification substitutes for chemical testing requirements for glucose content or perform the required chemical testing. Without such written justification, your response is inadequate. Furthermore, you may need to reassess the risk analysis if you find that this testing substitution was inadequate for glucose content.
+2. Failure to adequately validate a process whose results cannot be fully verified by subsequent inspection and test according to established procedures, as required by 21 CFR § 820.75(a). Specifically,
+A. Your firm conducted a cleaning validation for the re-usable
+(b)(4)
+drums under Drum Cleaning Validation (Protocol #75.007, dated 09/04/2019). The reusable
+(b)(4)
+drums are cleaned with
+(b)(4)
+water using a
+(b)(4)
+prior to filling them with a new batch of acid concentrate after they are returned from your customers and stored in your warehouse for an undetermined amount of time. The cleaning validation and re-validation of the drums are inadequate. For example,
+i. The study did not demonstrate there are no chemical residues from the earlier batches to prevent cross contamination. These drums are used to package and distribute Diasol and Citrisol acid concentrates that are made with differing raw materials such as acetic acid and citric acid. Also, the study does not evaluate that the reusable drums can be re-used indefinitely considering the processes, reuse, storage and solvents used in these drums.
+ii. The Validation Report generated on 10/07/2019 was not accompanied by the raw data for drums
+(b)(4)
+to support the conclusion presented, and the data could not be provided upon investigator’s request.
+iii. Data for re-validation dated 10/09/2020 using
+(b)(4)
+drums showed conductivity and pH tests failed on all
+(b)(4)
+drums after wash. There was no documented deviation or evidence of an investigation of these failures.
+iv. Re-validation data of
+(b)(4)
+drums dated 07/19/2021 did not include total plate count results for microbiological testing on 4 of the
+(b)(4)
+drums after wash.
+Also, your firm’s Work Instruction, Drum Washing, WI 70.003, Rev. 2, requires re-validation of the washing method
+(b)(4)
+but no revalidation has been conducted since 2023.
+B. Your firm utilizes both a
+(b)(4)
+and a
+(b)(4)
+mixing tank to mix dialysate acid concentrates. The validation protocols and reports (#75.005 and #75.006) for the mixing process for
+(b)(4)
+tanks are inadequate. For example,
+i. The mixer speed is one of the six key parameters for homogeneity of the finished product, according to your mixing validation but neither the protocol nor the report specifies the mixing speed of the tank mixers.
+ii. Temperature is stated to affect mixing time in the batch production work instruction (WI 70.007, Batch Assembly, Rev. 2), and all lots produced for both validations show
+(b)(4)
+; however, there is no specified acceptable temperature range or assessment of the duration of mixing affects the quality of your product.
+iii. Sample sizes are not justified in multiple testing areas for your products while mixing. There is no rationale for the sample size and the method of collecting
+(b)(4)
+from the
+(b)(4)
+of the mixing tanks to determine homogeneity of the batch during this mixing validation. Currently, your firm collects three production samples from the
+(b)(4)
+, and
+(b)(4)
+to test the composition of the dialysate concentrate. However, the glucose level is
+(b)(4)
+. This practice of using
+(b)(4)
+production samples was not included in your mixing process validation to demonstrate your batch is uniform across all filled
+(b)(4)
+.
+iv. The reports state that longer mixing times does not affect the batch, but your firm did not provide adequate scientific rationale with supporting evidence for the maximum mixing time, or how you reached this conclusion.
+Additionally, the mixing validation for the
+(b)(4)
+tank confirmed the mixing process with a mixer and a recirculation pump; however, the mixer in the firm’s
+(b)(4)
+mixing tank has not been operational since around 2022, and since then, the batches have only been mixed using the recirculation pump system, but this new mixing process has not been validated.
+C. The
+(b)(4)
+, which was installed in your facility in
+(b)(4)
+to produce water for dialysate concentrate was not adequately validated. For example, your firm could not show that components were installed as per the piping and instrumentation diagram; that controls and alarms were configured correctly, and that critical process parameters and their operating ranges were properly established and controlled. Your firm could not provide a schematic showing how the components were installed and how the specifications for the operating parameters were determined.
+D. Your firm conducts total viable counts to monitor the microbiological quality of the
+(b)(4)
+water used to prepare dialysate concentrates, following the Microbiological Testing Procedure, WI 80.002, Rev. 5 using
+(b)(4)
+plate technique on
+(b)(4)
+plates incubated at
+(b)(4)
+for
+(b)(4)
+. However, in practice your firm has incubated
+(b)(4)
+plates for up to
+(b)(4)
+at temperatures up to
+(b)(4)
+. This test method has not been validated to confirm its effectiveness in recovering microorganisms from the
+(b)(4)
+water samples.
+The adequacy of your response cannot be determined at this time. We understand you developed a new drum cleaning validation protocol and report (SOP No. 75.007, Rev. 2).
+You also agreed to implement related procedures, perform retrospective review and CAPA for failed pH/conductivity tests and missing microbial data, conduct re-validation of cleaning process using newly installed
+(b)(4)
+, retrain employees on cleaning procedures, and schedule
+(b)(4)
+audits to ensure compliance with cleaning validation procedures. Please ensure that you have addressed any cross-contamination risks between Diasol and Dryasol (Acetic Acid), and Citrisol (Citric Acid) products for using reusable drums. Your firm claims that life span of the
+(b)(4)
+drums is between
+(b)(4)
+, but cleaning validation should still evaluate the effect on containers when deterioration is anticipated. There is no raw/historical data for drums
+(b)(4)
+to support the validation report generated on 10/7/2019, but your firm plans to implement SOPs for retention and traceability of raw validation data.
+Regarding observation 2B, your CAPA plan involves carrying out new mixing validation runs for each tank using the mixer and recirculating pump separately. Your firm is planning to conduct in-process and final acceptance testing on samples and assessing homogeneity by taking samples and conducting analytical tests (pH, conductivity, and concentration). Also, you’ve stated you plan to retrain QA and validation personnel on the revised documentation. Please ensure that you have documented the actual mixer speeds used when conducting the validation studies which appears to be the main issue with the process parameters (omitting the mixer speed in your previous validation report). The mixer speed is a critical parameter that directly impacts the homogeneity and consistency of dialysate acid concentrates. Your firm claims that temperature variation has minimal impact on your mixing process and that you have little control over
+(b)(4)
+water temperature
+(b)(4)
+. A lack of control over the water temperature does not eliminate validation requirements. Your firm should include acceptable ranges prior to executing your validation because temperature is a critical parameter among pH, conductivity, specific gravity, and mixing time. The adequacy of this response cannot be determined at this time.
+Regarding observation 2C, your firm committed to ensuring that all water purification systems meet expectations for validation, documentation, and control. Your response stated that the
+(b)(4)
+installation and setup followed the manufacturer’s guidelines and that all
+(b)(4)
+parameters and
+(b)(4)
+log were configured according to the manufacturer’s instruction for starting the
+(b)(4)
+water system. Your firm claims that these requirements and the drawing of
+(b)(4)
+components are adequate. The
+(b)(4)
+manufacturers guidelines do not substitute for formal validation protocols (IQ/OQ/PQ). You should demonstrate that the validation requirements are met, ensuring that the water system is suitable for your use and complies with the specifications, in addition to installation adhering to the manufacturer’s guidelines. Also, your
+(b)(4)
+water system has been in use since
+(b)(4)
+without proper validation which represents
+(b)(4)
+years of unvalidated operations. The adequacy of this response cannot be determined at this time since corrective actions are in progress.
+Regarding observation 2D, your firm’s CAPA plan is for all microbial testing of
+(b)(4)
+water to revert to the validated method outlined in your Microbial Testing (WI 80.002. Rev. 5) procedure. You stated a formal study will be conducted to assess the impact of the modified method, and that the validation will follow USP 61, USP 62, and
+(b)(4)
+guidelines. Also, your procedure will be revised if the modified method is successful and is validated. Your firm said that your incubators with temperature spike occurred because an air conditioner in the facility broke down causing the temperature to rise, and the QC operator did not know how to lower the temperature. The environmental explanations do not justify using unvalidated methods and you should have stopped testing until the conditions were corrected. Your firm claims that temperature spike was resolved “2 days later” and your firm purchased “
+(b)(4)
+new incubators” and will assess plates for impact. Your firm has not addressed why you continued to use the
+(b)(4)
+plates that were held outside labeled conditions or did not provide validation for the modified conditions. The adequacy of this response cannot be determined at this time as corrective actions are in progress.
+3. Failure to adequately establish process control procedures that describe any process controls necessary to ensure conformance to specifications, as required by 21 CFR § 820.70(a). Specifically,
+A. Your firm has not adequately implemented its procedure for Microbiological Testing, WI 80.002, Rev. 5. The microbiological sampling and testing of
+(b)(4)
+water, which is used to prepare the acid concentrate products, has not been adequately implemented due to the following conditions: For example,
+i. The exact location of the sampling port location for collecting the
+(b)(4)
+water and the identity of the person collecting samples are not documented. The
+(b)(4)
+water sample is taken from one of
+(b)(4)
+sampling ports.
+ii. The sampling port used on the
+(b)(4)
+water system does not represent actual point-of-use conditions where the water will be utilized in manufacturing.
+iii. Samples are collected using non-sterile containers, introducing potential contamination that could affect test results.
+iv. Samples are plated using non-sterile
+(b)(4)
+syringes that expired in June 2016.
+v. The incubator temperature for incubating the
+(b)(4)
+plates to measure the total microbial count of the
+(b)(4)
+water sample should be maintained between
+(b)(4)
+. On 07/21/2025 and 07/24/2025, the thermometer showed temperatures of 41°C and 42°C on 07/23/2025, respectively.
+vi.
+(b)(4)
+plates from
+(b)(4)
+samples are read on the
+(b)(4)
+, exceeding the required incubation at
+(b)(4)
+for
+(b)(4)
+.
+vii. The Laboratory Record-Culture Reading sheets do not include the start and end times for incubation, which makes it impossible to confirm that the minimum requirement of
+(b)(4)
+has been met.
+viii. The Laboratory Record-
+(b)(4)
+sheets reviewed for endotoxin tests lack the start and end times for incubation, which does not show compliance with the necessary incubation periods.
+B. The monitoring and disinfection of the
+(b)(4)
+is not being conducted appropriately per the
+(b)(4)
+and
+(b)(4)
+Instructions for use and Maintenance, WI 70.001, Rev. 2 For example, your procedure requires
+(b)(4)
+monitoring of specific parameters including pressures, flow rates, water quality measurements (TDS, pH, conductivity, hardness), and system performance metrics, whereas:
+i. The temperature, conductivity, pH, prefilter outlet pressure, and reject % of the
+(b)(4)
+water system currently used to manufacture the acid concentrate products is not being adequately monitored
+(b)(4)
+. A review of the
+(b)(4)
+for 2024 and 2025 found the pH and conductivity of the
+(b)(4)
+water has not been measured
+(b)(4)
+, the temperature is not a monitored parameter, the
+(b)(4)
+has not been documented as the gauge is broken, and the feed conductivity and Reject % has not been monitored since the
+(b)(4)
+water system panel has not worked since on or about 06/21/2022.
+ii. The disinfection process fails to include the complete
+(b)(4)
+water system. The pipes carrying
+(b)(4)
+water to mixing tanks and washing areas are not included in disinfection procedures, creating potential microbial contamination pathways that could compromise product quality.
+C. The temperature of the warehouse where finished product and raw materials are stored is not monitored adequately per your procedure, Facility Maintenance - Cleaning and Pest Control, WI 71.002, Rev. 2. For example,
+i. WI 71.002 specifies air conditioning settings of
+(b)(4)
+(summer) and
+(b)(4)
+(winter), but the Temperature Log (WI Form 71.002) allows an "Acceptable Range" of
+(b)(4)
+. There is no documented rationale, or testing to support storage of finished products at temperatures up to
+(b)(4)
+. Also, the USP grade raw material labels require that Potassium Chloride is kept in “dry and room temperature” storage conditions; Calcium Chloride require “cold, dry” storage conditions; and Citric Acid requires “dry, cool” storage conditions.
+ii. Warehouse humidity is not measured despite raw materials requiring dry storage conditions.
+iii. Per SOP 72.001, Rev. 1, calibrated thermometers are required for monitoring warehouse temperatures; however, uncalibrated thermometers are used in where raw materials are stored and dispensed in the warehouse without proper temperature control.
+iv. Temperature is only measured at one location outside the mixing area, but the facility is approximately
+(b)(4)
+square feet and has multiple designated storage areas for raw materials and finished products. The different storage areas have independent HVAC systems but lack individual monitoring.
+On 7/29/25, the investigators observed the thermometer in the warehouse showed 90°F, while the mixing room near the drum filling areas reached 98°F. The temperature in the warehouse, where the finished products are stored prior to loading trucks, is not monitored. It was also observed the bay door was open on most days during the inspection, with outside temperatures reaching over 100°F.
+The adequacy of your response cannot be determined at this time. Regarding observation 3A, we acknowledge that your firm initiated a CAPA plan to address microbiological testing procedures and
+(b)(4)
+water system standardization. These include revision of Microbiological Testing procedure (WI 80.002, Rev. 5) to require proper documentation of sampling ports, and implementation of standardized
+(b)(4)
+water system protocols. Your firm agreed to update your sampling location by transition from using the "farthest point" to identifying true point-of-use locations for
+(b)(4)
+water sampling. Your firm should demonstrate the requirements to validate new sampling locations to ensure they are truly representative of actual use points. You should also establish specifications that clean
+(b)(4)
+should be used when adding
+(b)(4)
+water samples to
+(b)(4)
+plates and ensure that sterile equipment is mandatory for contamination control principles and the use of expired syringes should not be allowed. Despite your equipment upgrades and procedural improvements, we recommend that while the immediate technical issues may be resolved, the root cause of the monitoring and detection failures has not been adequately addressed.
+Regarding observation 3B, your firm has committed to repairing the broken pressure gauge and restoring
+(b)(4)
+water system panel functionality. You stated that you have hired a third-party to conduct a comprehensive system audit to identify additional potential failures, along with employee retraining on updated SOPs and implementation of a preventive maintenance schedule. Please explain the 3-year delay in addressing the
+(b)(4)
+panel failure that has existed since 2022. There is no proper justification why
+(b)(4)
+monitoring of the
+(b)(4)
+water system was not maintained, identified, or corrected during the equipment failure period. Also, we understand that you have taken corrective actions to address disinfection protocols for your entire
+(b)(4)
+water system. Please revise your
+(b)(4)
+-004 to include a full system disinfection procedure, covering all piping, valves, and endpoints. Finally, you indicated that training will be provided to employees on updated procedures and implement a verification checklist to ensure all components are disinfected. Your response cannot be adequately determined without a follow-up inspection to verify the repairs you completed at your facility.
+Regarding observation 3C, your firm has implemented corrections to address the temperature in the warehouse where finished product and raw materials are stored. Please provide adequate evidence demonstrating proper relocation of temperature-sensitive materials to cooler conditions per USP requirements and any evaluation of the products left over that had been stored there. There is lack of justification for storage of temperature-sensitive raw materials requiring "cold, dry" or "cool, dry" conditions. The adequacy of this response cannot be determined at this time. Please provide supporting documents and detail the actions taken to resolve the improper storage of your products and raw materials, as well as documentation demonstrating actions you have taken to address the temperature and humidity issues.
+4. Failure to appropriately design, construct, and install equipment used in the manufacturing process to facilitate maintenance, adjustment, cleaning, and use, as required by 21 CFR § 820.70(g). Specifically,
+The following conditions of your production equipment were observed throughout the inspection. For example,
+A.
+(b)(4)
+water system
+(b)(4)
+is used to manufacture the Diasol products, and Citrisol Acid Concentrates, and Citric Acid. The inspection found deficiencies including:
+i. Water leaking from
+(b)(4)
+housing and hoses, creating potential contamination risks.
+ii. The
+(b)(4)
+water system control panel is inoperable eliminating the ability to monitor critical water quality parameters (conductivity, reject percentage)
+iii. 12-inch dead leg in water piping to mixing tanks and drum washing area can harbor microbial growth.
+iv. Missing the
+(b)(4)
+pressure gauge needle, bent and inoperable pump feed pressure gauge, and uncalibrated gauges and flowmeters throughout the system.
+B. The mixing and drum filling area deficiencies include:
+i. Leaking pipefitting at base of
+(b)(4)
+tank in the filling line for dialysate acid concentrates.
+ii. Inoperable motor for
+(b)(4)
+tank mixing blades, forcing reliance solely on recirculating pump for mixing.
+iii. Drum filling hose observed touching the floor during operations.
+iv. Both electrical control panels are inoperable including flow meter displays for both
+(b)(4)
+and
+(b)(4)
+tanks.
+C. It was observed that the conditions of the equipment in the drum washing area raised contamination concerns. The drums are cleaned with
+(b)(4)
+water using a
+(b)(4)
+before they are used, and the caps are cleaned by placing them in a bucket filled with
+(b)(4)
+water before use. For example:
+i. Hoses and
+(b)(4)
+hose are stored inside water-filled bucket creating potential for microbial growth and cross-contamination.
+ii. Washing hoses observed touching the floor are compromising cleanliness of equipment used for container preparation.
+The adequacy of your response cannot be determined at this time. Your firm acknowledged several equipment deficiencies related to improper design, maintenance, and installation that hindered effective cleaning, adjustment, and operation. You stated for observation 4A and 4B that all leaking components are being replaced with
+(b)(4)
+housing, hoses inspected, and replacement parts requested from your supplier.
+The damaged gauges have been replaced with new units and a 12-inch dead leg will be removed and piping reconfigured to eliminate stagnant water zones. In addition, your firm plans to conduct
+(b)(4)
+PM checks, and employees will receive retraining on equipment inspection and reporting protocols. Your procedures will be revised to include
+(b)(4)
+water system monitoring and maintenance procedures. Your firm indicated there is difficulty locating replacement boards for the
+(b)(4)
+panel and plans to continue
+(b)(4)
+readings.
+However, you have not addressed a timeline for obtaining replacement
+(b)(4)
+panel board versus indefinite
+(b)(4)
+operation. It is unclear what is your current method for monitoring conductivity and reject percentage if the
+(b)(4)
+water system remains operational. We cannot verify the calibration status of your newly installed gauges and flowmeters at your facility. Please provide supporting documents to verify that the actions mentioned above have been implemented, along with the timeline, the method used to monitor the water quality parameters, and the calibration status of your new measuring equipment.
+Additionally, your responses indicate that equipment issues and corrective actions will also address pipe fitting at the base of the
+(b)(4)
+tank which was replaced and pressure tested. The hose holders were installed to prevent floor contact, and SOPs were updated to include hose sanitation protocols. Your firm stated the mixing motor requires replacement and validation, but currently mixing is performed using a
+(b)(4)
+with
+(b)(4)
+testing of each batch to ensure homogeneity. The electrical systems are under repair requiring
+(b)(4)
+filling operations. Some of the concerns we have with your corrective actions is that you have no plan to repair or replace critical monitoring equipment, claiming it's unnecessary. There is no specific timeline given for replacing critical equipment such as the
+(b)(4)
+tank motor. Additionally, we have concerns about the temporary
+(b)(4)
+mixing method, including how
+(b)(4)
+testing guarantees batch homogeneity without proper validation protocols. The adequacy of your response cannot be determined at this time. Please address our concerns stated above and provide supporting documentations to verify the adequacy of your corrective actions.
+Regarding observation 4C, your firm stated that all hoses were removed from water buckets to eliminate improper storage. The wall-mounted hose hangers were installed with drip trays beneath to prevent water pooling. Sanitation procedures were revised to include instructions prohibiting hose submersion, with visual aids and diagrams for proper storage. You state employee training will be conducted, and
+(b)(4)
+sanitation checks will now include hose storage verification. Per your firm’s Work Instruction #70.003,
+(b)(4)
+water buckets they are now designated solely for soaking drum caps (maximum
+(b)(4)
+), with water changed every
+(b)(4)
+. Your firm claims hoses were removed from water buckets but then describes continued use of
+(b)(4)
+water buckets for drum cap soaking for up to
+(b)(4)
+. Your corrective actions focus on hose hangers but fails to adequately address the fundamental contamination risks associated with improper hose storage. No detailed assessment was provided regarding duration of improper hose storage, potential impact on product quality, products already released using this practice, and your current actions to effectively eliminate contamination risks.
+The adequacy of your response cannot be determined at this time. Please address our concerns stated above and provide supporting documentations to verify the adequacy of your corrective actions.
+5. Failure to suitably design buildings to perform necessary operations, as required by 21 CFR § 820.70(f).
+Specifically, the following conditions were observed at your facility.
+A. The floors in mixing, gallon filling, and washing areas show erosion and pitting that creates areas where water can accumulate.
+B. The washing area wall where drums are cleaned shows multiple problems including moisture damage, structural deterioration, and apparent mold growth on tiles.
+C. Two doors were improperly secured - the wash area exterior door was not fully closed and the warehouse bay door (where finished product is stored) remained open during operations.
+Your response for observation 5A and 5B is inadequate. Your firm proposed corrective and preventative actions to address the inadequate conditions of your facility. However, we are concerned that your firm plans to use the same chemical-resistant epoxy polyurethane solution that has already failed multiple times since 2019. There is no mention of concrete repair or proposed surface preparation before recoating. The salt erosion from your products may continue damaging the concrete substrate of your facility and purchased repair products have not been evaluated to determine adherence to existing damaged concrete. There are no established procedures for addressing the black mold-like substance or underlying moisture problems and no proposed ventilation improvements or containment systems to prevent future damage.
+In addition, please evaluate the impact of open doors at your facility on environmental controls, specifically how door breaches affect temperature, humidity, and contamination control in the manufacturing environment. This may have broader implications on your firm’s manufacturing processes and product quality. The adequacy of your response for observation 5C cannot be determined at this time.
+6. Failure to adequately establish procedures to control product that does not conform to specified requirements, as required by 21 CFR § 820.90(a). Specifically,
+Your firm did not adequately implement procedures for Nonconforming Product, SOP 90.001, Rev. 5, and Final Acceptance, SOP 80.001, Rev. 3. For example:
+A. You did not initiate Product Nonconforming Reports (PNCRs) when chemical laboratory out-of-specification (OOS) test results failed to meet specifications during final acceptance testing or investigate the root causes of these failures. For example,
+i. Diasol acid concentrate Batch
+(b)(4)
+(Lot
+(b)(4)
+) failed specifications for both Dextrose (92 mg/dL compared to allowable range
+(b)(4)
+mg/dL) and Calcium (2.30 mEq/L compared to allowable range
+(b)(4)
+mEq/L) tested on 6/28/2025.
+ii. Citrisol acid concentrate Batch
+(b)(4)
+(Lot
+(b)(4)
+) failed Dextrose specification (92 mg/dL compared to allowable range
+(b)(4)
+mg/dL) on 6/28/25.
+iii. Diasol acid concentrate Batch
+(b)(4)
+(Lot
+(b)(4)
+) failed Magnesium specification (1.15 mEq/L compared to allowable range
+(b)(4)
+mEq/L) on 5/27/25.
+In all cases, your firm said new samples were submitted for re-testing and re-tests eventually passed. However, your original failed results were excluded from the DHR and no PNCRs were initiated to investigate the causes of the failures. Furthermore, the investigation revealed 22 samples requiring re-testing due to OOS results between April 1, 2025, and July 25, 2025, with no corresponding PNCRs documented.
+B. Your firm’s procedure for Microbiological Testing on
+(b)(4)
+water samples, WI 80.002, Rev. 5 establishes an action level of
+(b)(4)
+colonies (
+(b)(4)
+CFU/mL) and a limit of
+(b)(4)
+colonies (equivalent to
+(b)(4)
+CFU/mL) and requires nonconformance report initiation when the action levels are exceeded. For example:
+i. On 6/18/25, microbiological test showed 6 CFU/0.1mL (exceeding the 5 CFU action level) for Diasol acid concentrate batch #3153 (Lot #PHV06191). However, the batch was produced before microbiological results were obtained and before the
+(b)(4)
+system disinfection. There was no Product Nonconformity Report initiated to determine the need to investigate the cause of the failure.
+ii. On 4/28/25, microbiological test showed that action level of
+(b)(4)
+CFU/0.1mL was exceeded where the original test results were not documented. The sample was inappropriately re-tested multiple times using frozen/thawed samples on 04/28/2025 and 05/02/2025. The three batches (
+(b)(4)
+- Lot
+(b)(4)
+,
+(b)(4)
+- Lot
+(b)(4)
+, and
+(b)(4)
+– Lot
+(b)(4)
+) were manufactured on
+(b)(4)
+and
+(b)(4)
+before obtaining the action level test results and before the
+(b)(4)
+system disinfection. There was no Product Nonconformity Report initiated to determine the need to investigate the cause of the failure.
+C. The firm’s procedure for
+(b)(4)
+testing is done by testing each completed batch for endotoxins using the
+(b)(4)
+test
+(b)(4)
+and
+(b)(4)
+water is tested for endotoxins
+(b)(4)
+a week. Your firm did not document invalid test results appropriately obtained on 07/10/2025 with
+(b)(4)
+, package
+(b)(4)
+(Exp. Date 08/30/2027), to determine whether investigation of the invalid result was necessary. The same lot of the unevaluated
+(b)(4)
+that led to invalid results has been used for
+(b)(4)
+product batches and
+(b)(4)
+water samples.
+D. Nonconformance report investigations, disposition, and corrective actions were inadequate for the following nonconformity product reports:
+i. Product Nonconformity Report #105 was initiated on 6/20/24 for Acetic Acid Glacial (Lot
+(b)(4)
+) contaminated with bleach affecting multiple batches of the dialysate acid concentrates. The investigation failed to document how bleach contamination occurred. Your firm received
+(b)(4)
+totes but only investigated
+(b)(4)
+tote and
+(b)(4)
+additional batches were manufactured using remaining
+(b)(4)
+totes without verifying they were contamination-free. The preventative actions lacked implementation details for improved raw material controls.
+ii. Product Nonconformity Report #99 was initiated on 2/12/24 for calcium concentration 8% below acceptable range for Batch
+(b)(4)
+. The investigation was incomplete such that it failed to address concurrent low glucose and sodium chloride concentrations identified in the same laboratory reports. There was inadequate root cause analysis for multiple component failures.
+iii. Product Nonconformity Report #102 was initiated on 6/30/25 for low calcium test results for Batch
+(b)(4)
+(Lot
+(b)(4)
+). The report identified a procedural issue with drum
+(b)(4)
+when adding
+(b)(4)
+chemicals to
+(b)(4)
+drums. You found that
+(b)(4)
+with multiple raw materials at once causes displacement and affects test results. Your firm failed to update the associated procedure (
+(b)(4)
+, WI 70.008, Rev. 1) to prevent recurrence, and inadequate corrective action was implemented.
+iv. Product Nonconformity Report #104 was initiated on 7/3/25 for Batches (#3170 – Lot #PHV07031, #3168 – Lot #PHV07021, and #3166 – Lot #PHV07011) missing dextrose test results. There is insufficient evidence to support investigation conclusion that contract laboratory equipment was out of service. PNR#104 indicated that the contract lab did not test the samples because the equipment was out of service. The investigators confirmed this claim, but your firm provided incorrect information. Later, your firm admitted you did not reach out to the contract laboratory to find out why the dextrose testing was not performed for the three batches. Your firm released batches without required glucose testing based on unsupported patient safety claims. The investigation lacked risk analysis to justify release without complete testing data.
+The adequacy of your response cannot be determined at this time. Regarding observation 6A, your firm’s immediate actions are to address the proper handling of OOS test results for the batches by initiating PNCRs or investigate root causes of failures during final acceptance testing. You stated your NCR procedures will be updated, along with managing of DHR documentation, and OOS handling protocols will be implemented. Despite your firm’s historical promises of conducting retrospective PNCRs, there is no evidence of completion, and no corrective actions have been initiated for batches
+(b)(4)
+and
+(b)(4)
+, which also had OOS results requiring documentation and root cause assessment.
+Regarding observation 6B, your firm indicated that a positive microbial result was attributed to cross-contamination by a new QC employee whose sleeve touched the sample during testing. The
+(b)(4)
+water system was disinfected on 6/18, and the water used for batch #3153 reportedly passed quality acceptance after disinfection. Your firm claims no production occurred between 6/16-6/19, however batch #3153 was produced on 6/19 using water from the
+(b)(4)
+water system that had not been properly disinfected. Your CAPA plan is to establish deviation documentations, conduct retrospective reviews of batches, perform microbial re-testing of retained
+(b)(4)
+water samples, and update procedures to include excursion handling and sample integrity. Your firm claimed that results were "false positive" due to employee error without providing adequate scientific justification. However, there is a contradiction in the timeline: your firm stated no production occurred between 6/16-6/19, yet batch #3153 was produced on 6/19 using water from the compromised system. Your response is inadequate.
+Regarding observation 6C, your firm investigated with
+(b)(4)
+and determined excessive heat caused the test failures of the
+(b)(4)
+kit.
+(b)(4)
+recommended storing
+(b)(4)
+test kits at
+(b)(4)
+in refrigerated conditions. Two boxes of compromised test kits were destroyed after producing nonconforming results. You stated that you retested samples using test kits that passed acceptability criteria. Your firm’s CAPA plan is to have
+(b)(4)
+test kits stored in refrigerated conditions, review procedure to include flowchart for handling invalid
+(b)(4)
+results, conduct mandatory deviation entry, and sample quarantine procedures. Your firm claims only 2 boxes were affected but the FDA findings indicate 40 batches, and 20 samples may be impacted. We have taken into consideration that you evaluated all the impacted products when you initiated your voluntary recall. The adequacy of this response cannot be determined at this time. We will review your response updates along with your procedures and CAPA to ensure the storage and evaluation of materials outside of proper storage conditions are properly addressed.
+Regarding observation 6D, the following PNCR’s were reviewed and corrective actions implemented for: 1) PNCR #105: corrective action was taken to perform analytical testing of retained samples, implementation of chlorine strip testing for acetic acid totes, staff training on contamination protocols, revised PNCR templates, and enhanced supplier qualification processes. However, there is still no clear explanation of detection method for bleach contamination, 2) PNCR #99: corrective action is to have the batch rework to restore specifications, expanded PNCR documentation, QA staff training on deviation protocols, and revise SOPs requiring investigation of all OOS parameters. Your firm acknowledged that glucose and sodium issues were not investigated but provides no evidence this has been corrected, 3) PNCR #102: corrective action is taken to update your work instructions (WI 70.009 and 70.008) with clear restrictions against simultaneous
+(b)(4)
+of multiple chemicals, implementation of step-by-step
+(b)(4)
+procedures, and provide personnel training, and 4) PNCR #104: your corrective action is to conduct retrospective risk assessment, enhanced verification protocols, revise SOPs requiring all critical test results before release, and implementation of batch disposition checklists. However, your firm justifies releasing batches without required testing based on "emergency" needs of your customers. The adequacy of your response for observation 6D cannot be determined at this time as corrective actions are in progress.
+Our overall concerns with this observation and the corrective actions taken is your summary reveals systemic issues including delayed reporting, incomplete investigations, inadequate documentation, and patterns of releasing products without full quality data verification. Please ensure these corrective actions have been adequately verified and implemented and provide supporting documentation when they are available.
+7. Failure to adequately establish procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR § 820.198(a). Specifically,
+Your firm has not adequately followed your complaint handling procedure, Complaint File, SOP 198.001, Rev. 2, as you failed to document and determine the need to investigate “order replacements” related to complaints about product, packaging, and labeling issues. For example, the following complaints were not properly investigated:
+A. Reviewed a complaint on 5/20/24 about product G100225-10DEX100 (Lot
+(b)(4)
+) causing unstable conductivity in dialysis machines preventing patient treatment.
+B. Eight complaints between March 2024 and July 2025 were reviewed for damaged cases of gallons and bags.
+C. One complaint in June 2024 was reviewed about missing gallon labels on Citric Acid 50% products.
+D. Two complaints in 2025 involving cracked drums that caused product leakage.
+E. One March 2024 return logged for damaged case and bag.
+Your firm also failed to evaluate any of these complaints to determine whether they constituted medical device reportable events.
+The adequacy of your response cannot be determined at this time. Your firm proposed corrective and preventative actions to address “product replacements” related to complaints about product, packaging, and labeling issues that are documented into your complaint tracking system. However, your firm continues to classify “product replacements” due to damage, labeling, or performance issues as “requests” rather than complaints requiring formal documentation and evaluation. While your firm updated your SOP to include replacements as complaints, you simultaneously maintain that transit damage replacements are not complaints. Your firm states that none of the complaints are reportable without demonstrating proper application of MDR evaluation criteria. Despite mentioning implementation of an MDR screening process, your firm has not demonstrated understanding of proper MDR criteria for assessing individual complaints.
+Please refer to 21 CFR Part 820.198(a)(3) for further guidance to evaluate whether the complaint represents an event which is required to be reported to FDA under Part 803, Medical Device Reporting.
+8. Failure to adequately establish procedures for corrective and preventive action, as required by 21 CFR § 820.100(a). Specifically,
+Your firm failed to adequately implement your Corrective and Preventive Action (CAPA) procedure, SOP 100.001, Rev. 1 with multiple systemic issues identified across four specific CAPAs. For example,
+A. CAPA #24 was initiated on 2/16/24 and closed on 8/8/24 to address Diasol Acid Concentrate mix ratio issue which was not adequately investigated and failed to expand scope when a second complaint occurred on 5/9/24 involving
+(b)(4)
+gallons of concentrate with unstable conductivity readings. Your firm failed to adequately investigate why batch exceeded production yield (NPR No. 98) before lot release. Your firm did not document additional testing, product removal, and rework activities performed on returned product.
+B. CAPA #25 was initiated on 2/16/24 and closed on 8/8/24 to address nonconformances associated with labeling controls. The CAPA was ineffective as new mislabeling complaint occurred on 6/11/24 during the effectiveness verification phase. The original CAPA addressed mislabeled Diasol acid concentrate (Complaint #03, 7/27/22) but was closed as effective on 8/8/24 despite ongoing issues. The new complaint involved unlabeled Citric Acid 50%-gallon containers.
+C. CAPA #26 was initiated in May 2024 and appended CAPA 26A initiated on 12/10/24 to address facility and equipment deterioration identified in internal audit for plant equipment cleaning and maintenance, salt deposits that damage equipment and floors, and
+(b)(4)
+water that damages pressure worker motor. No corrective actions have been completed or documented.
+D. CAPA #27 was initiated on 4/10/24 to correct a previous 483 observation for inadequate response with unclear scope, insufficient root cause analysis, and inadequate corrective actions. The CAPA has been open since 4/10/24 and repeat deficiencies were found during the current inspection.
+The adequacy of your response cannot be determined at this time. Your firm acknowledged the CAPA deficiencies and committed to taking corrective actions to ensure Part 820.100 is followed. However, CAPA #24 has no evidence the expanded investigation was completed, and no documentation was provided regarding evaluation of the additional
+(b)(4)
+gallons that failed conductivity. There is no assurance that a link has been established to NCR #98 for excess yield issues. CAPA #25 was addressed with promised corrective actions and CAPA #30 was generated for additional actions, but neither provide evidence of addressing the root causes. Your firm has not demonstrated that cross-product labeling risks are controlled, and implementation verification is delayed until March 2026. CAPA #26 is a repeat observation spanning 7 years (2018-2025) with no actual corrections and response consists only of additional promises without actual progress. Finally, corrections to CAPA #27 and its root cause analysis is inadequate and there is no evidence that repeat deficiencies have been addressed.
+9. Failure to establish design history file, as required by 21 CFR § 820.30(j). Specifically,
+Your firm did not adequately implement your Design Control procedure, SOP 30.001, Rev.1, for maintaining adequate design documentation. For example,
+A. Lack of Design History File (DHF) for Citric Acid (50% and 20% concentrations) used for cleaning, decalcification, and disinfecting hemodialysis machines, despite manufacturing and distributing
+(b)(4)
+batches since 2022.
+B. Inadequate Design History Files (DHFs) for Dryasol and Citrisol such that it references design inputs for "Diasol acid concentrate," but no DHF exists for this referenced device. The electrolyte concentration specifications claim compliance with
+(b)(4)
+standards, but the actual acceptability ranges for Potassium and Calcium do not meet the standard requirements. Also, the DHFs fail to include or reference the location of required design verification and validation studies for these Class 2 medical devices.
+The adequacy of your response cannot be determined at this time. Your firm acknowledges poor implementation due to considering legacy formulations “low risk” and inadequate training on applying design controls to accessory products. Your firm stated you suspended sales as of September 1, 2025, and are determining if a 510(k) is needed, but this doesn't address years of non-compliance or demonstrate proper regulatory understanding. Your firm stated that your DHFs reference non-existent Diasol acid concentrate design inputs and the Electrolyte specifications for potassium and calcium do not meet
+(b)(4)
+standards. There is no design verification and validation documentation provided. Your firm plans to create the missing DHFs and update specifications but claims Diasol was marketed in 1985 prior to design file implementation, which does not exempt it from current requirements.
+10. Failure to adequately establish procedures for design change, as required by 21 CFR § 820.30(i). Specifically,
+Your firm did not implement your procedure, Design Control, SOP 30.001, Rev.1, by failing to adequately document, evaluate, and validate design change made to the Diasol Acid Concentrate device before implementation. For example:
+Your firm used Calcium Chloride Anhydrous instead of the required USP grade Calcium Chloride Dihydrate in
+(b)(4)
+manufacturing batches (August 19-21, 2024), totaling
+(b)(4)
+gallons of products. This substitution caused elevated calcium concentrations in batches
+(b)(4)
+(Lot
+(b)(4)
+),
+(b)(4)
+(Lot
+(b)(4)
+), and
+(b)(4)
+(Lot
+(b)(4)
+), requiring a Product Nonconformity Report (#100) on 8/22/2024 and subsequent rework to correct the calcium levels. Your firm failed to conduct required risk assessments regarding patient safety impacts and did not perform validation studies to evaluate potential effects on users, product stability, or long-term device performance.
+The adequacy of your response cannot be determined at this time. Your firm’s corrective action includes issuance of PNR#100 and rework of all
+(b)(4)
+affected batches. You quarantined and removed the remaining substituted raw material from inventory. You created retrospective design change documentation and updated your SOP design control procedure to clarify that raw material substitutions constitute design changes. You stated that you haven’t conducted training for QA, R&D, and procurement teams, and implemented mandatory design change checklist and
+(b)(4)
+compliance audits. You plan to conduct formal risk assessments for all design changes, including raw material substitutions, and mandate validation or verification studies prior to implementing any design changes. However, your firm has not provided a comprehensive risk assessment for this incident to evaluate potential ramifications of ingredient substitution. There is no demonstration that proper validation studies were conducted to establish equivalency of the substituted material.
+11. Failure to adequately establish procedures for design verification, as required by 21 CFR § 820.30(f). Specifically,
+Your firm has not adequately implemented your procedure for Design Controls, SOP 30.001, Rev. 1, section 4.6 Design Verification, regarding inadequate design verification for stability studies supporting product shelf-life claims. For example:
+A. The 3-year shelf-life stability study of your Diasol and Citrisol acid concentrates
+(Stability Study Protocol and Stability Study Report, both numbered #110.001, signed 05/09/2019)
+lacks any supporting laboratory data and fails to demonstrate that tested products used the same container closure system as finished products. There is no scientific rationale provided for sample selection, including testing a Diasol formulation with different magnesium concentration (
+(b)(4)
+mEq/L vs. current
+(b)(4)
+mEq/L) and selecting
+(b)(4)
+lot of
+(b)(4)
+Citrisol acid concentrations. There is missing evidence that required pH and Conductivity testing was performed at all specified time points per the stability protocol requirements in
+WI 80.004 In-process and Final Batch Testing
+.
+B. No stability study exists to support the assigned 3-year shelf-life for the Dry Citrisol Acid Concentrate. The product’s expiration date exceeded the expiration date of at least one packaged raw material powder used in two different lots (
+(b)(4)
+and
+(b)(4)
+), which are set for
+(b)(4)
+, and
+(b)(4)
+. Meanwhile, the citric acid powder (Lot
+(b)(4)
+) in both products will expire on
+(b)(4)
+.
+Your response is inadequate. Your firm stated you have a long manufacturing history, producing concentrates since 1998 (with predecessor
+(b)(4)
+manufacturing since 1985). However, your stability study performed in 2019 used an outdated formulation (
+(b)(4)
+mEq Mg) while current products contain
+(b)(4)
+mEq Mg. Your firm claims the
+(b)(4)
+mEq magnesium difference will not impact stability of the acid concentrate solution. The initial batch testing included proper pH and conductivity documentation, and subsequent tests have handwritten pH and conductivity records. You said you will perform verification on all lab samples to ensure correct dilution. However, your firm failed to provide missing laboratory data and there is no documented justification showing the older formulation is representative of current products. There is no demonstration that the magnesium difference does not affect stability conclusions and despite mentioning handwritten records and verification procedures, actual testing data remains missing. Your firm failed to demonstrate compliance with your protocol or address systematic documentation gaps. Additionally, your responses indicated that additional time is required to respond to this part of the observation.
+12. Failure to adequately establish requirements that must be met by contractors and consultants, as required by 21 CFR § 820.50(a). Specifically,
+Your firm failed to adequately implement your supplier evaluation procedure, SOP 50.001, Rev. 2 in two main areas:
+A. Your firm lacks documented evaluation of your contract laboratory that performs chemical analysis of dialysis acid concentrate products. No documented evidence exists that the laboratory uses validated analytical test methods per
+(b)(4)
+standards. The laboratory's
+(b)(4)
+method is inadequately justified for testing potassium, magnesium, glucose, and calcium levels, as the standard only indicates
+(b)(4)
+for sodium analysis. Despite four information requests, your contract laboratory failed to provide complete details about their analyzers and test methodologies, leaving your firm unaware of actual testing procedures.
+B. Your firm lacks documented evaluation demonstrating that your quality audit consultant is competent to conduct
+(b)(4)
+audits.
+The adequacy of your response cannot be determined at this time. The response requested additional time to respond to this item and mentions you are planning to update your supplier qualifications. Review of these responses found no documented evaluation exists for the contract laboratory performing chemical analysis. No evidence was provided demonstrating the laboratory uses validated analytical test methods per
+(b)(4)
+standards and the laboratory's
+(b)(4)
+method is only validated for sodium analysis, not for potassium, magnesium, glucose, and calcium as required. Your firm has not provided evidence that you have taken immediate steps to obtain proper documentation or verify the analytical methods from your contract laboratory.
+Regarding observation 12B, your firm stated that you contracted
+(b)(4)
+for your last two internal audits. Your firm plans to hire a certified auditor for 2025 and establish qualification criteria based on experience and certification. A CAPA table was provided, but no corrective actions have been implemented yet—all items are scheduled for future completion. Your firm’s planned corrective actions include conducting formal competency assessments, reviewing qualifications and certifications, creating consultant evaluation forms, updating QMS procedures, and staff training. Your firm has not provided evidence that you have taken any immediate action to address the ongoing use of potentially unqualified suppliers and consultants. The adequacy of this response cannot be determined.
+13. Failure to perform risk analysis, as required by 21 CFR § 820.30(g). For example,
+A. Your firm does not have a documented risk analysis for your Diasol liquid acid concentrate.
+B. The existing risk analysis for your Dryasol acid concentrate fails to evaluate potential harms to patients and users for hazards already identified in your firm’s risk analysis document (DHF 30.003, rev. 1). The analysis does not include risk estimations for known and foreseeable hazards associated with dialysate concentrates, including electrolyte imbalance, lack of dextrose, pyrogen reactions, microbial infections, particulate emboli, and toxicity from chemical contaminants.
+The adequacy of your response cannot be determined at this time. Your firm’s stated that you initiated a risk analysis for your Diasol liquid acid concentrate by following
+(b)(4)
+standard. Your preventative actions include risk analysis for all products and staff training, and CAPA #2025-04-DLC is scheduled to be completed by 12/08/25. A review of your firm’s corrections observed that products continue to be manufactured and distributed without documented risk analysis. You should ensure critical elements such as detailed hazard identification, quantitative risk estimation (severity x probability), specific risk control measures, and residual risk evaluation. The 4+ month timeline to correct the observation appears to be excessive.
+Regarding observation 13B, your firm updated your risk analysis procedure to include patient risk assessment. Immediate action is to initiate internal review of DHF 30.003, Rev. 3 by a cross-functional team to include all known and foreseeable hazards and incorporate clinical harms and severity ratings. Your preventative action is to update risk management SOPs to require clinical review and train design and regulatory affairs teams on
+(b)(4)
+and FDA guidance. However, your firm submitted DHF 30.002 for Citrisol instead of the required Dryasol analysis. The adequacy of this response cannot be determined.
+Medical Device Reporting Violation(s)
+Our inspection also revealed that your firm’s dialysate concentrates are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i. 21 CFR Part 803 - Medical Device Reporting was promulgated under section 519 of the Act, among other provisions. Significant violations include, but are not limited to, the following:
+1. Failure to report to us the information required by § 803.52 in accordance with the requirements of § 803.12(a), no later than 30 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that it markets has malfunctioned and this device or a similar device that your firm markets would be likely to cause or contribute to a death or serious injury, if the malfunction were to recur, as required by 21 CFR 803.50(a)(2).
+For example, the information included in your firm’s internal email communication dated May 20, 2024, reasonably suggests that your firm’s Diasol liquid acid concentrate malfunctioned during use. Specifically, the device caused unstable conductivity in the dialysis machine, preventing the dialysis treatment from being performed. As a result, the device failed to meet its performance specifications or otherwise perform as intended under 21 CFR 803.3(k). This device, classified as a hemodialysis system and accessories under 21 CFR 876.5820 (product code KPO), is considered life-supporting or life-sustaining. A malfunction is reportable if it involves a device that is considered to be life-supporting or life-sustaining and thus is essential to maintaining human life, as is the case here, or if it results in the failure of the device to perform its essential function—here, dialysis—thereby compromising the device’s therapeutic effectiveness, which could cause or contribute to a death or serious injury. See Medical Devices; Medical Device User Facility and Manufacturer Reporting, Certification and Registration, 60 Fed. Reg. 63578, 63585 (Dec. 11, 1995), Comment 12, for more information. Accordingly, because this device malfunctioned and the device or a similar device you market would be likely to cause or contribute to a death or serious injury if the malfunction were to recur, the adverse event represents a reportable malfunction under 21 CFR 803.3. During the inspection, your firm acknowledged that no MDR had been submitted for this event.
+The adequacy of your firm’s response dated September 8, 2025, cannot be determined at this time. In its response, your firm states that it plans to revise its MDR procedure, conduct staff training, and perform a retrospective review to submit MDRs for each identified MDR Reportable complaint. FDA has not yet received an electronic version of Form 3500A for the above reference event. In addition, no supporting documentation of corrective actions was provided, as these remain in progress.
+Your firm’s responses dated October 7, 2025, and November 10, 2025, did not provide evidence or documentation to address the noted violation.
+In addition, the inspection revealed that your firm failed to adequately develop, maintain, and implement written MDR procedures as required by 21 CFR 803.17. For example, during the inspection, your firm presented its procedural documents titled “Complaint File”, SOP 198.001, Rev. 2, dated 04/25/2024 and “Medical Device Reporting (MDR) Procedure”, SOP 198.002, Rev. 2, dated 04/25/2024. After collectively reviewing them as your firm’s MDR procedure, the following deficiencies were noted:
+a) The procedure does not establish internal systems that provide for timely and effective identification, communication, and evaluation of events that may be subject to MDR requirements, as required by 21 CFR 803.17(a)(1). For example, the procedure does not include adequate definitions of what constitutes a reportable event under 21 CFR Part 803. The fact that the procedure does not include definitions from 21 CFR 803.3 for the terms “become aware”, “caused or contributed”, and “malfunction”, and the definition found in 21 CFR 803.20(c)(1) for the term “reasonably suggests”, may lead your firm to make an incorrect reportability decision when evaluating a complaint that may meet the criteria for reporting under 21 CFR 803.50(a).
+b) The procedure does not establish internal systems that provide for timely transmission of complete medical device reports, as required by 21 CFR 803.17(a)(3). Specifically, your procedure does not include:
+i. Instructions for how to obtain and submit information that corresponds generally to the format of Form FDA 3500A.
+ii. Instructions for how your firm will comply with the 21 CFR 803.12(a) requirement to submit reports to FDA in an electronic format that the FDA can process, review, and archive.
+iii. How your firm will ensure that all information required in 21 CFR Part 803, subpart E, that is reasonably known to you is submitted for each event. Specifically, which types of information corresponding generally to the format of Form FDA 3500A will need to be submitted, to include the information in your possession at the time you filed your initial report and if you later obtain any required information that was not available at the time you filed your initial report.
+In addition, based on FDA’s records, as of October 8, 2025, your firm has not completed its load test and guidance compliance submission for electronic Medical Device Reporting (eMDR). We recommend your firm follow the instructions located at https://www.fda.gov/medical-devices/emdr-electronic-medical-device-reporting/how-enroll-emdr-program under “Low Volume Enrollment Process” to obtain its WebTrader production account.
+The adequacy of your firm’s response dated September 8, 2025, cannot be determined at this time. In its response, your firm stated that it plans to update its MDR procedure by November 8, 2025, conduct staff training, and establish an electronic submission account. However, no supporting evidence was provided, as these corrective actions are still ongoing.
+We reviewed your firm’s response dated October 7, 2025, and concluded that it is not adequate. Your response states that corrective actions are still in progress and included a copy of its revised MDR procedure titled “Medical Device Reporting (MDR) Procedure”, SOP 198.002, Rev. 2, dated 09/09/2025. Upon review of the revision, the following deficiencies were noted:
+The revision does not include adequate definitions of what constitutes a reportable event under 21 CFR Part 803. Specifically, the revision still omits the definition of “malfunction” in 21 CFR 803.3, and “reasonably suggests” in 21 CFR 803.20(c)(1). The absence of these definitions may lead your firm to make an incorrect reportability decision when evaluating a complaint that may meet the criteria for reporting under 21 CFR 803.50(a).
+The revision does not include the requirement for submitting supplemental or follow up reports within 30 calendar days of the day that you receive information required under 21 CFR Part 803 that you did not provide because it was not known or was not available when you submitted the initial report, as required under 21 CFR 803.56.
+In addition, your firm has not yet completed its load test and guidance compliance submission for eMDR. We recommend that your firm follow the instructions provided above to obtain a WebTrader production account for electronic submissions.
+Your firm’s response dated November 10, 2025, did not provide evidence or documentation to address the noted violation.
+Unique Device Identifier (UDI) and GUDID Violation(s)
+Misbranding under Section 502(c) for Failure to Have Compliant Labeling
+The inspection also revealed that your devices are misbranded within the meaning of section 502(c) of the Act, 21 U.S.C. § 352(c), because a word, statement, or other information required by or under authority of the Act to appear on the label or labeling of the devices was not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use. In particular, 21 CFR 801.20(a) – which was promulgated under authority of section 519 of the Act, among other provisions – requires, with exceptions not relevant here, that the label and device package of every medical device bear a unique device identifier (UDI) that meets the requirements of 21 CFR Part 801, subpart B, and 21 CFR Part 830. The labels of Citrisol Powder 45125-10, CitriSol 100225-10, Diasol 100225-10, Citric Acid 50%, Diasol 10000-25, and Dryasol 45225-10 devices do not bear such a UDI.
+Specifically, the labels for Citrisol Powder 45125-10, CitriSol 100225-10, Diasol 100225-10, Citric Acid 50%, Diasol 10000-25, and Dryasol 45225-10 devices do not include a device identifier within the meaning of 21 CFR 801.3 or 830.3, and there is no UDI presented in easily readable plain-text on the label of the device (see 21 CFR 801.40(a)(1)), and there is no UDI presented in machine-readable form that uses Automatic Identification and Data Capture (AIDC) technology on the label of the device (see 21 CFR 801.40(a)(2)).
+Misbranding under Section 502(t)(2) for Failure to Submit Required Information
+In addition, Citrisol Powder 45125-10, Citric Acid 50%, and Dryasol 45225-10 devices are misbranded within the meaning of section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that there was a failure or refusal to furnish any material or information required by or under section 519 of the Act, 21 U.S.C. § 360i, respecting these devices. In particular, 21 CFR 830.300(a) and 830.320(b) – both of which were promulgated under section 519 of the Act, among other provisions – require that the labeler of a device submit electronically to FDA’s Global Unique Device Identification Database (GUDID) the information required by 21 CFR Part 830, subpart E, for each version or model required to bear a UDI. FDA has determined that your firm causes a label to be applied to a device with the intent that the device will be commercially distributed without any subsequent replacement or modification of the label. Our inspection revealed that your firm designs the finished product label for your Citrisol Powder 45125-10, Citric Acid 50%, and Dryasol 45225-10 devices and final product labeling reflects your firm’s name, and address. Diasol, Inc is therefore a “labeler” within the meaning of 21 CFR 830.3 and has not submitted to GUDID any information required by 21 CFR Part 830, subpart E, respecting these devices.
+Our office requests that Diasol, Inc. immediately cease any activities that result in the misbranding or adulteration of your devices, such as the commercial distribution of your devices for the uses described above.
+A follow up inspection will be required to assure that corrections and/or corrective actions are adequate.
+Your firm should take prompt action to address any violations identified in this letter. Failure to adequately address this matter may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties. Other federal agencies may take your compliance with the FD&C Act and its implementing regulations into account when considering the award of federal contracts. Additionally, should FDA determine that you have Quality System regulation violations that are reasonably related to premarket approval applications for Class III devices, such devices will not be approved until the violations have been addressed. Should FDA determine that your devices or facilities do not meet the requirements of the Act, requests for Certificates to Foreign Governments (CFG) may not be granted.
+We are requesting that you submit to this office on the schedule below, certification by an outside expert consultant that he/she has conducted an audit of your firm’s manufacturing and quality assurance systems relative to the requirements of 21 CFR Part 820. You should also submit a copy of the consultant's report, and certification by your establishment's Chief Executive Officer (if other than yourself) that he or she has reviewed the consultant's report and that your firm has initiated or completed all corrections called for in the report. The initial certifications of audit and corrections and subsequent certifications of updated audits and corrections (if required) should be submitted to this office by the following dates:
+Initial certifications by consultant and establishment – July 31, 2026.
+Subsequent certifications – September 1, 2027, and September 1, 2028.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps you have taken to address the noted violations, as well as an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective action (which should address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective action cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address any violations included in this Warning Letter. If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration as part of your response.
+Your firm’s response should be sent via email to Establishment Assessment Team 3 Acting Assistant Director, Jeffrey Wooley, at CDRHEnforcement@fda.hhs.gov . Please include in the subject line, “CMS Case 719460” when replying. If you have any questions about the contents of this letter, please contact: Compliance Officer, Charles J. Chacko, via email at charles.chacko@fda.hhs.gov
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility or associated with your firm’s devices. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of any violations and take prompt actions to address any violations and to bring the products into compliance.
+Sincerely,
+/S/
+Barbara C. Marsden
+Acting Director
+Office of Regulatory Programs
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health

@@ -1,0 +1,61 @@
+COMPANY: NSE Products, Inc. DBA Nu Skin Enterprises, Inc.
+DATE: 03/02/2026
+SUBJECT: Electronic Drug Registration and Listing System (eDRLS)/Violations
+ISSUING_OFFICE: Center for Drug Evaluation and Research (CDER)
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nse-products-inc-dba-nu-skin-enterprises-inc-722667-03022026
+============================================================
+
+Delivery Method:
+Via Email
+Product:
+Drugs
+Recipient:
+Recipient Name
+Ryan Napierski
+Recipient Title
+Chief Executive Officer
+NSE Products, Inc. DBA Nu Skin Enterprises, Inc.
+75 West Center Street
+Provo
+,
+UT
+84601
+United States
+rnaperski@nuskin.com
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+WARNING LETTER
+March 2, 2026
+RE: 3093 (CMS 722667)
+Ryan Napierski:
+This letter concerns your firm’s drug listing information provided to FDA’s electronic Drug Registration and Listing System (eDRLS) for your drug products, “AP-24 Fluoride,” NDC 62839-1151; “AP-24,” NDC 62839-1152; and “AP-24 Whitening,” NDC 62839-1155.
+1
+Your firm has not fulfilled its listing obligations under section 510(j) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C 360(j). Failure to provide listing information for a drug in accordance with 510(j) of the FD&C Act is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p). These violations are described in more detail below.
+Drug Listing Violations
+Section 510(j) of the FD&C Act, 21 U.S.C. 360(j), and 21 CFR 207 set forth the requirements for the listing of drugs. In accordance with section 510(j)(2) of the FD&C Act, 21 U.S.C 360(j)(2), and 21 CFR 207.57(b), registrants must review and update their drug listing information each June and December. Furthermore, under 21 CFR 207.57(b)(1)(iv), registrants must submit any material changes in any information previously submitted including, per 21 CFR 207.49(a)(12), manufacturing establishment information. The drug listings stated above reference a manufacturing establishment,
+(b)(4)
+, that has confirmed that it has not been involved in the manufacturing of these drugs for more than five years, yet they continue to be cited in your listings with no end marketing date. Therefore, your firm has not fulfilled its listing obligations under section 510(j) of the FD&C Act, 21 U.S.C. 360(j). Failure to provide listing information for a drug in accordance with 510(j) of the FD&C Act is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p).
+Additionally, your firm has 61 drug listings that have not been updated or certified as required and therefore have been inactivated by FDA. Please update the listing information for these drugs to reflect their current status. If you no longer manufacture and distribute these drugs, then the drugs must be discontinued by adding an end marketing date.
+Complete, accurate, and up-to-date establishment registration and drug listing information is essential to promote and protect patient safety. FDA relies on establishment registration and drug listing information for several key programs, including drug establishment inspections, supply chain security, and post-market surveillance. Establishment registration and drug listing information is also widely used outside FDA for purposes such as electronic prescribing and electronic health records, insurance reimbursement, and patient education. We note that this warning letter only addresses establishment registration and drug listing issues associated with your products.
+Conclusion
+This letter is not intended to be an all-inclusive statement of violations that may exist in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+This letter notifies you of our concerns and provides you an opportunity to address them. Failure to adequately address this matter may result in legal action including, without limitation, seizure and injunction.
+Please notify FDA in writing, within 15 working days of receipt of this letter, of the specific steps you have taken to correct any violations. Include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration. If you cannot complete corrective action within 15 working days, state the reason for the delay and the time within which you will complete the correction. In absence of a corrective action, the deficient listing data will not be available for certification under 21 CFR 207.57(b)(2) requirements and will be ultimately inactivated by FDA.
+2
+If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration.
+Your response should be sent to U.S. Food and Drug Administration, Center for Drug Evaluation and Research/Office of Compliance/Office of Unapproved Drugs and Labeling Compliance by e-mail to eDRLS@fda.hhs.gov. Please be aware that a manual override may be required for certain types of revisions made to an existing drug listing file. If you receive a validation error or have any questions regarding the contents of this letter, please contact us at eDRLS@fda.hhs.gov for further assistance. Include the case identification numbers (3093) (CMS 722667) on all correspondence.
+Sincerely,
+/S/
+Tina Smith, M.S.
+Captain, U.S. Public Health Service
+Director
+Office of Unapproved Drugs and Labeling Compliance
+Office of Compliance
+Center for Drug Evaluation and Research
+U.S. Food and Drug Administration
+___________________
+1
+On December 10, 2025, we sent your firm a drug listing deficiency letter describing the observed listing deficiencies in the information your firm submitted. In addition, we followed up on December 11, 2025, December 19, 2025, and January 16, 2026, to various points of contact. On January 24, 2026, we sent your firm a data removal notification email informing you of a data removal action. As stated in that email, the continued deficiencies resulted in your products’ data removal from FDA’s Online NDC Directory. FDA sends data deficiency letters and data removal notifications to the contact person found in the labeler code SPL submitted by your firm to FDA. If this information has changed, it is your responsibility to update this within 30 days of any change, under 21 CFR 207.33(c).
+2
+See 84 FR 40417.

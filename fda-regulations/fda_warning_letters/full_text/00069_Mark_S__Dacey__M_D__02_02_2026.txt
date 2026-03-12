@@ -1,0 +1,97 @@
+COMPANY: Mark S. Dacey, M.D.
+DATE: 02/02/2026
+SUBJECT: Clinical Investigator
+ISSUING_OFFICE: Center for Drug Evaluation and Research (CDER)
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/mark-s-dacey-md-722942-02022026
+============================================================
+
+Delivery Method:
+VIA UNITED PARCEL SERVICE AND VIA E-MAIL
+Reference #:
+26-HFD-45-02-01
+Product:
+Drugs
+Recipient:
+Mark S. Dacey, M.D.
+425 South Cherry Street, Suite 907
+Denver
+,
+CO
+80246-1242
+United States
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+WARNING LETTER
+FDA Ref. No.: 26-HFD-45-02-01
+Dear Dr. Dacey:
+This Warning Letter informs you of objectionable conditions observed during the U.S. Food and Drug Administration (FDA) inspection conducted at your clinical site between October 23 and November 8, 2024. The investigator representing FDA reviewed your conduct of the following clinical investigations:
+• Protocol
+(b)(4)
+, “
+(b)(4)
+,” of the investigational drug
+(b)(4)
+, performed for
+(b)(4)
+• Protocol
+(b)(4)
+, “
+(b)(4)
+,” of the investigational drug
+(b)(4)
+, performed for
+(b)(4)
+This inspection was conducted as a part of FDA’s Bioresearch Monitoring Program, which includes inspections designed to evaluate the conduct of research and to help ensure that the rights, safety, and welfare of human subjects have been protected.
+At the conclusion of the inspection, the FDA investigator presented and discussed with you the Form FDA 483, Inspectional Observations. We acknowledge receipt of your December 3, 2024, written response to the Form FDA 483.
+From our review of the FDA Establishment Inspection Report, the documents submitted with that report, and your written response dated December 3, 2024, it appears that you did not adhere to the applicable statutory requirements in the Federal Food, Drug, and Cosmetic Act (FD&C Act) and applicable regulations contained in Title 21 of the Code of Federal Regulations, parts 312 (21 CFR 312) and 50 (21 CFR 50) governing the conduct of clinical investigations and the protection of human subjects. We wish to emphasize the following:
+You failed to obtain informed consent in accordance with the provisions of 21 CFR part 50 [21 CFR 312.60 and 21 CFR 50.20].
+As a clinical investigator, you are required to obtain informed consent in accordance with 21 CFR part 50. FDA’s regulations at 21 CFR 50.20 state that, except as provided in 21 CFR 50.23 and 21 CFR 50.24, no investigator may involve a human being as a subject in research covered by the regulations unless the investigator has obtained the legally effective informed consent of the subject or the subject’s legally authorized representative.
+You failed to obtain legally effective informed consent for Subject
+(b)(6)
+, who was enrolled in Protocol
+(b)(4)
+, before the collection of optional aqueous humor samples. Specifically, Protocol
+(b)(4)
+required subjects to sign the appropriate informed consent form for participation in the collection and submission of optional aqueous humor samples for pharmacokinetic and pharmacodynamic assessments. However, Subject
+(b)(6)
+underwent the collection of aqueous humor from the study eye on March 5, 2024 (Week 20), even though the subject declined consent on September 26 and October 18, 2023, for the collection and submission of optional aqueous humor samples.
+In your December 3, 2024, written response to the Form FDA 483, you stated that the site inadvertently collected the aqueous humor sample for Subject
+(b)(6)
+at the March 5, 2024 (Week 20) visit. You stated that on March 20, 2024, the medical monitor notified the site of the incident. Following this notification, the issue was reported to the IRB, and Subject
+(b)(6)
+was notified of the inadvertent aqueous humor sample collection at their next visit. You stated that the request for sample destruction was submitted to the central lab, and the sponsor confirmed the destruction. You also stated that to prevent a similar occurrence, the site will use quick-reference labels on subjects’ source binders and/or the site will use an informed consent form tracking feature for optional procedures in the site’s RealTime Clinical Trial Management System (CTMS). Further, you stated that the labeling of source binders and/or notation in the RealTime CTMS will be implemented at the Principal Investigator’s new practice location to ensure compliance for current and future research activities.
+While we acknowledge the corrective and preventive actions that your site has taken and plans to take, your written response is inadequate because you did not provide sufficient details about how you, as the clinical investigator, will ensure adequate oversight of study procedures. Specifically, you did not provide information about how the labeling of source binders or notation in the RealTime CTMS will be implemented at your site, including training for you as the clinical investigator and for the site staff, so that these procedures are used to accurately determine a subject’s consent for optional procedures during a clinical investigation. Without this information, we are unable to determine whether your corrective actions appear adequate to prevent similar violations in future clinical investigations.
+We also remain concerned that in this clinical investigation, it was clearly documented in Subject
+(b)(6)
+’s records that the subject twice declined consent, yet the optional sample collection procedure was performed. As a result, the subject was exposed to unnecessary potential risks from the performance of this procedure, such as blurred vision, bleeding on the surface of or inside the eye, damage to the lens of the eye, and inflammation or infection inside the eye.
+We emphasize that as the clinical investigator, you are ultimately responsible for compliance with all applicable FDA regulations governing the conduct of clinical investigations and the protection of human subjects, including obtaining legally effective informed consent from subjects in accordance with 21 CFR part 50. Your failure to obtain informed consent before conducting study-related procedures jeopardizes the rights, safety, and welfare of subjects by denying them an opportunity to fully assess the risks and benefits of their participation in the clinical investigation.
+This letter is not intended to be an all-inclusive list of deficiencies with your clinical study of an investigational drug. It is your responsibility to ensure adherence to each requirement of the law and relevant FDA regulations. You should address any deficiencies and establish procedures to ensure that any ongoing or future studies comply with FDA regulations.
+This letter notifies you of our findings and provides you with an opportunity to address the deficiencies noted above. Within 15 business days of your receipt of this letter, you should notify this office in writing of the actions you have taken to prevent similar violations in the future. Failure to address this matter adequately may lead to regulatory action. If you believe that you have complied with the FD&C Act and relevant regulations, please include your reasoning and any supporting information for our consideration.
+Should you have any questions or concerns about this letter or the inspection, please email FDA at CDER-OSI-Communications@fda.hhs.gov. Your written response and any pertinent documentation should be addressed to:
+Brittany L. Garr, MPH
+Branch Chief
+Compliance Enforcement Branch
+Division of Enforcement and Postmarketing Safety
+Office of Scientific Investigations
+Office of Compliance
+Center for Drug Evaluation and Research
+U.S. Food and Drug Administration
+Building 51, Room 5352
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+Sincerely yours,
+{See appended electronic signature page}
+David C. Burrow, Pharm.D., J.D.
+Director
+Office of Scientific Investigations
+Office of Compliance
+Center for Drug Evaluation and Research
+U.S. Food and Drug Administration
+--------------------------------------------------------------------------------------------
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+--------------------------------------------------------------------------------------------
+/s/
+------------------------------------------------------------
+DAVID C BURROW
+02/02/2026 01:23:10 PM

@@ -1,0 +1,62 @@
+COMPANY: Yuyao City Boss Vegetable Factory Co. Ltd.
+DATE: 11/28/2025
+SUBJECT: Acidified Foods/Emergency Permit Control/Adulterated
+ISSUING_OFFICE: Human Foods Program
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/yuyao-city-boss-vegetable-factory-co-ltd-717174-11282025
+============================================================
+
+Delivery Method:
+VIA Electronic Mail
+Product:
+Food & Beverages
+Recipient:
+Recipient Name
+Guangwen Ruan
+Recipient Title
+General Manager and Owner
+Yuyao City Boss Vegetable Factory Co. Ltd.
+No. 88 Langhai Road, Xiao Cao E Town
+Yuyao Shi
+Ningbo Shi
+Zhejiang Sheng
+,
+315475
+China
+25330464@qq.com
+Issuing Office:
+Human Foods Program
+United States
+November 28, 2025
+WARNING LETTER
+Re: CMS # 717174
+Dear Mr. Ruan:
+The United States Food and Drug Administration (FDA) conducted an inspection of your food manufacturing facility, located at No. 88 Langhai Road, Xiao Cao E Town, Yuyao City, Ningbo, Zhejiang in China from June 16 to June 17, 2025. The inspection revealed serious violations of the Emergency Permit Control regulation (Title 21, Code of Federal Regulations (CFR), Part 108 (21 CFR Part 108) and the Acidified Foods regulation (21 CFR Part 114). At the conclusion of the inspection on June 17, 2025, the FDA investigator issued an FDA-483, Inspectional Observations, listing deviations found during our inspection. We received your written response to the FDA-483, dated July 4, 2025. After reviewing the inspectional findings and your response, we are issuing this letter to advise you of FDA’s concerns and to provide detailed information describing the findings at your facility. We also address your response below.
+As a manufacturer of acidified foods intended for export to the United States, you are required to comply with the Federal Food, Drug, and Cosmetic Act (the Act) and with 21 CFR Parts 108 and 114. As outlined in these regulations, a commercial processor that does not adhere to all the mandatory requirements of 21 CFR 108.25 and 21 CFR Part 114 may be subject to an immediate application of the emergency permit control provisions of section 404 of the Act (21 U.S.C. § 344). As stated in 21 CFR 108.25(j) for imported products, in lieu of issuing an order of determination that a permit is required before products from a commercial processor can be introduced into interstate commerce, FDA may refuse admission of the commercial processor’s products under section 801 of the Act (21 U.S.C. § 381) when offered for entry into the United States. Violation of the mandatory requirements set forth in 21 CFR 108.25 and 21 CFR Part 114 renders your acidified food products adulterated within the meaning of section 402(a)(4) of the Act (21 U.S.C. 342(a)(4)) in that they have been prepared, packed, or held under insanitary conditions whereby they may have been rendered injurious to health.
+You may find the Act and further information about FDA’s regulations though links in FDA’s home page at http://www.fda.gov.
+Your significant violation:
+1. You did not maintain processing or production records showing adherence to the scheduled process as required by 21 CFR 114.100(b). Specifically:
+a. No processing or production records demonstrating adherence to the critical factors in your filed scheduled processes were available for approximately
+(b)(4)
+retail-labeled pouches of acidified mustard stems shipped to the United States between April 28, 2024, and June 9, 2025.
+b. On June 16, 2025, at 11:16 a.m., following a three-hour facility walk-through, our investigator observed your firm’s Quality Control Manager and Administrative Staff member creating and backdating multiple records, including finished product pH test results, daily production logs, raw material review records, auxiliary material batching records, continuous water bath sterilization monitoring records, and in-process and critical factor monitoring records for the production of acidified mustard stems. Your firm created and backdated approximately
+(b)(4)
+records to cover acidified mustard stems made since 2023. You admitted that production records documenting critical factor monitoring were being fabricated while our investigator was conducting a facility walk-through. During the inspection closeout, our FDA investigator explained that records must be true, accurate, and completed at the time the activity is performed. Due to the lack of production records and the observed creation of completed and partially completed critical factor monitoring records during inspection, your firm was unable to demonstrate that your acidified mustard stems were manufactured in accordance with the filed scheduled processes.
+In your response dated July 4, 2025, you indicated that your Hazard Analysis Critical Control Point (HACCP) team conducted a new risk assessment, provided HACCP system retraining for employees, and established a work review system to ensure that records are true, accurate and complete. Your response included only one example of each document to demonstrate how critical factors are documented. We are unable to evaluate the adequacy of your response because you did not provide supporting corrective action documentation that ensures long-term monitoring of critical factors to demonstrate your firm’s adherence to the filed scheduled processes for acidified mustard stems. Additionally, the finished product pH testing record that you submitted with your response appears to list a pH result of “<
+(b)(4)
+” as an acceptable test result, which is not in accordance with your filed scheduled processes that indicate a finished product pH of
+(b)(4)
+for acidified mustard stems.
+Based on our inspectional findings, FDA placed your firm and your acidified mustard stem products (whole, shredded, and sliced) on Import Alert #99-38, “Detention Without Physical Examination Due to Inadequate Process Control” on October 23, 2025. As a result, when your acidified products are offered for import into the United States, FDA may refuse admission through Detention Without Physical Examination (DWPE). DWPE is an administrative procedure whereby products offered for import into the United States may be detained without physical examination upon entry. The procedure is generally based on past history or other information, such as an establishment inspection, that indicates a product, or products, appear not to be in compliance with FDA’s laws and regulations. You may view Import Alert #99-38 at https://www.accessdata.fda.gov/cms_ia/importalert_1132.html.
+The violations cited in this letter are not intended to be an all-inclusive list of the violations that exist at your facility or in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including applicable FDA regulations.
+In addition, we provide the following comment:
+Based upon the nature of the violations identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR Part 114 and 21 CFR Part 117, Current Good Manufacturing Practices, Hazard Analysis and Risk-Based Preventive Controls for Human Foods to assist your firm in meeting Current Good Manufacturing Practices (CGMP) requirements. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance, and that the consultant evaluates the completion and efficacy of your corrective and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+Please notify FDA in writing within fifteen (15) working days of receipt of this letter, of the specific steps and corrections you have taken to address any violations. Include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation, including processing records for at least five lots of acidified mustard stems produced over at least five days. If you cannot complete corrective actions within fifteen (15) working days, state the reason for the delay and the time within which you will do so. If you believe that your products are not in violation of the Act, include your reasoning and any supporting information for our consideration.
+Please send your reply to the Food and Drug Administration, Attention: Valerie Potopsingh, Compliance Officer, via email at valerie.potopsingh@fda.hhs.gov. If you have any questions regarding this letter, you may contact Valerie Potopsingh, Compliance Officer, via email at valerie.potopsingh@fda.hhs.gov. Please reference CMS #717174 on any submissions and within the subject line of any email correspondence to the
+agency.
+Sincerely,
+/S/
+Maria S. Knirk, J.D., M.B.A.
+Acting Director
+Office of Enforcement
+Office of Compliance and Enforcement
+Human Foods Program

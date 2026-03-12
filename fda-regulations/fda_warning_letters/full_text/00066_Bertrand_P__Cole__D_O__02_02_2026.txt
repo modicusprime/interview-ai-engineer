@@ -1,0 +1,103 @@
+COMPANY: Bertrand P. Cole, D.O.
+DATE: 02/02/2026
+SUBJECT: Clinical Investigator
+ISSUING_OFFICE: Center for Drug Evaluation and Research (CDER)
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/bertrand-p-cole-do-723495-02022026
+============================================================
+
+Delivery Method:
+VIA UNITED PARCEL SERVICE AND VIA E-MAIL
+Reference #:
+26-HFD-45-02-02
+Product:
+Drugs
+Recipient:
+Recipient Name
+Bertrand P. Cole, D.O.
+Bertrand P. Cole, D.O.
+110 Corporate Drive, Suite 2
+Portsmouth
+,
+NH
+03801
+United States
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+WARNING LETTER
+FDA Ref. No.: 26-HFD-45-02-02
+Dear Dr. Cole:
+This Warning Letter informs you of objectionable conditions observed during the U.S. Food and Drug Administration (FDA) inspection conducted at your clinical site between May 12 and May 16, 2025. The investigator representing FDA reviewed your conduct of the following clinical investigations:
+Protocol
+(b)(4)
+, “
+(b)(4)
+,” of the investigational drug
+(b)(4)
+, performed for
+(b)(4)
+Protocol
+(b)(4)
+, “
+(b)(4)
+,” of the investigational drug
+(b)(4)
+, performed for
+(b)(4)
+, a wholly owned subsidiary of
+(b)(4)
+This inspection was conducted as a part of FDA’s Bioresearch Monitoring Program, which includes inspections designed to evaluate the conduct of research and to help ensure that the rights, safety, and welfare of human subjects have been protected.
+At the conclusion of the inspection, the FDA investigator presented and discussed with you the Form FDA 483, Inspectional Observations. We acknowledge receipt of your June 3, 2025, written response to the Form FDA 483.
+From our review of the FDA Establishment Inspection Report, the documents submitted with that report, and your written response dated June 3, 2025, it appears that you did not adhere to the applicable statutory requirements in the Federal Food, Drug, and Cosmetic Act (FD&C Act) and applicable regulations contained in Title 21 of the Code of Federal Regulations, part 312 (21 CFR 312) governing the conduct of clinical investigations and the protection of human subjects. We wish to emphasize the following:
+You failed to ensure that the investigation was conducted according to the investigational plan [21 CFR 312.60].
+As a clinical investigator, you are required to ensure that your clinical investigations are conducted in accordance with the investigational plan. The investigational plan for Protocol
+(b)(4)
+required the randomization of subjects to receive one of three weekly doses (1.5 mg, 4.5 mg, or 9.0 mg) of the investigational drug
+(b)(4)
+or the matching placebo. Subjects in the 4.5 mg and 9.0 mg treatment arms were subdivided into two different titration arms (a and b), with different titration regimens beginning at 1.5 mg and increasing to the target randomized dose.
+You failed to adhere to this requirement for four out of four enrolled subjects over multiple study visits. Specifically:
+a. Subject
+(b)(6)
+was randomized on November 12, 2024, and was assigned to Arm 3a of the titration regimen, with a maximum weekly target dose of 9.0 mg of the investigational drug. However, this subject was administered 10 mg of study drug on November 12, 2024, and weekly from Visit 6 (Day 22) to Visit 10 (Day 50), receiving a total of 6 incorrect doses of the investigational drug.
+b. Subject
+(b)(6)
+was randomized on November 19, 2024, and was assigned to Arm 2a of the titration regimen, with a maximum weekly target dose of 4.5 mg of the investigational drug. However, this subject was administered 10 mg of study drug on November 19, 2024, and weekly from Visit 5 (Day 15) to Visit 13 (Day 71), receiving a total of 10 incorrect doses of the investigational drug.
+c. Subject
+(b)(6)
+was randomized on November 20, 2024, and was assigned to Arm 1 of the titration regimen, with a maximum weekly target dose of 1.5 mg of the investigational drug. However, this subject was administered 10 mg of study drug on November 20, 2024, weekly from Visit 5 (Day 15) to Visit 8 (Day 36), and weekly from Visit 10 (Day 50) to Visit 13 (Day 71), receiving a total of 9 incorrect doses of the investigational drug.
+d. Subject
+(b)(6)
+was randomized on November 21, 2024, and was assigned to Arm 2b of the titration regimen, with a maximum weekly target dose of 4.5 mg of the investigational drug. However, this subject was administered 10 mg of study drug on November 21, 2024, and weekly from Visit 5 (Day 15) to Visit 12 (Day 64), receiving a total of 9 incorrect doses of the investigational drug.
+During the time frame that subjects were administered the incorrect doses of the investigational drug, all four randomized subjects experienced multiple adverse events, including nausea, vomiting, stomach pain, fatigue, dizziness, pyrosis (heartburn), and injection-site reactions.
+In your June 3, 2025, written response to the Form FDA 483, you stated that the site staff administering the investigational product erroneously believed that the vials were pre-dosed, and that the site staff did not adhere to the pharmacy manual instructions. You also stated that the site staff who administered the investigational product for the applicable visits were not originally delegated and trained for study-drug administration.
+In addition, you detailed the following corrective and preventive actions that your site has taken or plans to take, including: (1) review of the investigational product’s handling and administration procedures with the investigator; (2) site-staff training on the importance of following all investigational product requirements and guidance; and (3) implementation of a new process requiring two trained and delegated staff members to separately calculate and document the doses on a supplemental source page.
+While we acknowledge the corrective and preventive actions that your site has taken, your written response is inadequate, because you did not include sufficient details regarding the training or procedures implemented at your site to prevent similar violations in the future. In addition, your written response does not provide sufficient details about how you, as the clinical investigator, will ensure adequate oversight of study procedures (for example, adherence to protocol-specified dosing requirements). Without this information, we are unable to determine whether your corrective actions appear adequate to prevent similar violations in future clinical investigations.
+We emphasize that as the clinical investigator, it is your responsibility to ensure that studies are conducted in accordance with the investigational plan, both to protect the rights, safety, and welfare of subjects and to ensure the integrity of study data. Your failure to conduct the clinical study in accordance with the protocol resulted in the overdosing of the investigational drug for four out of four enrolled subjects over multiple study visits. This conduct raises significant concerns about your protection of the study subjects enrolled at your site and raises concerns about the validity and integrity of the data collected at your site. This letter is not intended to be an all-inclusive list of deficiencies with your clinical study of an investigational drug. It is your responsibility to ensure adherence to each requirement of the law and relevant FDA regulations. You should address any deficiencies and establish procedures to ensure that any ongoing or future studies comply with FDA regulations.
+This letter notifies you of our findings and provides you with an opportunity to address the deficiencies noted above. Within 15 business days of your receipt of this letter, you should notify this office in writing of the actions you have taken to prevent similar violations in the future. Failure to address this matter adequately may lead to regulatory action. If you believe that you have complied with the FD&C Act and relevant regulations, please include your reasoning and any supporting information for our consideration.
+Should you have any questions or concerns about this letter or the inspection, please email FDA at CDER-OSI-Communications@fda.hhs.gov. Your written response and any pertinent documentation should be addressed to:
+Brittany L. Garr, MPH
+Branch Chief
+Compliance Enforcement Branch
+Division of Enforcement and Postmarketing Safety
+Office of Scientific Investigations
+Office of Compliance
+Center for Drug Evaluation and Research
+U.S. Food and Drug Administration
+Building 51, Room 5352
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+Sincerely yours,
+{See appended electronic signature page}
+David C. Burrow, Pharm.D., J.D.
+Director
+Office of Scientific Investigations
+Office of Compliance
+Center for Drug Evaluation and Research
+U.S. Food and Drug Administration
+--------------------------------------------------------------------------------------------
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+--------------------------------------------------------------------------------------------
+/s/
+------------------------------------------------------------
+DAVID C BURROW
+02/02/2026 01:25:08 PM

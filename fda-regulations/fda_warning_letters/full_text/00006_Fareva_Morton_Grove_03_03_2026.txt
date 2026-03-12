@@ -1,0 +1,190 @@
+COMPANY: Fareva Morton Grove
+DATE: 03/03/2026
+SUBJECT: CGMP/Finished Pharmaceuticals/Adulterated
+ISSUING_OFFICE: Center for Drug Evaluation and Research (CDER)
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/fareva-morton-grove-719408-03032026
+============================================================
+
+Delivery Method:
+VIA EMAIL WITH READ RECEIPT
+Reference #:
+320-26-48
+Product:
+Drugs
+Over-the-Counter Drugs
+Recipient:
+Recipient Name
+Mr. Bernard Fraisse
+Recipient Title
+Founder and CEO
+Fareva Morton Grove
+1 Avenue President Wilson
+75016
+Paris
+France
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+Warning Letter
+320-26-48
+March 3, 2026
+Dear Mr. Fraisse:
+The United States Food and Drug Administration (FDA) inspected your drug manufacturing facility, Fareva Morton Grove, FEI 1410794, at 6901 Golf Road, Morton Grove, Illinois, from August 4 to 12, 2025.
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21, Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+We reviewed your September 3, 2025, response to our Form FDA 483 in detail, and acknowledge receipt of your subsequent correspondence.
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+1. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+Your firm utilizes
+(b)(4)
+as a component to manufacture your over-the-counter (OTC) drug products. However, you failed to design and control your
+(b)(4)
+to ensure reliable production of
+(b)(4)
+. The system was unsuitable to ensure both chemical and microbiological quality attributes.
+For example, your
+(b)(4)
+design did not ensure
+(b)(4)
+. Notably, the system consistently failed to meet the
+(b)(4)
+specification. The performance qualification report for your
+(b)(4)
+included over
+(b)(4)
+of
+(b)(4)
+-sampling data, showing that most samples failed USP
+(b)(4)
+standards. Despite obtaining failing data, you approved the qualification study in
+(b)(4)
+. Subsequent
+(b)(4)
+data obtained from August 2023 through August 2025 showed that nearly all your
+(b)(4)
+samples continued to fail the
+(b)(4)
+specification for
+(b)(4)
+. You used
+(b)(4)
+from this
+(b)(4)
+in the manufacture of finished drug products.
+Your
+(b)(4)
+also had numerous points within the system that can harbor
+(b)(4)
+, dead-legs), including some points-of-use located in the drug production area. Your firm was aware of the presence of dead-legs in the system.
+Deficient
+(b)(4)
+design can foster the development of biofilms, resulting in significant sporadic spikes in microbial levels of
+(b)(4)
+used for formulation and cleaning. Examples of gram-negative bacteria found in your
+(b)(4)
+include Pseudomonas aeruginosa and Serratia marcescens (a family
+Yersiniaceae
+microbe).
+In your response, you state that you plan to redesign your
+(b)(4)
+to eliminate dead-legs, add
+(b)(4)
+equipment, and qualify the system for the production of
+(b)(4)
+. Your response is inadequate. You do not address your quality unit’s protracted insufficient action to address a long-standing pattern of failing test results of the
+(b)(4)
+utilized to make drug products.
+We acknowledge your commitment to stop using
+(b)(4)
+from your
+(b)(4)
+to manufacture drug products until the system can be remediated. We also acknowledge your commitment to use purchased
+(b)(4)
+, in the interim.
+(b)(4)
+must be suitable for its intended use. Systems used to produce
+(b)(4)
+must be adequately designed, controlled, maintained, and monitored. The monitoring program should include routine testing to ensure that appropriate chemical and microbiological limits are consistently met.
+In response to this letter, provide:
+A comprehensive remediation plan for the design, control, and maintenance of the
+(b)(4)
+, including:
+o a comprehensive evaluation of vulnerabilities of
+(b)(4)
+design and control, and summarize all deficiencies found in the system. The summary should, at a minimum, describe various system characteristics that were assessed for adequacy (for example, system temperature, materials of construction, slope, identified dead-legs, stagnant locations, unsanitary fittings, flow velocity, maintenance requirements).
+o revised procedures governing your program for ongoing control, maintenance, and monitoring to ensure the remediated system consistently produces
+(b)(4)
+that meets
+(b)(4)
+monograph specifications and appropriate microbial limits.
+o a corrective action and preventive action (CAPA) plan that corrects all
+(b)(4)
+design and control deficiencies. Include your plans for new system installation, or extensive design remediation (for example, removal of all dead-legs); preparation of a system-validation protocol; and the planned timeline for completion of thorough
+(b)(4)
+validation studies.
+Your plans for improved
+(b)(4)
+monitoring, including but not limited to the routine microbial testing of
+(b)(4)
+and appropriate limits (objectionable microbes, total count alert/action limits) to ensure the
+(b)(4)
+acceptability for use in each batch of drug product produced by your firm. Ensure that your
+(b)(4)
+total-count limits are appropriately stringent, in view of the intended use of each of the products produced by your firm.
+A detailed risk assessment addressing the potential effects of the observed
+(b)(4)
+failures on the quality of all drug product batches currently in U.S. distribution. Specify the actions you will take in response to the risk assessment, such as customer notifications and product recalls.
+2. Your firm failed to conduct appropriate laboratory testing, as necessary, for each batch of drug product required to be free of objectionable microorganisms (21 CFR 211.165(b)).
+You failed to ensure adequate microbiological testing for each batch of your drug products before release. For example, you failed to follow your procedure SOP L6082, “Identification of Gram-Negative Rod Bacteria and Yeast,” which requires the identification of all gram-negative rods found in your samples. You had not performed the required identification of gram-negative rods recovered from your drug products since January 2025, despite seeing an increase in colony forming units (CFUs) from September 2024 through January 2025.
+Testing is essential to ensure that the drug products you manufacture conform to all predetermined quality attributes appropriate for their intended use. Because you lacked adequate testing of each batch of your drug products, you do not know whether they conform to all appropriate finished-product specifications and are suitable for release to consumers.
+In response to this letter, provide:
+A list of chemical and microbial specifications, including test methods, used to analyze each batch of your drug products before a batch disposition decision.
+o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard-quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include but not be limited to:
+o A determination of whether procedures used by your firm are robust and appropriate
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+o A complete and final review of each batch and its related information before the QU disposition decision
+o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+3. Your firm failed to ensure that laboratory records included complete data derived from all tests necessary to ensure compliance with established specifications and standards (21 CFR 211.194(a)).
+You failed to accurately document drug product microbiology testing results. Specifically, you did not contemporaneously record negative results for sample plates on which no microbiological growth was observed. Your procedure required positive plates to be entered contemporaneously, while blank entries were later automatically documented as zero values. Our inspection of the laboratory revealed a plate that had been counted and found to contain 20 CFUs. However, your firm had discarded the plate without recording the microbial levels.
+You were also unable to provide complete
+(b)(4)
+microbial sampling results from the
+(b)(4)
+. Results existed in mixed formats (for example, paper-based and electronic entries), with some data missing.
+Collectively, these deficiencies indicate a significant risk of systematic underreporting of microbial findings.
+Reliability of data is fundamentally compromised when there is a failure to record data or to maintain complete and accurate records of test results. Furthermore, the lack of reliable data compromises the ability of your quality unit (QU) to exercise its function of ensuring compliance to applicable standards.
+In your response, you commit to retraining your microbiology staff to require microorganism identification, as well as accurate and contemporaneous recording of CGMP activities.
+Your response is inadequate in that you do not adequately address the major flaws in your laboratory system. Your response also lacks steps to systemically address your inadequate oversight of data integrity, including but not limited to improving your quality-assurance function.
+In response to this letter, provide:
+A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, analyst competencies, and management oversight. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+Your
+(b)(4)
+often result in high counts, ranging from
+(b)(4)
+CFUs/
+(b)(4)
+mL. Explain how your firm characterizes these counts and define when you would deem a sample result to be Too Numerous To Count (TNTC). Also describe how your method ensures accurate and precise expression of test results in a “per ml” measurement.
+A complete, independent assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, and contemporaneous records throughout your operation.
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP: Questions and Answers for guidance on establishing and following CGMP compliant data-integrity practices at https://www.fda.gov/media/119267/download.
+We strongly recommend that you retain a qualified consultant to assist in your remediation. In response to this letter, provide:
+A comprehensive investigation into the extent of the inaccuracies in data records and reporting, including all microbial-results data pertaining to drugs distributed to the United States. Include a detailed description of the scope and root causes of your data-integrity lapses.
+A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity, and analyses of the risks posed by ongoing operations.
+A management strategy for your firm that includes the details of your global CAPA plan. The detailed corrective-action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm, including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+Cosmetics Manufactured for Distribution in the United States
+In addition, some of the products you manufacture may be regulated as cosmetics, as defined in section 201(i) of the FD&C Act (21 U.S.C. 321(i)). Any cosmetics you manufacture must comply with applicable statutory and regulatory requirements, including the FD&C Act. We note that under section 301(a) of the FD&C Act (21 U.S.C. 331(a)), it is a prohibited act to introduce or deliver for introduction into interstate commerce a cosmetic that is adulterated or misbranded.
+We also note that the Modernization of Cosmetics Regulation Act of 2022 (MoCRA) provides new requirements with which facilities that manufacture cosmetic products must comply. You may find the FD&C Act, MoCRA, and FDA’s regulations through links on FDA’s website at www.fda.gov.
+Conclusion
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 1410794 and ATTN: Carlos Gonzalez.
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

@@ -1,0 +1,167 @@
+COMPANY: Signature Formulations, LLC
+DATE: 01/21/2026
+SUBJECT: CGMP/Finished Pharmaceuticals/Adulterated
+ISSUING_OFFICE: Center for Drug Evaluation and Research (CDER)
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/signature-formulations-llc-718093-01212026
+============================================================
+
+Delivery Method:
+VIA UPS
+Reference #:
+320-26-38
+Product:
+Drugs
+Over-the-Counter Drugs
+Recipient:
+Recipient Name
+Ms. Maria Esparza
+Recipient Title
+President and Owner
+Signature Formulations, LLC
+5446 W Roosevelt St., Ste 101
+Phoenix
+,
+AZ
+85043
+United States
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+Warning Letter
+320-26-38
+January 21, 2026
+Dear Ms. Esparza:
+The United States Food and Drug Administration (FDA) inspected your drug manufacturing facility, Signature Formulations LLC., FEI 3011368010, at 5446 W Roosevelt St., Ste 101., Phoenix, from July 21 to 29, 2025.
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+We reviewed your August 29, 2025, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+1. Your firm failed to perform operations within specifically defined areas of adequate size and to have separate or defined areas or such other control systems necessary to prevent contamination or mix-ups (21 CFR 211.42(c)).
+You manufacture
+(b)(4)
+over-the-counter (OTC)
+(b)(4)
+drug products and
+(b)(4)
+containing drug products in a shared facility, using multiple pieces of shared equipment. For example,
+(b)(4)
+was used to manufacture
+(b)(4)
+containing
+(b)(4)
+prior to manufacturing ORL kids bubblegum toothpaste. You manipulate and manufacture drugs with potent active ingredients without adequate facility separation to prevent cross-contamination of other drug products.
+Your
+(b)(4)
+drug products contain
+(b)(4)
+. Contamination of
+(b)(4)
+drug products with potent
+(b)(4)
+presents significant risk to patient safety.
+In your response, you state that “exhaust systems or other systems to control contaminants are under study.” However, our investigation identified use of non-dedicated equipment in a shared facility. Your response is inadequate because it does not address how you will ensure there are adequate facility and equipment controls to prevent cross contamination.
+Contamination is generally nonuniformly distributed. Data obtained from retrospectively testing a small proportion of a batch (e.g., retain samples) is limited in its ability to retrospectively assess the extent of contamination in other portions of a batch. The lowest or highest results obtained from testing a small sample size is unlikely to reveal the true range of minimum and maximum contamination level that exists in a batch exposed to the contamination hazards identified at your firm. Consequently, the range of variability of contamination levels in batches produced by your firm remain characterized by substantial residual uncertainty. Because of the limitations of retrospective testing in gaining a representative understanding of the entire lot, testing retain samples alone is insufficient to determine the scope of the contamination issues and mitigate the associated risks. Further evaluation and scientific rationale is needed in your firm’s risk assessment to reflect the nature of cross-contamination events and determine the degree of cross-contamination risk that may be posed to a portion of marketed batches.
+On December 2, 2025, FDA held a teleconference with you recommending you consider removing any batches of ORL Kid’s Natural Toothpaste and ORL Kid’s mouthwash currently in distribution from the U.S. market.
+On December 8, 2025, you issued a voluntarily recall of ORL kids bubblegum toothpaste lot number 250520P4-05/27 and ORL kids bubblegum mouthwash lot number 250505P9-05/27 due to potential contamination with exogenous hormones.
+In response to this letter, provide:
+A comprehensive, independent assessment of the design and control of your firm’s manufacturing operations with a detailed and thorough review of all
+(b)(4)
+, and other active ingredient, cross-contamination hazards.
+Confirmation of whether you will discontinue manufacturing drugs on shared equipment in your facility and implement appropriate controls to prevent cross-contamination.
+Your plan to perform testing to identify
+(b)(4)
+contamination in all your drug products. Any testing performed to identify
+(b)(4)
+contamination should be scientifically sound, include appropriate sampling plans and test procedures, including methods that are appropriately validated, suitable for intended use, and sufficiently sensitive.
+A detailed risk assessment addressing the hazards posed by distributing drug products potentially contaminated with
+(b)(4)
+. Specify actions you will take in response to the risk assessment, such as customer notifications and product recalls.
+A summary of updated standard operating procedures (SOPs) that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+2. Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+You failed to ensure your cleaning procedures are adequate to prevent cross-contamination of
+(b)(4)
+OTC drug products with the potent
+(b)(4)
+(e.g.,
+(b)(4)
+). For example, you have inadequate cleaning validation for your non-dedicated manufacturing equipment.
+In your response, you state that your cleaning and sanitization SOP has been updated and that dirty and damaged equipment components have been replaced. Cleaning to prevent cross contamination with potent ingredients on shared equipment is extremely difficult and unacceptable.
+(b)(4)
+in
+(b)(4)
+OTC
+(b)(4)
+products pose a significant risk to public health. In children, exposure to even low levels of
+(b)(4)
+can lead to developmental and reproductive harm. Therefore, dedication of facilities and equipment should be considered.
+In response to this letter, provide:
+A risk assessment for all drug products you have previously produced on shared equipment. For each product, assess the risk of potential contamination due to the shared equipment. Also, provide your plans for addressing the product quality and patient safety risks for any product still in distribution, including potential recalls or market withdrawals.
+A comprehensive, independent retrospective assessment of your cleaning effectiveness to evaluate the scope of cross-contamination hazards. Include the identity of residues, other manufacturing equipment that may have been improperly cleaned, and an assessment whether cross-contaminated products may have been released for distribution. The assessment should identify any inadequacies of cleaning procedures and practices and encompass each piece of manufacturing equipment used to manufacture more than one product.
+A corrective action and preventive action (CAPA) plan based on the retrospective assessment of your cleaning and disinfection program. Include appropriate remediations to your cleaning and disinfection processes and practices and timelines for completion. Provide a detailed summary of vulnerabilities in your process for lifecycle management of equipment cleaning and disinfection. Describe improvements to your cleaning and disinfection program, including enhancements to cleaning effectiveness, improved ongoing verification of proper cleaning and disinfection execution for all products and equipment, and all other needed remediations.
+Evidence of the establishment of a cleaning validation program with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include, but not be limited to, identification and evaluation of all worst-case:
+o Drugs with higher toxicities
+o Drugs with higher drug potencies
+o Drugs of lower solubility in their cleaning solvents
+o Drugs with characteristics that make their residue difficult to clean
+o Swabbing locations for areas that are most difficult to clean
+o Maximum hold times before cleaning
+The steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+3. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release. Your firm failed to conduct, for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable microorganisms (21 CFR 211.165(a) and 211.165(b)).
+You released finished drug products without adequate testing. For example, you did not perform adequate microbiological monitoring and chemical testing on your finished drug products. Further, you did not adequately validate the method you use for assay testing your bulk
+(b)(4)
+containing drug products.
+Your response states that you do not “produce any products that are drugs.” Your response is inadequate because your drug products are subject to CGMP requirements. Further, your response does not indicate that you will test your finished drug products to ensure they meet appropriate specifications.
+Drug product batches must be tested for identity, strength, and purity prior to release. Testing is essential to ensure that the drug products you manufacture conform to all predetermined quality attributes appropriate for their intended use. Without adequate finished product release testing, you do not have scientific evidence that each batch of drug product conforms to appropriate specifications before release.
+In your response to this letter, provide:
+A comprehensive independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+A list of chemical and microbial specifications, including test methods, used to analyze each batch of your drug products before a batch disposition decision.
+An action plan and timelines for conducting full chemical and microbiological testing of reserve samples to determine the quality of all batches of drug products distributed to the United States that are within expiry as of the date of this letter.
+A summary of all results obtained from testing reserve samples from each batch. If this testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+4. Your firm failed to establish an adequate quality unit and the responsibilities and procedures applicable to the quality control unit are not in writing and fully followed (21 CFR 211.22(a) and 211.22(d)).
+You lacked adequate quality unit (QU) oversight for the manufacture of your drug products. For example, your QU failed to ensure:
+Adequate testing of incoming raw materials, including performing identity testing of each shipment of each component (e.g.
+(b)(4)
+) used in the manufacture of your drug products (21 CFR 211.84(d)(2))
+Adequate laboratory controls and specifications (21 CFR 211.160(b))
+Adequate design and procedures for production and process controls for drug products and for maintenance and monitoring of your
+(b)(4)
+used to manufacture drug products (21 CFR 211.100(a))
+Adequate investigations into non-conformances (21 CFR 211.192)
+Establishment of a written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a))
+In your response, you again state that you do not manufacture any drug products. You further state that you updated your procedures to more clearly define the roles of the QU. Your response is inadequate because you do not address how you plan to ensure that your quality unit has sufficient resources to carry out its responsibilities and consistently ensure drug quality. You also do not address how you will maintain completeness and accuracy of the records used for batch release and other quality review decisions.
+Significant findings in this letter demonstrate that your firm does not operate an effective quality system in accord with CGMP. In addition to the lack of effective management oversight of your production and laboratory operations, we found your quality unit is not enabled to exercise proper authority and/or has insufficiently implemented its responsibilities. Executive management should immediately and comprehensively assess your company’s global manufacturing operations to ensure that your systems, processes, and products conform to FDA requirements.
+See FDA’s guidance document
+Quality Systems Approach to Pharmaceutical CGMP Regulations
+for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+In your response to this letter, provide:
+A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+o A determination of whether procedures used by your firm are robust and appropriate
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+o A complete and final review of each batch and its related information before the QU disposition decision
+o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+Also describe how top management supports quality assurance and reliable operations, including, but not limited to, timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+Responsibilities as a Contractor
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document
+Contract Manufacturing Arrangements for Drugs: Quality Agreements
+at https://www.fda.gov/media/86193/download.
+Repeat Violations at Facility
+In a previous warning letter CMS 545017, dated July 31, 2018, FDA cited similar CGMP violations. You proposed specific remediation for these violations in your response. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs are inadequate.
+Drug Consultant Recommended
+It is the responsibility of each person marketing and distributing drug products in the United States to comply with the requirements of the FD&C Act and its implementing regulations. Should you have questions concerning the laws and regulations for the products manufactured by your firm, including the products manufactured for contract customers, we recommend that you retain the services of a drug law consultant for assistance.
+Because you failed to correct repeat violations, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your CAPA before you pursue resolution of your firm’s compliance status with FDA.
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+Conclusion
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3011368010 and ATTN: Zachary Bogorad.
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

@@ -1,0 +1,103 @@
+COMPANY: Center For Immunology Science, LLC
+DATE: 01/13/2026
+SUBJECT: Sponsor/Investigator
+ISSUING_OFFICE: Center for Drug Evaluation and Research (CDER)
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/center-immunology-science-llc-719933-01132026
+============================================================
+
+Delivery Method:
+VIA UNITED PARCEL SERVICE AND VIA E-MAIL
+Reference #:
+26-HFD-45-01-02
+Product:
+Drugs
+Recipient:
+Recipient Name
+Bruce S. Gillis, M.D., MPH
+Recipient Title
+CEO
+Center For Immunology Science, LLC
+2109 Granville Avenue
+Los Angeles
+,
+CA
+90025-6105
+United States
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+WARNING LETTER
+FDA Ref. No.: 26-HFD-45-01-02
+Dear Dr. Gillis:
+This Warning Letter informs you of objectionable conditions observed during the U.S. Food and Drug Administration (FDA) inspection conducted between October 7 and November 20, 2024. The investigator representing FDA reviewed the role of the Center for Immunology Science, LLC (Center for Immunology Science) as the sponsor of a clinical investigation (Protocol CISMX-001/CISMX-001B,
+1
+“Use of Heat-Killed
+Mycobacteria smegmatis
+as a nutritional supplement/biotic to boost immune system and microbiome health”) of the investigational drug, heat-killed
+Mycobacteria smegmatis
+.
+This inspection was conducted as a part of FDA’s Bioresearch Monitoring Program, which includes inspections designed to evaluate the conduct of research and to help ensure that the rights, safety, and welfare of human subjects have been protected.
+At the conclusion of the inspection, the FDA Investigator presented and discussed with you the Form FDA 483, Inspectional Observations. We acknowledge receipt of your November 27, 2024, written response to the Form FDA 483.
+From our review of the FDA Establishment Inspection Report, the documents submitted with that report, and your written response dated November 27, 2024, it appears that the Center for Immunology Science did not adhere to the applicable statutory requirements in the Federal Food, Drug, and Cosmetic Act (FD&C Act) and applicable regulations contained in Title 21 of the Code of Federal Regulations, part 312 (21 CFR 312), governing the conduct of clinical investigations and the protection of human subjects. We wish to emphasize the following:
+You failed to submit an Investigational New Drug application (IND) for the conduct of a clinical investigation with an investigational new drug that is subject to 21 CFR 312.2(a) [21 CFR 312.20(a), 312.20(b), and 312.40(a)].
+FDA regulations require a sponsor to submit, and to have in effect, an IND before initiating a clinical investigation of a drug that is subject to 21 CFR 312.2(a) [see 21 CFR 312.20 and 312.40(a)] in human subjects, unless the clinical investigation qualifies for an IND exemption under 21 CFR 312.2.
+2
+The Center for Immunology Science failed to comply with these requirements. Specifically, the Center for Immunology Science initiated and conducted Protocol CISMX-001, a clinical investigation of the investigational drug, heat-killed
+Mycobacteria smegmatis
+, subject to section 505 of the FD&C Act [21 U.S.C. 355], without submitting and having in effect an IND.
+In the Center for Immunology Science’s November 27, 2024, written response to the Form FDA 483, you stated that an IND is only required for a drug product. You further stated that under the Dietary Supplement Health and Education Act of 1994 (DSHEA), a dietary supplement is not considered a drug and is not subject to the premarket approval requirements for drugs if the intended use for which it is marketed is only to affect the structure or any function of the body. You also stated that whether an IND is needed for a clinical investigation evaluating a dietary supplement is determined by the intent of the clinical investigation, noting that if the clinical investigation is intended only to evaluate a dietary supplement’s effect on the structure or function of the body, an IND is not required. You stated that since the protocol describes heat-killed
+Mycobacteria smegmatis
+as a nutritional supplement/biotic intended to boost immune system and microbiome health, an IND was not required.
+For the reasons described below, we conclude that the evidence collected during the inspection shows that heat-killed
+Mycobacteria smegmatis
+was intended for use as a drug, not as a dietary supplement, for the clinical investigation conducted under Protocol CISMX-001. Therefore, the Center for Immunology Science was required to submit an IND before initiating and conducting the clinical investigation.
+Section 201(g)(1) of the FD&C Act [21 U.S.C. 321(g)(1)] defines drug, in part, as “articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease….” The Center for Immunology Science studied the efficacy of heat-killed
+Mycobacteria smegmatis
+to treat or mitigate immune-deficiency diseases. As described in the protocol, the purpose of Protocol CISMX-001 was to determine if subjects with an immune-deficiency disease can benefit from taking heat-killed
+Mycobacteria smegmatis
+. The protocol stated that
+Mycobacteria smegmatis
+has immune-modulating effects that can stimulate or suppress the immune system and may help the body fight cancer, infection, or other diseases. Protocol CISMX-001 also states that information from the study may be used to produce an over-the counter product to boost immune system and microbiome health that may help reduce symptoms associated with an immune-deficiency medical disease. Additionally, outcome assessments for the study, performed after the administration of heat-killed
+Mycobacteria smegmatis
+, included weekly health questionnaires to evaluate changes in, or the frequency and severity of, subject-reported symptoms, including but not limited to fatigue, pain or tenderness, depression, anxiety, insomnia, headaches, abdominal pain, and respiratory problems. Therefore, Protocol CISMX-001 collected study data to assess the efficacy of heat-killed
+Mycobacteria smegmatis
+in treating or mitigating the symptoms associated with immune-deficiency diseases.
+Whether an investigational article is a drug depends on the intent of the investigation. Based on the study design of Protocol CISMX-001, the investigational product, heat-killed
+Mycobacteria smegmatis
+, as used in the clinical investigation, was a drug as defined in section 201(g)(1) of the FD&C Act, because heat-killed
+Mycobacteria smegmatis
+was studied for use in the treatment of immune-deficiency diseases.
+Thus, before initiating the clinical investigation of heat-killed
+Mycobacteria smegmatis
+conducted under Protocol CISMX-001, under 21 CFR 312.40, the Center for Immunology Science was required to submit an IND to FDA and to have an IND in effect. FDA’s records indicate that the Center for Immunology Science failed to submit an IND before conducting Protocol CISMX-001, in which 200 human subjects received investigational drug.
+In your November 27, 2024, written response, you stated that the Center for Immunology Science is prepared to comply with all future obligations. However, your written response does not provide sufficient details about the Center for Immunology Science’s corrective and preventive action plan for developing and implementing procedures to comply with IND regulations, if the Center for Immunology Science should decide in the future to initiate another clinical investigation for which an IND is required. As a result, your response is inadequate. Without this information, we are unable to determine whether the Center for Immunology Science will comply with IND regulations in the future.
+As a sponsor, you are responsible for complying with IND requirements, which include submitting and having in effect an IND before initiating a clinical investigation. It is also your responsibility, as a sponsor, to be aware of and to follow all applicable FDA regulations. The Center for Immunology Science’s failure to submit, and to have in effect, an IND before initiating Protocol CISMX-001 with an investigational drug raises significant concerns about the safety and welfare of enrolled subjects, and raises concerns about the validity and integrity of data collected during the conduct of this clinical investigation.
+This letter is not intended to be an all-inclusive list of deficiencies with your clinical study of an investigational drug. It is your responsibility to ensure adherence to each requirement of the law and relevant FDA regulations. You should address any deficiencies and establish procedures to ensure that any ongoing or future studies comply with FDA regulations.
+This letter notifies you of our findings and provides you with an opportunity to address the deficiencies noted above. Within 15 business days of your receipt of this letter, you should notify this office in writing of the actions you have taken to prevent similar violations in the future. Failure to address this matter adequately may lead to regulatory action. If you believe that you have complied with the FD&C Act and relevant regulations, please include your reasoning and any supporting information for our consideration.
+Should you have any questions or concerns regarding this letter or the inspection, please email FDA at CDER-OSI-Communications@fda.hhs.gov. Your written response and any pertinent documentation should be addressed to:
+Brittany L. Garr, MPH
+Branch Chief
+Compliance Enforcement Branch
+Division of Enforcement and Postmarketing Safety
+Office of Scientific Investigations
+Office of Compliance
+Center for Drug Evaluation and Research
+U.S. Food and Drug Administration
+Building 51, Room 5352
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+Sincerely yours,
+/S/
+David C. Burrow, Pharm.D., J.D.
+Director
+Office of Scientific Investigations
+Office of Compliance
+Center for Drug Evaluation and Research
+U.S. Food and Drug Administration
+___________________
+1
+Protocol CISMX-001B was conducted in healthy human subjects.
+2
+Protocol CISMX-001 does not qualify for any of the exemptions listed at 21 CFR 312.2 from the application of 21 CFR 312. To be IND-exempt under 21 CFR 312.2, the investigational product must, among other things, be lawfully marketed in the United States as a drug product. As stated in your November 27, 2024, written response, heat-killed
+Mycobacteria smegmatis
+is marketed as a dietary supplement, not as a drug product.

@@ -1,0 +1,93 @@
+COMPANY: John Yoder Farm
+DATE: 11/28/2025
+SUBJECT: PHS Act/Shell Egg Regulation/Adulterated
+ISSUING_OFFICE: Human Foods Program
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/john-yoder-farm-716077-11282025
+============================================================
+
+Delivery Method:
+United Parcel Service
+Product:
+Food & Beverages
+Recipient:
+Recipient Name
+Mr. John A. Yoder
+Recipient Title
+Owner
+John Yoder Farm
+5475 E. County Road 8 South
+Monte Vista
+,
+CO
+81144
+United States
+Issuing Office:
+Human Foods Program
+United States
+November 28, 2025
+WARNING LETTER
+Re: CMS # 716077
+Dear Mr. Yoder:
+From July 8, 2025, through July 10, 2025, the United States Food and Drug Administration (FDA) conducted an inspection of your shell egg farm located at 5475 E. County Road 8 South, Monte Vista, Colorado 81144. During our inspection of your farm, FDA investigators observed serious violations of the Prevention of Salmonella Enteritidis in Shell Eggs During Production, Storage, and Transportation regulation (the Shell Egg Regulation), Title 21, Code of Federal Regulations, Part 118 (21 CFR Part 118), and the Federal Food, Drug, and Cosmetic Act (FD&C Act). At the conclusion of the inspection, the FDA investigator issued an FDA Form 483 (FDA-483), Inspectional Observations, listing deviations found at your farm.
+Based on FDA’s inspectional findings, we have determined that the shell eggs produced on your farm do not comply with the provisions of 21 CFR Part 118. Failure to comply with the provisions of 21 CFR Part 118 causes your shell eggs to be in violation of section 361(a) of the Public Health Service Act (the PHS Act), 42 U.S.C. § 264(a). In addition, these violations render your shell eggs adulterated within the meaning of section 402(a)(4) of the FD&C Act, 21 U.S.C. § 342(a)(4), in that they have been prepared, packed, or held under insanitary conditions whereby they may have become contaminated with filth, or whereby they may have been rendered injurious to health. You may find the FD&C Act, the PHS Act, and the Shell Egg Regulation through links on FDA’s home page at www.fda.gov.
+To date, we have not received a written response to address the observations listed on the FDA-483. Therefore, we are unable to evaluate any corrective actions you may have taken. We acknowledge receiving the results of your environmental testing conducted when your current flock was
+(b)(4)
+weeks of age, submitted to FDA on September 11, 2025. Based on our review of the inspectional findings, we are issuing this letter to advise you of FDA’s continuing concerns and to provide detailed information describing the findings at your farm.
+Your significant violations are as follows:
+Shell Egg Regulation (21 CFR Part 118)
+1. You did not have and implement a written Salmonella Enteritidis (SE) Prevention Plan that includes, at a minimum, the SE prevention measures required by 21 CFR 118.4. At the initiation of the July 2025 inspection, your poultry house contained approximately
+(b)(4)
+layers and you distributed shell eggs to the table market. As a shell egg producer with 3,000 or more laying hens at your farm who does not sell all of your eggs directly to consumers and who produces shell eggs for the table market, you are required to comply with the Shell Egg Regulation. As part of this regulation, you are required to have an SE Prevention Plan that includes, at a minimum, the SE prevention measures outlined in 21 CFR 118.4(a) – (e), which include:
+a.
+Pullets
+A written SE Prevention Plan must include, among other things, the required SE prevention measures relating to pullets. Under 21 CFR 118.4(a), these measures include procuring pullets that are SE monitored or raising pullets under SE monitored conditions. Under 21 CFR 118.4(a)(1), “SE monitored” means (among other things) that chicks are procured from SE-monitored breeder flocks that meet the National Poultry Improvement Plan's standards for “U.S. S. Enteritidis Clean” status (9 CFR 145.23(d)) or an equivalent standard. Under 21 CFR 118.4(a)(2), “SE monitored” also means that the pullet environment is tested for SE when pullets are 14-16 weeks of age.
+During the inspection you provided documentation to show that you had obtained your flocks from pullet growers.The documentation showed the chicks were procured from SE monitored breeder flocks that meet the “U.S. SE Clean” status and the pullet environment was tested for SE between 14-16 weeks. However, as a producer, you are required to have and implement a written SE Prevention Plan that addresses all the elements of procuring SE monitored pullets or raising pullets under SE monitored conditions.
+b.
+Biosecurity
+A written SE Prevention Plan must include, among other things, the required SE prevention measures relating to biosecurity, as required by 21 CFR 118.4(b). This provision requires you to take steps to ensure there is no introduction or transfer of SE into or among your poultry houses. These biosecurity measures must include, at a minimum:
+Limiting visitors on the farm and in the poultry houses (21 CFR 118.4(b)(1));
+Maintaining practices that will protect against cross contamination when equipment is moved among poultry houses (21 CFR 118.4(b)(2));
+Maintaining practices that will protect against cross contamination when persons move between poultry houses (21 CFR 118.4(b)(3));
+Preventing stray poultry, wild birds, cats, and other animals from entering poultry houses (21 CFR 118.4(b)(4)); and
+Not allowing employees to keep birds at home (21 CFR 118.4(b)(5)).
+In addition to not having a written SE Prevention Plan, during the inspection we observed you did not take steps to prevent the introduction or transfer of SE into your poultry house. Specifically, your farm manager indicated two of your farm’s current employees keep birds (chickens) at home. As a producer, you are required to have and implement a written SE Prevention Plan that addresses all the elements of biosecurity.
+c.
+Rodents, Flies, and Other Pest Control
+A written SE Prevention Plan must include, among other things, the required rodent, fly, and other pest control measures, as required by 21 CFR 118.4(c). During the inspection, you indicated that you maintain fly traps and
+(b)(4)
+rodent bait traps on the
+(b)(4)
+of your poultry house. While you maintain records documenting the monitoring for the presence of rodents, you do not maintain records documenting the monitoring for the presence of flies. As a producer, you are required to have and implement a written SE Prevention Plan that addresses the required pest control measures.
+d.
+Cleaning and Disinfection
+A written SE Prevention Plan must include, among other things, cleaning and disinfection procedures for the poultry house, as required in 21 CFR 118.4(d). You must clean and disinfect the poultry house according to these procedures before new laying hens are added to the house, if you have had an environmental test or an egg test that was positive for SE at any point during the life of a flock that was housed in the poultry house prior to depopulation. As a producer, you are required to have and implement a written SE Prevention Plan that addresses the cleaning and disinfection of your poultry house.
+e.
+Refrigeration
+A written SE Prevention Plan must include, among other things, the SE prevention measures related to refrigeration that are required by 21 CFR 118.4(e). You must ensure eggs are held and, if applicable, transported at or below 45°F ambient temperature beginning 36 hours after time of lay, as required by 21 CFR 118.4(e). We acknowledge the cooler temperature monitoring logs reviewed from January 2025 to July 2025, along with a cooler temperature reading taken by our investigator, revealed temperatures below 45⁰F. You must ensure that your processes and records also allow for calculation of 36 hours from time of lay. As a producer, you are required to have and implement a written SE Prevention Plan that addresses the refrigeration of table eggs.
+To date, we have not received a copy of your SE Prevention Plan or a response outlining corrective actions.Thus, we are unable to evaluate your preventive measures or any corrective actions you may have taken.
+FD&C Act
+2. Your eggs were prepared, packed, or held under insanitary conditions whereby they may have become contaminated with filth or rendered injurious to health within the meaning of section 402(a)(4) of the FD&C Act. Specifically, during the inspection, our investigator observed the following insanitary conditions and practices in your egg collection room:
+a. On July 8, 2025, our investigator observed approximately
+(b)(4)
+flies in your egg collection room.
+b. On July 8, 2025, a cat and a dog were observed to enter the egg collection room when the door was left open.
+The violations cited in this letter are not intended to be an all-inclusive list of the violations that may exist at your farm or in connection with your shell eggs. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your shell egg production practices are conducted in compliance with federal law, including the FD&C Act, the PHS Act, and the Shell Egg Regulation.
+This letter notifies you of our concerns and provides you an opportunity to address them. Failure to adequately address this matter may result in legal action including, without limitation, seizure, injunction, or the initiation of administrative enforcement procedures under 21 CFR 118.12(a).
+In addition to the violations described above, we offer the following comment:
+As a producer, you must conduct environmental testing when your laying hens are 40 to 45 weeks of age as an indicator of the effectiveness of your SE Prevention Plan. At the time of the inspection, your current flock was approximately
+(b)(4)
+weeks of age. During the inspection, you assured the investigator that your farm would conduct environmental testing of your current flock at the appropriate age intervals. On September 11, 2025, we received a copy of your environmental testing results for this flock. The current flock was hatched on October 1, 2024, and the environmental testing was conducted on August 26, 2025, indicating that the flock was tested at
+(b)(4)
+weeks of age. Therefore, the environmental testing was not conducted when the laying hens were 40 to 45 weeks of age, as required by 21 CFR 118.5(a). Additionally, prior to your current flock, you acknowledged having at least
+(b)(4)
+flock for which you did not perform environmental testing when the laying hens were 40 to 45 weeks of age.
+The investigator provided hard copies of resources that address various aspects of the Shell Egg Regulation, including the topics addressed in this letter, at the initiation of the inspection. Please note that resources are also available on our website at www.fda.gov/eggs. For example, the December 2011 Guidance for Industry “Prevention of Salmonella Enteritidis in Shell Eggs During Production, Storage, and Transportation” addresses topics such as rodent and fly monitoring; the August 2022 Guidance for Industry “Questions and Answers Regarding the Final Rule on Prevention of Salmonella Enteritidis in Shell Eggs During Production, Storage, and Transportation (Layers with Access to Areas Outside the Poultry House)” provides information specific to operations where layers have access to areas that are outside the poultry house; and the July 2015 Guidance for Industry “Questions and Answers Regarding the Final Rule, Prevention of Salmonella Enteritidis in Shell Eggs During Production, Storage, and Transportation” provides answers to common questions about the Shell Egg Regulation. For hard copies, please reach out to Lakisha Morton, Compliance Officer, at the address provided below.
+Please notify FDA in writing within fifteen (15) working days of receipt of this letter, of the specific steps you have taken to address any violations. Include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. If you cannot complete corrective actions within fifteen (15) working days, state the reason for the delay and the time within which you will do so. If you believe that you have complied with pertinent laws and regulations, include your reasoning and any supporting information for our consideration.
+Please send your reply via email to HFP-OCE-ConventionalFoods@fda.hhs.gov, copying Lakisha N. Morton, Compliance Officer, at lakisha.morton@fda.hhs.gov or by hardcopy to the Food and Drug Administration, Attention: Lakisha N. Morton, Compliance Officer, Human Foods Program -Office of Compliance and Enforcement, Office of Enforcement, Division of Conventional Foods Enforcement (HFS-607), 5001 Campus Drive, College Park, MD 20740. Your response may also be submitted via eFax at 301-837-6314. If you have any questions regarding any issues in this letter, you may contact Lakisha Morton, Compliance Officer, via email at lakisha.morton@fda.hhs.gov. Please reference CMS # 716077 on any submissions and within the subject line of any correspondence to the agency.
+Sincerely,
+/S/
+Maria S. Knirk, J.D. MBA
+Acting Director, Office of Enforcement
+Office of Compliance and Enforcement
+Human Foods Program
+Food and Drug Administration

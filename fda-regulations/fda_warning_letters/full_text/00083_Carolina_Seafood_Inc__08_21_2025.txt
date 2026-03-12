@@ -1,0 +1,122 @@
+COMPANY: Carolina Seafood Inc.
+DATE: 08/21/2025
+SUBJECT: Seafood HACCP/CGMP for Foods/Adulterated
+ISSUING_OFFICE: Human Foods Program
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/carolina-seafood-inc-710510-08212025
+============================================================
+
+Delivery Method:
+VIA ELECTRONIC DELIVERY
+Product:
+Food & Beverages
+Recipient:
+Recipient Name
+Rutledge B. Leland III
+Recipient Title
+Owner
+Carolina Seafood Inc.
+22 Oak Street
+McClellanville
+,
+SC
+29458
+United States
+Carolina.seafood@gmail.com
+Issuing Office:
+Human Foods Program
+United States
+August 21, 2025
+WARNING LETTER
+Re: CMS #710510
+Dear Mr. Leland:
+The United States Food and Drug Administration (FDA) conducted an inspection of your seafood processing facility, located at 22 Oak Street, McClellanville, SC 29458, from April 29 to May 2, 2025. During our inspection, the FDA investigators found serious violations of the seafood Hazard Analysis and Critical Control Point (HACCP) regulation, Title 21, Code of Federal Regulations, Part 123. At the conclusion of the inspection, the FDA investigator issued your facility a Form FDA 483 (FDA-483), Inspectional Observations, listing the deviations found at your firm. You provided responses to the FDA-483 on June 4 and June 9, 2025, including your revised undated HACCP Plan for “SHRIMP DIP,” and revised undated HACCP Plan for “CRAB DIP” and supporting HACCP documentation. After reviewing your responses, we continue to have concerns with your HACCP program for your ready-to-eat (RTE) crab dip and shrimp dip, as further described in this letter.
+In accordance with 21 CFR 123.6(g), failure of a processor of fish or fishery products to have and implement a HACCP plan that complies with this section or otherwise operate in accordance with the requirements of Part 123, renders the fish or fishery products adulterated within the meaning of section 402(a)(4) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 342(a)(4). Accordingly, your RTE crab dip and shrimp dip seafood products are adulterated, in that they have been prepared, packed, or held under conditions whereby they may have been rendered injurious to health. You may find the Act, the seafood HACCP regulation, and the June 2022 4th Edition of the Fish and Fisheries Products Hazards & Controls Guidance (the Hazards Guide) through links in FDA’s home page at www.fda.gov.
+Your significant violations of the seafood HACCP regulation are as follows:
+Revised, undated HACCP plan for RTE Crab Dip
+1. You must conduct or have conducted for you a hazard analysis for each kind of fish and fishery product that you produce to determine whether there are food hazards that are reasonably likely to occur and have a HACCP plan that, at a minimum, lists the food safety hazards that are reasonably likely to occur, to comply with 21 CFR 123.6(a) and (c)(1). A food safety hazard is defined in 21 CFR Part 123.3(f) as "any biological, chemical, or physical property that may cause a food to be unsafe for human consumption." However, your firm’s revised HACCP plan for Crab Dip does not list the food safety hazards of metal inclusion and undeclared allergens. The hazard of metal inclusion in your finished product can occur during metal-on-metal interaction during the opening of metal cans of pasteurized crab meat and the
+(b)(4)
+of the dip in an industrial mixer with a metal paddle and bowl. The hazard of undeclared allergens (e.g., shellfish (crab), soy, egg, and milk) should be controlled at your finished product
+(b)(4)
+step.
+2. You must have a HACCP plan that at a minimum, lists the critical limits that must be met, to comply with 21 CFR 123.6(c)(3). A critical limit is defined in 21 CFR 123.3(c) as “the maximum or minimum value to which a physical, biological, or chemical parameter must be controlled at a critical control point (CCP) to prevent, eliminate, or reduce to an acceptable level the occurrence of the identified food safety hazard. However, your firm’s revised HACCP plan for Crab Dip at your “
+(b)(4)
+” CCP lists critical limits of “
+(b)(4)
+” are not adequate to control
+Clostridium botulinum
+growth and toxin formation. FDA recommends your critical limits list that the product is completely surrounded by ice at the time of delivery or there is an adequate amount of frozen ice packs to have maintain the product at 40°F or below throughout transit and the internal temperature of the product at the time of delivery is 40°F or below.
+3. You must have a HACCP plan that at a minimum, lists monitoring procedures and their frequency for each CCP to comply with 21 CFR 123.6(c)(4). However, your revised HACCP plan for Crab Dip lists monitoring procedures at the following CCPs that are not adequate to control pathogen growth and toxin formation.
+a. At the “
+(b)(4)
+” CCP, the monitoring procedure of “
+(b)(4)
+” is not adequate. The monitoring procedure does not identify monitoring of actual time and temperature during processing. FDA recommends your procedure list monitoring of the cumulative time for unrefrigerated processing during
+(b)(4)
+using a clock to ensure that maximum processing times at unrefrigerated temperatures are not exceeded.
+b. At the “
+(b)(4)
+” CCP, the monitoring procedure of “
+(b)(4)
+” is not adequate. FDA recommends your monitoring procedure list a visual examination of ice from a designated number of containers selected to be a representative number of containers throughout the cooler.
+4. Because you chose to include corrective actions in your HACCP plan, your described corrective actions must be appropriate to comply with 21 CFR 123.7(b). However, your firm’s revised HACCP plan for Crab Dip list corrective actions at the following CCPs that are not adequate to control pathogen growth and toxin formation.
+a. At the “
+(b)(4)
+” CCP the corrective actions of “
+(b)(4)
+” are not adequate to control
+C. botulinum
+growth and toxin formation. The corrective actions should include discontinue use of supplier until transportation practices have been improved. Additionally, FDA recommends the corrective actions include rejection of the lot because the product is received on ice or with ice packs and there is not a means to evaluate the cumulative time and temperature exposures to perform a proper food safety evaluation.
+b. At the “
+(b)(4)
+” CCP, the corrective actions of “
+(b)(4)
+” are not adequate to control pathogens. FDA recommends the corrective actions list destroying the product or diverting the product to a non-food use and modifying the process to reduce the cumulative time and temperature exposures.
+c. At the “
+(b)(4)
+” CCP, the corrective actions of “
+(b)(4)
+” are not adequate to control pathogens. FDA recommends the corrective action list destroying the product or diverting the product to a non-food use and modifying the icing process.
+Revised, undated HACCP plan for RTE Shrimp Dip
+1. You must have a HACCP plan that at a minimum, lists the critical limits that must be met, to comply with 21 CFR 123.6(c)(3). A critical limit is defined in 21 CFR 123.3(c) as “the maximum or minimum value to which a physical, biological, or chemical parameter must be controlled at a CCP to prevent, eliminate, or reduce to an acceptable level the occurrence of the identified food safety hazard. However, your firm’s revised HACCP plan for Shrimp Dip list critical limits at the following CCPs that are not adequate to control pathogen growth and toxin formation.
+a. At the “
+(b)(4)
+” CCP, the critical limit of “
+(b)(4)
+” is not adequate. FDA recommends the critical limits ensure a minimum 6 log reduction of
+Listeria monocytogenes
+such as an end-point internal product temperature (EPIPT) of 185°F with a hold time of 1 second.
+b. At the “
+(b)(4)
+” CCP, the critical limit of “
+(b)(4)
+.” is not adequate because your “
+(b)(4)
+” CCP also lists the critical limit of “
+(b)(4)
+.” These two critical limits in concert appear to allow a cumulative time limit for
+(b)(4)
+to be four hours. When temperatures are not listed in the critical limit for
+(b)(4)
+processing the cumulative time limit for your
+(b)(4)
+should not exceed
+(b)(4)
+hours. FDA recommends your HACCP plan list one CCP for unrefrigerated processing with a critical limit for the cumulative time for
+(b)(4)
+not to exceed two hours.
+2. You must conduct or have conducted for you a hazard analysis for each kind of fish and fishery product that you produce to determine whether there are food hazards that are reasonably likely to occur and have a HACCP plan that, at a minimum, lists the food safety hazards that are reasonably likely to occur, to comply with 21 CFR 123.6(a) and (c)(1). A food safety hazard is defined in 21 CFR Part 123.3(f) as "any biological, chemical, or physical property that may cause a food to be unsafe for human consumption." However, your firm’s revised HACCP plan for Shrimp Dip does not list the food safety hazard of metal inclusion. The hazard of metal inclusion in your finished product can occur during metal-on-metal interaction during
+(b)(4)
+of the dip in an industrial mixer with a metal paddle and bowl.
+3. Because you chose to include corrective actions in your HACCP plan, your described corrective actions must be appropriate to comply with 21 CFR 123.7(b). However, your firm’s revised HACCP plan for Shrimp Dip list corrective actions at all your CCPs that are not adequate to control pathogen growth and toxin formation because they do not include corrections for the cause of the deviation.
+The violations cited in this letter are not intended to be an all-inclusive list of violations that may exist at your facility or in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your facility complies with all requirements of federal law, including applicable FDA regulations.
+This letter notifies you of our concerns and provides you an opportunity to address them. Failure to adequately address this matter may result in legal action by the FDA including, without limitation, seizure, injunction, or administrative action for suspension of food facility registration if criteria and conditions warrant.
+Please notify FDA in writing within fifteen (15) working days of the receipt of this letter as to the specific steps you have taken to address these violations, including an explanation of each step being taken to prevent the recurrence of violations, as well as providing copies of related documents. If you cannot complete all corrections within fifteen (15) days, state the reason for the delay and the time frame within which you will do so. If you believe that your products are not in violation of the Act, include your reasoning and any supporting information for our consideration.
+Please send your reply to the Food and Drug Administration, Attention: Bruce E. Taylor, Compliance Officer, Human Foods Program: Bruce.Taylor@fda.hhs.gov. If you have any questions regarding any issues in this letter, please contact Bruce E. Taylor via email at: Bruce.Taylor@fda.hhs.gov. Please include reference #710510 CMS Number on any submissions and within the subject line of any email correspondence to the
+agency.
+Sincerely,
+/S/
+Maria S. Knirk, J.D., MBA
+Acting Director
+Office of Enforcement
+Office of Compliance and Enforcement
+Human Foods Program

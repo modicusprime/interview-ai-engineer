@@ -1,0 +1,157 @@
+COMPANY: The Father's Table, LLC
+DATE: 11/28/2025
+SUBJECT: CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated/L. monocytogenes
+ISSUING_OFFICE: Human Foods Program
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/fathers-table-llc-706334-11282025
+============================================================
+
+Delivery Method:
+VIA ELECTRONIC DELIVERY
+Product:
+Food & Beverages
+Recipient:
+Recipient Name
+Mr. Jeffery B. Liddy
+Recipient Title
+President
+The Father's Table, LLC
+2301 E Lake Mary Blvd
+Sanford
+,
+FL
+32773-7143
+United States
+Issuing Office:
+Human Foods Program
+United States
+November 28, 2025
+WARNING LETTER
+CMS #706334
+Dear Mr. Liddy:
+The U.S. Food and Drug Administration (FDA) inspected your food manufacturing facility, The Father’s Table, LLC, located at 2301 E Lake Mary Blvd, Sanford, FL 32773, from January 13, 2025, through February 13, 2025. Your firm manufactures ready-to-eat (RTE) cheesecakes and cake roll products.
+During our inspection, FDA investigators found serious violations of the Current Good Manufacturing Practice, Hazard Analysis, and Risk-Based Preventative Controls for Human Food regulation (CGMP & PC rule), Title 21, Code of Federal Regulations, Part 117 (21 CFR Part 117). Additionally, FDA collected environmental samples (i.e., swabs) from various areas in your processing facility. FDA laboratory analyses of the environmental swabs found the presence of
+Listeria monocytogenes
+(
+L. monocytogenes
+), a human pathogen, in your facility.
+Based on FDA’s inspectional findings and analytical results revealing
+L. monocytogenes
+in your production environment, we have determined that your RTE food products manufactured in your facility are adulterated within the meaning of section 402(a)(4) of the Federal Food, Drug, and Cosmetic Act (the Act) [21 U.S.C. § 342(a)(4)] in that they were prepared, packed, or held under insanitary conditions whereby they may have become contaminated with filth, or whereby they may have been rendered injurious to health. In addition, failure of the owner, operator, or agent in charge of a covered facility to comply with the preventive controls’ provisions of the CGMP & PC rule (located in Subparts A, C, D, E, F, and G of 21 CFR Part 117) is prohibited by section 301(uu) of the Act [21 U.S.C. § 331(uu)]. You may find the Act and further information about the CGMP & PC rule through links in FDA’s home page at www.fda.gov.
+At the conclusion of the inspection, FDA investigators issued an FDA Form 483 (FDA-483), Inspectional Observations, listing deviations found at your facility. We received your firm’s responses to the FDA-483 on March 14, 2025, March 20, 2025, and April 11, 2025, describing corrective actions taken by your firm. After reviewing the inspectional findings and your responses, we are issuing this letter to advise you of FDA’s continuing concerns and to provide detailed information describing the findings at your facility. We discuss your response below.
+Hazard Analysis and Risk-Based Preventive Controls (21 CFR Part 117, Subpart C):
+1. You did not implement preventive controls adequate to provide assurances that any hazards requiring a preventive control will be significantly minimized or prevented, and the food manufactured, processed, packed, or held by your facility will not be adulterated under section 402 of the FD&C Act, to comply with 21 CFR 117.135(a)(1).
+Your facility manufactures RTE cheesecake and cake roll products which are exposed to the environment after baking and at all steps through to packaging, where they may become contaminated with environmental pathogens such as
+L. monocytogenes
+. Your RTE cheesecake and cake roll products do not receive any further lethal treatment after baking or otherwise include a control measure that would significantly minimize the pathogen. Your hazard analysis identifies the hazard of environmental pathogens (specifically,
+Listeria
+spp. and
+Salmonella
+spp.) as reasonably likely to occur and identifies pathogen contamination as a hazard requiring a sanitation control. However, as evidenced by environmental findings of
+L. monocytogenes
+in your facility, you did not implement sanitation controls adequate to ensure that your facility is maintained in a sanitary condition to significantly minimize or prevent the hazard of environmental pathogen
+L. monocytogenes
+, as required by 21 CFR 117.135(a)(1) and (c)(3), and as further discussed below.
+L. monocytogenes
+is a pathogenic bacterium that is widespread in the environment and may be introduced into a food processing facility from raw materials, humans, or equipment. Without adequate controls, it can proliferate in food processing facilities and subsequently contaminate food. Therefore, it is essential to identify the areas of the food processing plant where this organism is able to grow and survive and to apply controls or take corrective actions as necessary to eradicate the organism. Consuming foods contaminated with
+L. monocytogenes
+can lead to a severe, sometimes life-threatening illness called listeriosis, a foodborne illness, which is a major public health concern due to the severity of the disease, its high case-fatality rate, its long incubation time, and its tendency to affect individuals with underlying conditions.
+FDA laboratory analysis of the environmental sample #
+(b)(4)
+collected at your facility on January 13, 2025, confirmed that
+(b)(4)
+environmental swabs were positive for L. monocytogenes. FDA laboratory analysis also confirmed that
+(b)(4)
+environmental swabs collected at your facility on January 14, 2025, were positive for
+L. monocytogenes
+. The positive swabs were recovered from food and non-food contact surface areas in your production environment, including but not limited to the metal conveyor belt on the cooling line in the Cake Roll Cooling Room, the table in your Cheesecake Depanning Room, several floor drains in your Cheesecake Depanning room, and multiple floor holes with water in your Cheesecake Packing Room and Cheesecake Depanning Room. Additionally, in parallel to the FDA swabbing, you collected duplicate environmental swabs on January 13, 2025, and January 14, 2025, which isolated
+L. monocytogenes
+in the Cheesecake production area from
+(b)(4)
+swabs, including a table, a floor mat, floors, drains, and doorways.
+Whole genome sequencing (WGS) analysis was conducted on the above referenced
+L. monocytogenes
+isolates obtained from the FDA environmental swabs and collected on January 13 and 14, 2025. Based on the results of the WGS analysis, the
+(b)(4)
+isolates represent a single unique strain of
+L. monocytogenes
+and does not match, nor cluster with, any other isolates in the NCBI database. We advised you of the importance of these WGS results via a conference call on March 26, 2025.
+The presence of
+L. monocytogenes
+in your facility demonstrates that your sanitation procedures have been inadequate to significantly minimize or prevent
+L. monocytogenes
+in your facility. Appropriate control of
+L. monocytogenes
+in a food processing environment requires knowledge of the unique characteristics of the organism and implementation of the corresponding hygienic practices necessary to control this pathogen. Our findings indicate that your firm is neither achieving satisfactory control against the presence of
+L. monocytogenes
+within your facility nor implementing effective methods and controls to eliminate this human pathogen or minimize exposure to food and food-contact surfaces. Once
+L. monocytogenes
+is established in a production area, personnel or equipment can facilitate the pathogen’s movement and contamination of food-contact surfaces and finished product. It is essential to identify the areas of the food processing plant where this organism is able to survive and grow (i.e., harborage sites), and to apply controls or take corrective actions as necessary to eradicate the organism by rendering these areas unable to support the survival and growth of the organism and prevent the organism from being re-established in such sites.
+During our inspection your firm stated,
+(b)(4)
+. All cake roll products manufactured that week were quarantined for destruction. In response to these findings, you halted production, conducted a root cause analysis that included enhanced environmental swabbing, and deep cleaned and sanitized. During your enhanced environmental swabbing
+(b)(4)
+. On January 6, 2025, you resumed cake roll production. On February 17-18, 2025, your firm destroyed
+(b)(4)
+pounds of cake rolls manufactured the week of October 14-21, 2024, and our Investigator observed one day of this destruction on February 18, 2025.
+We acknowledge your voluntary corrections made during the inspection, in which your firm suspended production for three days, from January 15-17, 2025, to conduct enhanced sanitizing on your equipment and production room along with follow-up verification swabbing, per your firm’s environmental monitoring program SOP. Ultimately, on January 24, 2025, your firm ceased all cake roll production. Your firm removed all cake roll production equipment and cooling equipment from your production area. FDA’s investigator visually confirmed the removal of this equipment on February 4, 2025.
+Additionally, we acknowledge your responses to the FDA-483 dated March 14, 2025, March 20, 2025, and April 11, 2025. Your response included a copy of your revised drafted environmental monitoring program in which you will routinely conduct environmental swabbing on food contact surfaces. Your firm also provided a draft startup plan which includes enhanced sanitation and sampling “
+(b)(4)
+.” On April 11, 2025, your firm provided the destruction documents for the
+(b)(4)
+cases of cake rolls products manufactured on January 13, 2025 through January 15, 2025 and
+(b)(4)
+cases of cheesecake products manufactured on January 14, 2025.
+Given the positive
+L. monocytogenes
+findings in your processing environment and failures of Current Good Manufacturing Practice, Hazard Analysis and Risk-Based Preventive Controls, we continue to be concerned about your ability to maintain a sanitary environment. We recommend that you continue to identify potential harborage sites and source(s) of the organism in your processing environment and implement the necessary methods and controls to ensure
+L. monocytogenes
+does not contaminate your environment or your RTE food products. Your sanitation procedures should be revised to include intensified swabbing to identify sources and routes of contamination to prevent the establishment of
+L. monocytogenes
+in your processing environment.
+We will verify the effectiveness of your corrective actions and your ability to maintain a sanitary environment during our next inspection.
+Current Good Manufacturing Practice (Subpart B):
+2. Your plant was not constructed and designed to facilitate maintenance and sanitary operations for food-production purposes, as required by 21 CFR 117.20(b).
+Specifically, on 01/13/2025, we observed condensation accumulated on the underside of a cooling unit suspended above the cake roll production line dripping liquid onto exposed confectioner’s sugar held in plastic bins that was being added to the top of ready-to-eat cake rolls.
+We acknowledge your voluntary corrections made during the inspection which included removing all equipment from the cake roll packaging room, indefinitely suspending your cake roll production, and committing to destroying all cake roll products.
+Additionally, we acknowledge your responses to FDA-483, which detailed the corrective actions that you took to address the dripping condensate. Your corrective actions included stopping the production line, removing all materials from the line, destroying all food contact product in the plastic bin, cleaning and physically drying the production line and overhead area, repositioning the bins for sugar away from the location the condensate drip was identified, and purchasing
+(b)(4)
+fans of
+(b)(4)
+cfm and placed them in the overhead crawlspace at angles to deter further condensation.
+Your firm intends to retrain all key personnel on GMPs including monitoring for condensation and you intend to appropriately document and provide the training records once the plant is back in operation. Your firm also removed the evaporators units in the area and installed
+(b)(4)
+new
+(b)(4)
+-ton refrigeration units each with placement at the side of the room perimeters and not over food production.
+We will verify the adequacy and implementation of your corrective actions during our next inspection.
+The violations cited in this letter are not intended to be an all-inclusive list of violations that may exist at your facility or in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+This letter notifies you of our concerns and provides you an opportunity to address them. You should take prompt action to correct any violations. Failure to adequately address these violations may result in legal action by the FDA including, without limitation, seizure, injunction, or administrative action for suspension of food facility registration if criteria and conditions warrant.
+In addition to the violations described above, we offer the following comment:
+FDA laboratory analysis of the environmental sample
+(b)(4)
+collected at your facility on January 13, 2025, confirmed that
+(b)(4)
+environmental swabs were positive for
+Listeria innocua
+(a non-pathogenic Listeria species). The positive swabs were recovered from non-food contact surfaces in your production environment, including but not limited to the floor, floor holes, floor drain in your Cake Roll Cooling Room and Cake Roll Packing Room. Additionally, FDA laboratory analysis of the environmental sample
+(b)(4)
+collected at your facility on January 14, 2025, confirmed that
+(b)(4)
+environmental swabs were positive for
+Listeria welshimeri
+(a non-pathogenic Listeria species). The positive swabs were recovered from food and non-food contact surfaces in your production environment, including but not limited to the table, cheesecake cutter operator buttons and emergency stop button, floors, floor drain and door in your Cheesecake De-panning Room and Cheesecake Packing Room. The presence of Listeria species such as
+Listeria innocua
+and
+Listeria welshimeri
+suggests that conditions also are suitable for survival and/or growth of
+L. monocytogenes
+, which, as noted above, has been found in your facility.
+Please notify FDA in writing, within fifteen (15) working days of receipt of this letter, of the specific steps you have taken to address any violations. Include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. If you cannot complete corrective actions within fifteen (15) working days, state the reason for the delay and the time within which you will do so. If you believe that your products are not in violation of the Act, include your reasoning and any supporting information for our consideration.
+Please send your reply to the Food and Drug Administration, Attention: Dana Lewis, Compliance Officer, Human Foods Program – Office of Compliance and Enforcement, Office of Enforcement – Division of Conventional Foods Enforcement (HFS-607), 5001 Campus Drive, College Park, MD 20740 U.S.A. If you have any questions regarding any issues in this letter, please contact Dana Lewis via email at: Dana.Lewis@fda.hhs.gov. Please include reference CMS #706334 on any submissions and within the subject line of any email correspondence to the agency.
+Sincerely,
+/S/
+Maria S. Knirk, JD MBA
+Acting Director
+Office of Enforcement
+Office of Compliance and Enforcement
+Human Foods Program

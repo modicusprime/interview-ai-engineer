@@ -1,0 +1,102 @@
+COMPANY: MAST Biosurgery USA, Inc.
+DATE: 12/17/2025
+SUBJECT: CGMP/QSR/Medical Devices/Adulterated
+ISSUING_OFFICE: Center for Devices and Radiological Health
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/mast-biosurgery-usa-inc-720661-12172025
+============================================================
+
+Delivery Method:
+VIA Electronic Mail
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Mr. Lukas Bluecher
+Recipient Title
+Chief Executive Officer
+MAST Biosurgery USA, Inc.
+11 Hughes
+Irvine
+,
+CA
+92618
+United States
+lbluecher@mastbio.com
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+WARNING LETTER
+CMS #720661
+December 17, 2025
+Dear Mr. Bluecher:
+During an inspection of your firm located in Irvine, CA from August 18, 2025 through August 21, 2025, an investigator (or investigators) from the United States Food and Drug Administration (FDA) determined that your firm manufactures surgical polymeric mesh devices, marketed as SurgiWrap FROST. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+Quality System Regulation Violation(s)
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21,
+Code of Federal Regulations
+(CFR), Part 820.
+We received a response from Jayson C. Alaba, Quality Manager, dated September 12, 2025 concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to adequately establish procedures to prevent contamination or product by substances that may have an adverse effect on product quality, as required by 21 CFR 820.70(e). Specifically,
+CAPA 2404, dated 08/09/2024, was opened in response to a BSI finding identifying that your firm does not perform LAL endotoxin testing for your SurgiWrap devices. Your firm stated in pre-market correspondence to the FDA on 11/21/2020 that you would test SurgiWrap FROST for endotoxins to ensure that it is produced with endotoxin levels at or below FDA accepted limits of ≤ 20 EU/device. Additionally, your firm also stated to the FDA that you included a product lot-release endotoxin specification of ≤
+(b)(4)
+(≤
+(b)(4)
+) for the SurgiWrap FROST. However, your firm never implemented the testing of these specifications prior to distributing SurgiWrap FROST to customers in 2021.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm confirms that it did not establish a specification or requirement for endotoxin testing for lot release prior to August 2024. Also, your response states you have established a ≤
+(b)(4)
+acceptance criteria specification for endotoxin testing of your SurgiWrap FROST; however, your firm did not provide a valid rationale for the acceptability of the specification. Prior to the clearance of your firm’s SurgiWrap FROST device (K200918), your firm committed to testing your SurgiWrap FROST devices for endotoxins to ensure that it is produced with endotoxin levels at or below FDA accepted limits of ≤ 20 EU/device and establishing a ≤
+(b)(4)
+(≤
+(b)(4)
+) lot-release specification. Your firm also provided a September 21, 2020 Certificate of Analysis premarket demonstrating that your firm was able to meet this lot release specification; endotoxin levels were below
+(b)(4)
+. However, the August 19, 2024 Certificate of Analysis shows data from
+(b)(4)
+lots with endotoxin levels ranging up to
+(b)(4)
+.
+Additionally, your response states that the SurgiWrap FROST is an implantable device but does not contact circulating blood or cerebrospinal fluid, therefore, a higher limit than the 20 EU/device typically applied to blood contacting implants is scientifically justified. The recommended 20 EU/device applies to both blood contacting and/or implanted devices. As your device is an implanted device, 20 EU/device is most appropriate.
+Your firm should evaluate your manufacturing process to identify why there is a large uptick in endotoxin between the
+(b)(4)
+test presented in
+(b)(4)
+and
+(b)(4)
+in your current process. Your firm should take appropriate measures to enhance endotoxin monitoring to ensure your mitigation measures result in acceptable endotoxin levels. Your firm should not reduce monitoring (e.g., reducing sample size to
+(b)(4)
+or raising the acceptance criteria to
+(b)(4)
+or
+(b)(4)
+).
+2. Failure to adequately establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit, as required by 21 CFR 820.198 (a). Specifically,
+Your firm’s procedure, Complaint Process, Rev. T (effective date: 09/2022), Rev. U (effective date: 05/2023), Rev. V (effective date: 10/05/2023), Rev. W (effective date: 04/30/2025), is inadequate, in that, your firm has not adequately defined and documented complaint handling requirements. Specifically, your firm has categorized complaints as feedback, resulting in the events not being documented and handled as complaints.
+For example, Complaint C23004, dated 05/15/2023 alleges 8 out of 10 patients developed abdominal swelling after undergoing procedures involving SurgiWrap. Your firm asked your customer if they wanted to classify this complaint as feedback or a complaint. When they decided to classify these events as feedback, your firm closed the complaint by stating that the complaint was reported based on feedback, so there is no need to further delve into the reported case. Your CEO stated that some of the investigational steps were taken in response to this complaint, but they were not documented in your quality management system. There is no record of the nature and details or investigation of each of the 8 events.
+We reviewed your firm’s response and conclude that it is not adequate. Your response states your firm’s plans to
+(b)(4)
+. However, it is not clear if your firm’s
+(b)(4)
+includes an evaluation of your Customer Feedback forms, Return Material Authorizations (RMAs) or other sources outside of your complaint handling system, to determine if they constitute as a complaint.
+Medical Device Reporting (MDR) Violation(s)
+Our inspection also revealed that your firm’s surgical meshes are misbranded under section 502(t)(2) of the Act, 21 U.S.C. § 352(t)(2), in that your firm failed or refused to furnish material or information respecting the device that is required by or under section 519 of the Act, 21 U.S.C. § 360i, and 21 CFR Part 803 - Medical Device Reporting. Significant violations include, but are not limited to, the following:
+Failure to report to us the information required by § 803.52 in accordance with the requirements of § 803.12(a), no later than 30 calendar days after the day that your firm received or otherwise became aware of information, from any source, that reasonably suggests that a device that your firm markets may have caused or contributed to a death or serious injury, as required by 21 CFR 803.50(a)(1). For example,
+1. The information included for the complaint C23002 reasonably suggests that a patient experienced injuries (e.g., postoperative ileus) following the use of your firm’s SurgiWrap device. As such, medical and surgical interventions such as nasogastric (NG) tube insertion, antibiotic therapy, and total parenteral nutrition (TPN) were administered and deemed necessary to prevent permanent impairment of a body function or permanent damage to a body structure. Your firm became aware of the event on February 1, 2023. Although your firm referenced MDR 3004661493-2023-00001 in its records, FDA has not yet received the refenced report, which is beyond the required 30 calendar day timeframe.
+2. The information included for complaint C24002 reasonably suggests that a patient experienced an injury (i.e. small intestinal stenosis) following the use of your firm’s SurgiWrap device. As a result, a surgical intervention (i.e. intestinal resection) was performed, which was deemed necessary to prevent permanent impairment of a body function or permanent damage to a body structure. Your firm became aware of the event on
+(b)(6), (b)(7)(C)
+. Although your firm referenced MDR 3004661493-2023-00002, in its records, FDA has not yet received the referenced report, which is beyond the required 30 calendar day timeframe.
+We reviewed your firm’s response dated September 13, 2025, and conclude that it is not adequate. The response notes that your firm initiated CAPA-2511 to address the issue, including performing a retrospective risk assessment of the referenced events, which concluded that the events were not MDR reportable based on your firm’s internal risk assessment criteria requiring intervention. The physicians’ assessments indicated a causal relationship between your firm’s device and the referenced events, and that associated medical or surgical interventions were administered. As such, each referenced event meets the criteria of a reportable serious injury under 21 CFR 803.3.
+A follow up inspection will be required to assure that corrections and/or corrective actions are adequate.
+Your firm should take prompt action to address any violations identified in this letter. Failure to adequately address this matter may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties.
+Other federal agencies may take your compliance with the FD&C Act and its implementing regulations into account when considering the award of federal contracts. Additionally, should FDA determine that you have Quality System regulation violations that are reasonably related to premarket approval applications for Class III devices, such devices will not be approved until the violations have been addressed. Should FDA determine that your devices or facilities do not meet the requirements of the Act, requests for Certificates to Foreign Governments (CFG) may not be granted.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to address the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address any violations included in this Warning Letter. If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration as part of your response.
+Your firm’s response should be sent via email to CDRHEnforcement@fda.hhs.gov. Please include in the subject line, “
+CMS Case 720661
+” when replying. If you have any questions about the contents of this letter, please contact: Shaquenta Perkins at shaquenta.perkins@fda.hhs.gov.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of any violations and take prompt actions to address any violations and bring the products into compliance.
+Sincerely,
+/S/
+Barbara Marsden
+Acting Director
+Office of Regulatory Programs
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+CC: Jayson C. Alaba, Quality Manager, jalaba@mastbio.com

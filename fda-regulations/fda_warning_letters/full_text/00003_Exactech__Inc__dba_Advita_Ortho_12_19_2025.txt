@@ -1,0 +1,277 @@
+COMPANY: Exactech, Inc. dba Advita Ortho
+DATE: 12/19/2025
+SUBJECT: CGMP/QSR/Medical Devices/Adulterated
+ISSUING_OFFICE: Center for Devices and Radiological Health
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/exactech-inc-dba-advita-ortho-720250-12192025
+============================================================
+
+Delivery Method:
+VIA Electronic Mail
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Aurelio Sahagun
+Recipient Title
+President and Chief Executive Officer
+Exactech, Inc. dba Advita Ortho
+2320 Nw 66th Ct
+Gainesville
+,
+FL
+32653-1630
+United States
+aurelio.sahagun@advita.com
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+WARNING LETTER
+CMS # 720250
+December 19, 2025
+Dear Mr. Sahagun:
+During an inspection of your firm located in Sarasota, Florida from July 15, 2025, through July 25, 2025, investigators from the United States Food and Drug Administration (FDA) determined that your firm manufactures the Equinoxe Reverse Shoulder Compression Screw along with other accessories of the Equinoxe Reverse Shoulder System. Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+Quality System Regulation Violations
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21, Code of Federal Regulations (CFR), Part 820.
+We received a response from Mathew Collins, Vice President of Quality dated August 15, 2025, along with response updates concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address this response below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1) Failure to establish and maintain process control procedures that describe any process controls necessary to ensure conformance to specifications when deviations from device specifications could occur as a result of the manufacturing process, as required by 21 CFR 820.70(a). For example, your firm failed to adequately establish production and process control procedures to ensure that devices conform to specifications.
+A. Your firm failed to define
+(b)(4)
+specifications and testing for polymer powder fabricated into UHMWPE molded products to ensure device components meet specified requirements. The document titled, “Ultra-High Molecular Weight Polyethylene (UHMWPE) ETS-0121 Rev. J”, released 02/23/2022 and “Compression Molded UHMW Polyethylene ETS-0122 Rev. L”, released 06/27/2022 call out
+(b)(4)
+and
+(b)(4)
+(Implants for surgery –
+(b)(4)
+–
+(b)(4)
+respectively. Your firm has no records of
+(b)(4)
+testing for lots of
+(b)(4)
+products to verify compliance with required
+(b)(4)
+specifications of
+(b)(4)
+. The Certificate of Conformance values for lots are based on
+(b)(4)
+qualification testing of polymer powder fabricated into
+(b)(4)
+products rather than actual manufactured products.
+1. Investigators noted that
+(b)(4)
+measurement value of
+(b)(4)
+, documented on the Certificate of Conformance for part number
+(b)(4)
+, is not based on testing conducted on molded/fabricated parts. Rather the nominal values documented on this Certificate of Conformance, are based on
+(b)(4)
+testing performed on the
+(b)(4)
+shipment of
+(b)(4)
+raw powder, identified with lot number
+(b)(4)
+, initially received on or around December 2021. Your firm declares compliance to
+(b)(4)
+Implants for surgery –
+(b)(4)
+–
+(b)(4)
+which notes the physical property requirements of
+(b)(4)
+molded products and states in part, “
+(b)(4)
+.” The qualification testing is documented on Technical Memo TM-2021-1578, with approval dates 01/18-19/2022, and the
+(b)(4)
+test result were documented as
+(b)(4)
+.
+B. Production and process procedures do not clearly define process controls necessary to ensure conformance to specifications. Your firm failed to adequately document instructions, standard operating procedures, and methods that define and control the manner of production.
+1. The work instructions do not define and control the manner of production, including in-process inspection of a critical specification and use of the
+(b)(4)
+tool. The Equinoxe Reverse Shoulder Torque Screw devices critical specification for break-point dimension inspection (
+(b)(4)
+) relies on
+(b)(4)
+inspection with significant operator variability. However, Work Instruction titled, Complete and Document Inspection of Machined Product at Sarasota- Machining 701-105-945 Rev. D, also does not clearly or explicitly outline the production and processing controls or provide step-by-step directions for the required, in-process inspections of the Equinoxe Torque Screw device, including specific instructions, equipment needed, process or product parameters or specifications, or inspection requirements.
+i. FDA investigators noted that an operator was performing this inspection step that required
+(b)(4)
+to undergo and pass this in-process inspection step out of a sample size of
+(b)(4)
+. At the time the investigators observed this in-process inspection being performed, two of the required
+(b)(4)
+had undergone and passed this inspection step. The investigators noted that a sample unit, identified the torque screw as passing and meeting the required specification of
+(b)(4)
+, from point A to B. However, investigators reviewed the measurements and noted that the unit did not pass this
+(b)(4)
+inspection test as the unit did not appear to fall completely within the specified
+(b)(4)
+lines of the
+(b)(4)
+tool image that reflect tolerance limits. Three nonconforming devices were later scrapped as noted on the scrap log and Production Events log.
+2. Manufacturing procedures do not adequately define process controls, in-process inspections, or equipment specifications. Work Instruction titled, Machine Equinoxe Reverse Shoulder Liner at Sarasota-Machining 701-105-896 Rev. C, released 04/15/2024, does not clearly or explicitly outline the production or processing controls or provide step-by-step directions for the manufacture of the Equinoxe Shoulder Liner device including specific instructions, equipment needed, process or product parameters or specifications, or inspection requirements. Additionally, your firm’s Work Instruction titled, Complete and Document Inspection of Machined Product at Sarasota- Machining 701-105-945 Rev. D, also does not clearly or explicitly outline the production and processing controls or provide step-by-step directions for the required, in-process inspections of the Equinoxe Shoulder Liner device, including specific instructions, equipment needed, process or product parameters or specifications, or inspection requirements. Neither of these Work Instructions document specific instruction on how to perform this inspection test, such as use of the
+(b)(4)
+tool, and operator
+(b)(4)
+is not addressed. Furthermore, no Operational Qualification was documented for
+(b)(4)
+machining processes, of the Equinoxe Polyethylene Shoulder Liner device and devices do not undergo
+(b)(4)
+in-process or final testing.
+Your firm’s responses are not adequate. The responses note that the root causes and contributing factors of the process control deficiencies include inconsistent enforcement of validation requirements, gaps in operator training on comparator-based inspections, and absence of formal inspection method qualification. In addition, the responses note that these deficiencies have systemic implications across your firm’s manufacturing operations and as well design transfer activities. Your firm’s responses describe corrections that include a manufacturing and process hold,
+(b)(4)
+inspection of existing inventory during process hold and a Field Action for
+(b)(4)
+Humeral Shoulder Liners. Your responses also describe corrective and preventative actions under CAPA 2025-30 that include: validation remediation for relevant manufacturing processes across Sarasota and Gainesville; SOP and work instruction redesign and training; inspection method qualification and retention of coordinate measuring machine reports; develop layered process audit work instructions and integration into QMS trending; SOP update for initial out of specification handing; and design transfer and process validation readiness. Your firm’s responses do not describe, and list remediation activities or products associated to legacy design transfer issues across manufacturing operations at your Sarasota and Gainesville facilities. The activities under CAPA 2025-30 along with the verification of effectiveness criteria, are in progress and extend through March 2026.
+2) Failure to adequately establish and maintain procedures for corrective and preventative action, as required by 21 CFR 820.100(a). For example:
+A. The procedure for Corrective and Preventive Actions Procedure, 701-103-137, Rev. AB, dated 6/11/2025 does not identify production events as nonconformities or quality data. A Production Event (PE) is defined as an event generated in
+(b)(4)
+utilized for processing electronic device history records, due to a deviation from pre-established product or process specifications. Production Events (
+(b)(4)
+documented events) are not analyzed as quality data sources or escalated to CAPAs where appropriate. Investigators noted that from 07/01/2023 to 7/25/2025 there was incomplete documentation maintained or available to demonstrate which Production Event entries were documented and managed as nonconformances. Additionally, no documentation was maintained or available to demonstrate that any Production Events were further assessed or analyzed as quality data sources.
+B. CAPAs 2023-005 and 2025-005 addressing environmental control specifications for
+(b)(4)
+storage were verified as effective and closed, yet environmental monitoring data from March 2024 to current showed your firm continued to exceed allowable temperature and humidity limits. Temperature specifications were changed from
+(b)(4)
+to
+(b)(4)
+in June 2025 after historical data showed consistent excursions. The pFMEA for the
+(b)(4)
+Molding Process, FMEA-000445, Rev A, dated 8/1/2024, discusses product and process impact with high temperatures and humidity, and the potential failures related to air conditioning (HVAC). Specifically, the effect of high moisture in
+(b)(4)
+may impact the material strength.
+Your firm’s responses are not adequate. Your firm’s responses note corrective actions under CAPA 2025-31 that include: CAPA procedural updates for verification of effectiveness; updates to Quality System’s governance and Management Review process adding additional sources of quality data (Production Events, Work in Process Scrap , environmental monitoring data, etc.); updates to software validation to include evaluation for the identification of critical to quality attributes for continuous monitoring; updates to Document Control related to the QMS process change and the determination of quality data outputs for continuous monitoring; and CAPA remediation efforts for verification of effectiveness. Your responses do not describe any retrospective review necessary to assess whether quality data such as Production Events, Work in Process Scrap, etc. or other critical to quality data attributes represent nonconformances or other quality issues that may require the initiation of a CAPA. The activities under CAPA 2025-31 along with the verification of effectiveness criteria, are in progress and extend through March 2026.
+3) Failure to adequately establish and maintain procedures to control product that does not conform to specified requirements, as required by 21 CFR 820.90(a). For example, your firm failed to identify, document, evaluate nonconforming product including the need for investigation and notification of the persons or organizations responsible.
+A. There was no written procedure for handling “Production Events (PE)” identified during manufacturing. The Nonconforming Product Handling Procedure, 701-103-013 Rev. AK, dated 9/13/2024, does not include a process to elevate Production Events to a nonconformance, despite the potential for rework may occur. Production Event entries included those for multiple inspection failures found at various stages in the manufacturing process (in-process inspection and QC inspection). For example:
+1. Failure of product’s dimensional specifications (
+(b)(4)
+failure,
+(b)(4)
+failure,
+(b)(4)
+failure,
+(b)(4)
+radius) that may correlate with high scrap rates for dimensional defects.
+2. Surface quality defects that include those for molding contamination: inclusions on articulating surface and mold marks.
+3. Machining process issues from setup and tooling that may create recurring dimensional problems (undersize stems on “
+(b)(4)
+”, undersized pin head, undersize due to a fixture issue, damaged threads, smooth and inconsistent threads, burrs in threads).
+4. Packaging issues that include wrinkles on seal, crease in seal, cuts in bag, score mark, seal integrity, loss in vacuum, nonuniform seal, loose fibers and black particles, hair, black particles embedded in bag.
+B. The WIP Scrap Events Collection procedure does not define threshold levels for when internal WIP scrap should be documented as nonconformances. While supplier receiving inspection has defined thresholds (
+(b)(4)
+defect rate), no similar thresholds exist for internal operations. Scrap log includes entries for nonconforming product associated with manufacturing process control deficiencies which include:
+1. Machining setup issues where numerous entries are labeled as set up, "setup part," "dial in" and tooling/fixture issues labeled as "tool broke," “bad mold tool”, "worn tool," "loose tool” and “wrong offset” resulting in scrap from dimensional and product quality problems (button height, overall thickness, overall length, thread noting dings and dents).
+2. Molding process issues resulting in scrap from:
+i. Equipment power issues labeled as “power outage”, “power failure”, “press failure”, “power turned off”;
+ii. Hydraulic issues (hydraulic Hit/loss, pressure drop);
+iii. Heating and cooling failure (pumps not turned on);
+iv. Manufacturing process control issues (“wrong recipes”, “tool not set up”, “missfil”, “not properly blowing out”) resulting in scrap from “flash leakage”, “inclusions on surface” and “under/over” weight product
+3. Product finishing issues from “over polishing”, “over blasting” and “thread chip wrap” resulting in nonconforming product dispositioned as scrap.
+4. Operator training issues as “operator error” entries for the machining, molding and finishing manufacturing processes resulting in dimensional and cosmetic nonconforming product dispositioned as scrap.
+Your firm’s responses are not adequate. Your firm’s responses note that corrective actions under CAPA 2025-31 that included: the coordination of the nonconformance program with the Production Events (PE) and work in process (WIP), and training development. Your firm’s retrospective review of WIP and PE does not include the rationale for timeframes selected. For example, you identified July 2024 through August 2025 for retrospective review; however, FDA investigators reviewed WIP and PE data from 7/01/2023 through 7/25/2025. In addition, we disagree with your investigation that raw data and pivot tables for Production Events and WIP Scrap entries revealed that the vast majority (
+(b)(4)
+) of Production Events were benign in nature, and resolved via appropriate mechanisms (e.g.
+(b)(4)
+,
+(b)(4)
+fix, and approved reworks). Additionally, it is not clear from production event logs collected during the inspection how the in process and quality control inspection failures were handled.
+Your firm notes that although there were gaps in the inconsistent classification and escalation of quality events, that the nonconformances do not indicate a risk to product. FDA disagrees with this assessment in that this does represent a potential risk to distributed product since the FDA inspection and your firm’s investigation identified gaps with QC work instructions and training. Specifically,
+(b)(4)
+in-process inspection using manual
+(b)(4)
+and
+(b)(4)
+lacked formal work instruction to define the method, criteria, or documentation required. This created variability in execution and no documented evidence of consistency or repeatability. Your firm’s CAPA Review Board (CRB) identified this as a systemic breach of regulatory and QMS requirements; however, the assessment noted that it did not require a reportable field action. FDA remains concerned with the potential distribution of nonconforming product.
+The activities under CAPA 2025-31 along with the verification of effectiveness criteria, are in progress and extend through March 2026.
+4) Failure to adequately establish and maintain procedures to ensure that environmental conditions do not adversely affect product quality, as required by 21 CFR 820.70(c). For example, your firm failed to adequately establish procedures to ensure your environmental controls are being maintained as specified and that your environmental control systems are adequate and functional.
+A.
+(b)(4)
+Raw Material Storage, QWI-000185, Rev A, dated 4/30/2024 and the current procedure, Rev B, dated 6/10/2025 were not followed for backup environmental monitoring when the
+(b)(4)
+system fails in the Sarasota Molding Facility.
+(b)(4)
+system graphs from March 2024 to July 2025 of both temperatures and relative humidity levels were commonly and routinely recorded to be outside of the specified, nominal limit levels.
+B. A Deviation/Change Request, dated 05/27/2025, was “Due to a faulty environmental monitoring sensor (
+(b)(4)
+) located in the controlled environment fill room, the sensor will be unplugged, and environmental monitoring will occur using a calibrated data logger for both temperature and humidity”. Only one of
+(b)(4)
+poly fill rooms is monitored by the
+(b)(4)
+system, with assumption that
+(b)(4)
+rooms maintain same conditions despite physical wall separation.
+The adequacy of your firm’s responses cannot be determined at this time. Your responses note that corrective and preventative actions under CAPA 2025-033 included the environmental monitoring system enhancements; procedural revision to environmental monitoring excursion; training; updates to risk documents; new procedure to be used to document the facility modification; and defining environmental conditions of
+(b)(4)
+resin and molded components. The activities under along CAPA 2025-033 with the verification of effectiveness criteria, are in progress and extend through March 2026
+5) Failure to adequately establish and maintain procedures to ensure that all purchased or otherwise received product, and services conform to specified requirements, as required by 21 CFR 820.50. For example, your firm failed to follow the procedures for Supplier Quality Management, 701-103-077, Rev AH, dated 10/31/2023. The FDA investigators noted that
+(b)(4)
+., the sole supplier of critical
+(b)(4)
+powder, has not received a required on-site audit per Supplier Quality Management Procedure Section 5, Step F, Item 2.C. The last supplier evaluation was conducted in September 2020, with no reevaluation when current procedures were implemented in October 2023. Additionally, there is no signed quality agreement as required per the procedure Section V, Step C, item 4.
+Your firm’s pFMEAs for the
+(b)(4)
+molded products document considers the raw
+(b)(4)
+powder, a critical component of the processing and quality of the finished devices. In the Process FMEA Process Failure Mode and Effects Analysis
+(b)(4)
+Compression Molding Process, FMEA-000445 Rev. A, DCRTC-00194, dated 8/1/2024 notes that if the
+(b)(4)
+is not properly received from the supplier and in conformance with the specifications, this could potentially lead to product impact with quality failures, incorrect traceability, higher product scrap or degraded mechanical characteristics.
+The FDA inspection noted that there were no records to demonstrate that your
+(b)(4)
+powder supplier, has or is maintaining environmental controls and storage conditions of the supplied
+(b)(4)
+powder component. The current lot of
+(b)(4)
+powder in use by your firm, lot number
+(b)(4)
+, was first qualified in 2021, and all
+(b)(4)
+powder received since then, have been identified with the same lot identification. Documentation demonstrates the initial qualification of lot
+(b)(4)
+in 2021; however, your firm has received approximately
+(b)(4)
+shipments of the same lot of
+(b)(4)
+powder from
+(b)(4)
+, since 2021 to 7/25/2025.
+The adequacy of your responses cannot be determined at this time. Your responses note the following activities being handled under CAPA2025-034: Supplier Quality Management SOP revision; the reevaluation of approved suppliers; the integration of supplier checks into design transfer activities; revise On-Site Audits and initiate Quality Agreements and On-Site Audits; and initiate Quality Agreements of
+(b)(4)
+powder. Many of the activities under CAPA2025-034 along with the verification of effectiveness criteria, are in progress and extend through June 2026. Therefore, we cannot determine the adequacy at this time.
+6) Failure to adequately establish procedures for identifying training needs and ensuring that all personnel are trained to adequately perform their assigned responsibilities, as required by 21 CFR 820.25(b). For example, your firm failed to capture the training of employees as described in the Competency and Training Procedure, 701-103-087, Rev. AB, dated 7/9/2024. FDA inspection noted that:
+A.
+(b)(4)
+employees working in manufacturing did not have required QC inspection tools documented in their training records, not meeting the requirement that employees perform all necessary training prior to task execution without oversight.
+B. The procedure states that all retraining shall be documented and recorded as part of the employee’s training record. In the review of 11 nonconformance reports, 7 nonconformance reports identified operator error as the root cause. Retraining was not identified as an action item in 6 of 7 of the reports reviewed.
+Your firm’s responses are not adequate. Your responses note the following activities being handled under CAPA 2025-035 include implementation of Task-Level Training Controls; development of work instructions and inspection tools; documented on the job training; the revision of Nonconforming Product Handling Procedure to enforce training; and revision of competency and training procedure. Your firm’s response does not describe any necessary training as part of the design transfer activities associated to a new manufacturing or inspection process. The activities under CAPA 2025-035 along with the verification of effectiveness criteria, are in progress and extend through April 2026.
+7) Failure to adequately establish procedures for acceptance activities, as required by 21 CFR 820.80(a). For example:
+A. Your firm failed to identify the correct work instructions that applies to manufacturing personnel when using
+(b)(4)
+to produce products for the Truliant Knee 02-029-190-4300 Short Headed Pin For Syringe Pin Puller, Alteon Hip 180-165-20 Alteon 6.5MM Screw, 20MM, and the Equinoxe Shoulder Torque Defining Screws. The work instructions listed did not call out for manufacturing personnel to use the Manufacturing of Product in
+(b)(4)
+Work Instruction, 701-105-1121, Rev D, effective date 2/28/2024. The work instructions are:
+1. Machining of Holding Pins at Sarasota- Machining Work Instruction 701-105-929, Rev. H, effective date 7/15/2025
+2. Machining of 6.5mm Alteon Cancellous Bone Screw at Sarasota-Machining and Finishing Work Instruction, 701-105-964, Rev. C, effective date 6/22/2021
+3. Manufacturing of Torque Defining Screws at Sarasota-Machining and Finishing Work Instruction, 701-105-1071, Rev B, effective date 11/05/2021
+B. Your firm failed to establish procedures or work instructions for two critical QC inspection tools used for the
+(b)(4)
+inspection process for the Equinoxe torque defining screw devices and for the
+(b)(4)
+inspection process for the Equinoxe shoulder liner device.
+The adequacy of your responses cannot be determined at this time. Your responses note that the following activities are being handled under CAPA 2025-036: updates on work instructions that support
+(b)(4)
+-controlled tasks and inspection operations; develop inspection tools and work instruction in conjunction with CAPA 2025-35; and work instruction impact review across similar product. The activities under CAPA 2025-036 along with the verification of effectiveness criteria, are in progress and extend through March 2026.
+Your firm should take prompt action to address any violations identified in this letter. Failure to adequately address this matter may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties.
+Other federal agencies may take your compliance with the FD&C Act and its implementing regulations into account when considering the award of federal contracts. Additionally, should FDA determine that you have Quality System regulation violations that are reasonably related to premarket approval applications for Class III devices, such devices will not be approved until the violations have been addressed. Should FDA determine that your devices or facilities do not meet the requirements of the Act, requests for Certificates to Foreign Governments (CFG) may not be granted.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to address the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address any violations included in this Warning Letter. If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration as part of your response.
+Your firm’s response should be sent via email to Melissa Michurski, at CDRHEnforcement@fda.hhs.gov. Please include in the subject line, “CMS Case # 720250” when replying. If you have any questions about the contents of this letter, please contact: Rafael Padilla at Rafael.padilla@fda.hhs.gov.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of any violations and take prompt actions to address any violations and bring the products into compliance.
+Sincerely,
+/S/
+Barbara C. Marsden
+Acting Director
+Office of Regulatory Programs
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+CC: Christine Thomas, Chief Quality, Clinical and Regulatory Officer, christine.thomas@advita.com

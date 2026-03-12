@@ -1,0 +1,194 @@
+COMPANY: Black Sheep Egg Company, LLC
+DATE: 02/12/2026
+SUBJECT: PHS Act/Shell Egg Regulation/Adulterated
+ISSUING_OFFICE: Human Foods Program
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/black-sheep-egg-company-llc-718802-02122026
+============================================================
+
+Delivery Method:
+Via Email
+Product:
+Food & Beverages
+Recipient:
+Recipient Name
+Mr. Ronald T. Tweedy, Mr. Devin F. Jarvis and Mrs. Rebecca G. Gray
+Recipient Title
+Co-Owner(s)
+Black Sheep Egg Company, LLC
+400 S Memorial Dr
+Walnut Ridge
+,
+AR
+72476-1758
+United States
+blacksheepeggco@outlook.com
+Issuing Office:
+Human Foods Program
+United States
+WARNING LETTER
+February 12, 2026
+Re: CMS #718802
+Dear Mr. Tweedy, Mr. Jarvis, and Mrs. Gray:
+From August 20, 2025, through September 12, 2025, the U.S. Food and Drug Administration (FDA) conducted an inspection of your offline shell egg processing facility located at 400 S Memorial Drive, Walnut Ridge, Arkansas, 72476. During our inspection, FDA collected environmental samples (i.e., swabs) from your facility and detected the presence of
+Salmonella
+as further described in this letter.
+Based on FDA’s inspectional and analytical findings, we have determined that the shell eggs processed at your facility are adulterated within the meaning of section 402(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) [21 U.S.C. § 342(a)(4)], in that they have been prepared, packed, or held under insanitary conditions whereby they may have become contaminated with filth or whereby they may have been rendered injurious to health. Additionally, FDA investigators observed serious violations of the Prevention of
+Salmonella
+Enteritidis in Shell Eggs During Production, Storage, and Transportation regulation (the Shell Egg regulation), Title 21, Code of Federal Regulations, Part 118 (21 CFR Part 118). Failure to comply with the provisions of 21 CFR Part 118 causes your shell eggs to be in violation of section 361(a) of the Public Health Service Act (the PHS Act), 42 U.S.C. § 264(a). In addition, these violations render your shell eggs adulterated within the meaning of section 402(a)(4) of the FD&C Act. You may find the FD&C Act, the PHS Act and the Shell Egg regulation through links on FDA’s home page at www.fda.gov.
+At the conclusion of the inspection, FDA investigators issued an FDA Form 483 (FDA-483), Inspectional Observations, listing the deviations found at your facility. We also emailed you regarding our analytical findings on September 10 and 18, 2025. We received your written responses dated September 15, 2025, September 19, 2025, September 22, 2025, and October 1, 2025, describing corrective actions taken and planned by your firm. Based on our review of the inspectional and analytical findings and your responses, we are issuing this letter to advise you of FDA’s continued concerns and to provide detailed information regarding the findings at your facility.
+Salmonella spp. Findings
+FDA collected environmental sample #
+(b)(4)
+from your shell egg processing facility on August 20, 2025. Laboratory analysis of the environmental sample found that
+(b)(4)
+of the
+(b)(4)
+sub samples were positive for
+Salmonella
+spp. Of the
+(b)(4)
+positive sub samples,
+(b)(4)
+sub samples were collected from non-food contact areas immediately adjacent to food contact surfaces on your shell egg processing equipment and packaging lines. These areas include a torn conveyor at the end of packing line #
+(b)(4)
+, roller grate at the end of packing line #
+(b)(4)
+, and the
+(b)(4)
+side of a conveyor belt near the end of packing line #
+(b)(4)
+. The remaining
+(b)(4)
+sub samples were collected from other non-food contact surfaces including a control panel, an egg waste hopper, drains, and floor surfaces.
+Whole Genome Sequencing (WGS) analysis was conducted on the
+(b)(4)
+Salmonella
+spp. isolates derived from the referenced sample. Based on the results of the WGS analysis, the
+(b)(4)
+isolates represent seven different serovars of
+Salmonella
+, including the following:
+S. I 4,[5],12:i:- consisted of one isolate representing one strain. The isolate obtained from this positive sub sample was recovered from a conveyor belt of packaging line #
+(b)(4)
+. This strain matched a clinical isolate from 2025, which indicates that this strain is capable of causing human illness.
+S. Mbandaka consisted of
+(b)(4)
+isolates representing one strain. The isolates obtained from the positive sub samples were recovered from a crack on the floor near the accumulator and from the floor south of the washer. This strain matched a clinical isolate from 2023, which indicates that this strain is capable of causing human illness.
+S. Braenderup consisted of
+(b)(4)
+isolates representing one strain. The isolates obtained from the positive sub samples were recovered from pre and post egg wash equipment including the accumulator, egg washer, dryer, transfer, and packaging lines. Additional sub samples were recovered from buckets, floors and drains throughout your processing facility.
+Other
+Salmonella
+spp. identified in the WGS analysis included S. Thompson (
+(b)(4)
+isolates representing one strain), S. Kentucky (one isolate representing one strain), S. Liverpool (one isolate representing one strain), and S. Rissen (
+(b)(4)
+representing one strain). We advised you of the significance of these WGS results on September 17, 2025. Based on the number of positive sub samples and widespread detection of
+Salmonella
+spp. within your facility environment, in addition to the inspectional findings discussed in greater detail below, we are concerned that your practices and facility environment allow for the harborage, proliferation, and spread of pathogens throughout your processing plant, which may lead to contamination of shell eggs.
+We acknowledge the corrective actions you have taken in response to the
+Salmonella
+spp. findings, including a voluntary recall of approximately
+(b)(4)
+million (
+(b)(4)
+dozen) shell eggs. Your written responses also stated that you “
+(b)(4)
+” on September 18, 2025; conducted a “
+(b)(4)
+” of your processing plant and sanitized portions of your processing area; collected
+(b)(4)
+environmental sub samples for
+Salmonella
+spp. testing and analysis; and that all
+(b)(4)
+samples you collected and tested received negative test results. You also indicated that you are conducting “
+(b)(4)
+” at pre-operational inspections and at the end of sanitation. We will verify the effectiveness of your corrective actions and your ability to maintain a sanitary environment during a future inspection.
+Federal Food, Drug, and Cosmetic Act (FD&C Act)
+Your shell eggs were prepared, packed, or held under insanitary conditions whereby they may have become contaminated with filth or rendered injurious to health within the meaning of section 402(a)(4) of the FD&C Act. Specifically, during the inspection, our investigators observed the following insanitary conditions and practices at your facility related to pest activity, as well as the following deficiencies with your sanitation practices:
+a) FDA investigators observed insanitary conditions and practices, such as potential areas of ingress for pests, areas that could serve as an attractant or harborage for pests, and flies too numerous to count (TNTC) within your shell egg processing facility. Specifically, on August 20 and 22, 2025, investigators observed that two overhead rolling doors were open, which provided insects with access to the processing area during washing of shell eggs. Insect activity was observed inside your processing area on these dates, and live and dead flies were observed around your equipment.
+Insect activity was also observed when investigators returned to your facility on September 9 and 10, 2025. Flies were observed in multiple open tubs containing inedible, moldy eggs discarded during processing. The tubs, approximately
+(b)(4)
+-gallons each, were kept in the processing area during production and later moved to a dehydrator located in a shed approximately
+(b)(4)
+feet from the processing building. More live and dead flies (TNTC), egg residues, and shells of eggs were observed in and around the dehydrator shed near the delivery door to your processing building. Flies are known vectors of pathogens, such as
+Salmonella
+spp., and are able to spread pathogens to food, food-contact surfaces, and equipment.
+These conditions and issues were similar to those documented by your pest control company earlier in 2025. From May through August 2025, weekly third-party pest control company reports documented that your facility doors were left open during nine visits and recommended that employees keep doors closed. The reports also documented that insect activity on glue boards had reached
+(b)(4)
+% capacity. Further, in June and August 2025, your pest control company applied
+(b)(4)
+parasitic wasp treatments releasing
+(b)(4)
+and
+(b)(4)
+wasps, respectively, around your shell egg processing facility. These large-scale applications indicate a severe fly infestation.
+Your written responses stated that you cleaned and sanitized your dehydrator and that you plan to add more gravel and began installing insect curtains on September 19, 2025. You also installed
+(b)(4)
+large ceiling fans to make the temperature of the processing environment more comfortable while the doors are closed. We will verify the effectiveness of your corrective actions during our next inspection.
+b) FDA investigators observed sanitation deficiencies within your shell egg processing facility. Specifically, on August 20, 2025, we observed broken eggs and egg residue on equipment that makes direct contact with eggs during packaging. These residues were observed after sanitation had been completed following your August 18, 2025, production date. The egg residues were also observed on the rollers at the end of the packing lines. Trays of washed eggs pass directly over these rollers and were observed stacked on top of other trays of washed eggs to be packaged into cases. Additionally, you did not use any detergents or sanitizers on several pieces of equipment, including the denester, on the washing and packing lines. This equipment was only washed with tap water.
+Further, on September 10, 2025, during cleaning and sanitation, FDA investigators observed an employee using a power washer on the packaging lines, causing overspray from the floor to equipment surfaces. You routinely use power washers to rinse equipment including the egg washer, conveyors, trays, and supplies used for loading unwashed eggs. Caution should be used when incorporating high-pressure hoses/power washers as part of your cleaning and sanitation program, as the overspray and aerosols can transfer and spread pathogens (e.g.,
+Salmonella
+) from your shell egg processing facility environment to food contact surfaces.
+In addition, the extensive presence of
+Salmonella
+spp. found within your facility environment, discussed above, further demonstrates that your cleaning and sanitation procedures are inadequate.
+At the close of the inspection, you stated that a new post-operational sanitation check will be completed by the sanitation manager, instead of relying only on the pre-operational sanitation check. In your written responses, you stated that several parts of your processing line equipment were disassembled, manually washed, and sanitized, and that you are in the process of updating your sanitation standard operating procedures (SSOPs). You also noted that you had your chemical supplier provide instruction to sanitation managers on chemical usage, and that you are using sealant to fill in cracks on the concrete floor that were of concern. We are unable to assess the implementation and adequacy of your corrective actions because you did not provide supporting documentation, such as updated SSOPs and completed post-operational sanitation check forms, to assist with our review.
+Shell Egg Regulation (21 CFR Part 118)
+Your significant violations are as follows:
+a) You did not comply with the refrigeration requirements of 21 CFR 118.4(e). Under 21 CFR 118.1(b), if you hold or transport shell eggs for shell egg processing or egg products facilities (if receiving eggs from farms with 3,000 or more laying hens), you must comply with the refrigeration requirements of 21 CFR 118.4(e). Under 21 CFR 118.4(e), if the eggs are to be processed as table eggs and are not processed for the ultimate consumer within 36 hours from the time of lay and, therefore, are held and transported as required at or below 45°F ambient temperature, then you may hold them at room temperature for no more than 36 hours just prior to processing to allow an equilibrium step to temper the eggs.
+Specifically, you did not monitor the tempering time for nest run shell eggs prior to processing. You routinely unload shell eggs in the afternoon for the next day’s production. However, some deliveries took more than one day to process and were tempered for more than 36 hours at ambient air temperatures that were documented during the inspection between 78°F and 87°F. For example:
+Certain pallets of nest run shell eggs were held for
+(b)(4)
+hours in ambient air temperature greater than
+(b)(4)
+°F prior to processing. Specifically, eggs (Julian date of
+(b)(4)
+) were unloaded on September 7, 2025, at
+(b)(4)
+pm, stored within your processing area, and were washed and packed starting on September 10, 2025, from
+(b)(4)
+am to
+(b)(4)
+am.
+Certain pallets of nest run shell eggs were held for
+(b)(4)
+hours in ambient air temperature greater than
+(b)(4)
+°F prior to processing. Specifically, eggs (Julian date
+(b)(4)
+) were unloaded on July 7, 2025, at
+(b)(4)
+pm and
+(b)(4)
+pm, stored within your processing area, and were washed and packed starting on July 9, 2025, from
+(b)(4)
+am through
+(b)(4)
+pm.
+Your written responses provided an example record of a new form created to document egg tempering, which you plan to implement to “
+(b)(4)
+.” We will verify the adequacy of your corrective actions during our next inspection.
+b) You did not maintain records documenting compliance with shell egg refrigeration requirements, as required by 21 CFR 118.10(a)(3)(iv). Specifically, nest run shell eggs are routinely picked up from supplier farms and remain in trailers for one to 20 days until unloaded for tempering; however, you did not maintain documentation of the holding temperature at or below 45°F to demonstrate your compliance with the refrigeration requirements of 21 CFR 118.4(e). For example, you did not maintain documentation for the following:
+Nest run shell eggs (with Julian dates 252 and 253) that were picked up from a shell egg farm on August 20, 2025, and held until unloaded on September 7, 2025, for processing.
+Nest run shell eggs (with Julian date 190) that were picked up from a shell egg farm on June 30, 2025, and held until unloaded on July 7, 2025, for processing.
+Nest run shell eggs (with Julian dates 253 and 254) that were picked up from a shell egg farm on September 5, 2025, and held until unloaded on September 9, 2025, for processing.
+Your written responses stated that on September 8, 2025, you “
+(b)(4)
+”
+(b)(4)
+°F. You stated further that the trailer temperatures “
+(b)(4)
+” and you provided an example record. We will verify the adequacy of your corrective actions during our next inspection.
+This letter is not intended to be an all-inclusive statement of the violations that may exist at your facility or in connection with your shell eggs. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure your shell egg production practices are conducted in compliance with federal law, including the FD&C Act, the PHS Act, and the Shell Egg regulation.
+This letter notifies you of our concerns and provides you an opportunity to address them. Failure to adequately address this matter may result in legal action including, without limitation, seizure, injunction, or the initiation of administrative enforcement procedures under 21 CFR 118.12(a).
+Please notify FDA in writing, within 15 working days of receipt of this letter, of the specific steps you have taken to address any violations. Include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. If you cannot complete corrective actions within 15 working days, state the reason for the delay and the time within which you will do so. If you believe you have complied with pertinent laws and regulations, include your reasoning and any supporting information for our consideration.
+Please send your reply via email to: HFP-OCE-ConventionalFoods@fda.hhs.gov, copying Lisa Thursam, Compliance Officer, at Lisa.Thursam@fda.hhs.gov or by hardcopy to Food and Drug Administration, Attention: Lisa Thursam, Compliance Officer, Human Foods Program – Office of Compliance and Enforcement, Office of Enforcement – Division of Conventional Foods Enforcement (HFS-607), 5001 Campus Drive, College Park, MD 20740 U.S.A. If you have any questions regarding any issues in this letter, please contact Lisa Thursam, Compliance Officer, via email at Lisa.Thursam@fda.hhs.gov. Please include CMS reference #718802 on any submissions and within the subject line of any email correspondence to the agency.
+Sincerely,
+/S/
+Maria S. Knirk, JD MBA
+Acting Director
+Office of Enforcement
+Office of Compliance and Enforcement
+Human Foods Program

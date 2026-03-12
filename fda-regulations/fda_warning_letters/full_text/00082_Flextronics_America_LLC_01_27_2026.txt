@@ -1,0 +1,152 @@
+COMPANY: Flextronics America LLC
+DATE: 01/27/2026
+SUBJECT: CGMP/QSR/Medical Devices/Adulterated
+ISSUING_OFFICE: Center for Devices and Radiological Health
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/flextronics-america-llc-722180-01272026
+============================================================
+
+Delivery Method:
+VIA Electronic Mail
+Product:
+Medical Devices
+Recipient:
+Recipient Name
+Mr. Vincent Madhavan
+Recipient Title
+General Manager/Sr. Director of Quality
+Flextronics America LLC
+12455 Research Blvd, Bldg. G
+Austin
+,
+TX
+78759
+United States
+(b)(6)@flex.com
+Issuing Office:
+Center for Devices and Radiological Health
+United States
+WARNING LETTER
+CMS 722180
+1/27/2026
+Dear Mr. Madhavan,
+During an inspection of your firm located in Austin, TX from October 20 through October 30, 2025, investigators from the United States Food and Drug Administration (FDA) determined that your firm contract manufactures the
+(b)(4)
+Continuous Glucose Monitor (CGM). Under section 201(h) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 321(h), these products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body.
+Quality System Regulation Violations
+This inspection revealed that these devices are adulterated within the meaning of section 501(h) of the Act, 21 U.S.C. § 351(h), in that the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation found at Title 21,
+Code of Federal Regulations
+(CFR), Part 820.
+We received responses from you dated 11/20/2025 and 12/19/2025 concerning our investigator’s observations noted on the Form FDA 483 (FDA 483), List of Inspectional Observations, that was issued to your firm. We address these responses below, in relation to each of the noted violations. These violations include, but are not limited to, the following:
+1. Failure to adequately ensure that when the results of a process cannot be fully verified by subsequent inspection and test that the process shall be validated with a high degree of assurance and approved according to established procedure, as required by 21 CFR 820.75(a).
+For example: During puck assembly of the
+(b)(4)
+sensor,
+(b)(4)
+are used load PCBAs onto the
+(b)(4)
+. These
+(b)(4)
+must move the PCBA along all
+(b)(4)
+(
+(b)(4)
+) to make this transfer. The
+(b)(4)
+determines the
+(b)(4)
+of the part and therefore has potential affect (in part) on both the
+(b)(4)
+. Your firm’s employees observed sensor damage after this transfer and provided evidence they often had to make
+(b)(4)
+adjustments. Review of the assembly process validation on the
+(b)(4)
+lines used in the manufacture of the sensor pucks found no defined setting or acceptable range for the equipment used to
+(b)(4)
+set or change the
+(b)(4)
+.
+As described, uncontrolled
+(b)(4)
+can result in damaged and nonconforming product. Therefore, this parameter must be controlled as part of your process validation. The Installation Qualification Protocol and associated reports for the
+(b)(4)
+Puck Assembly machines do not define any specifications or set up activities for the
+(b)(4)
+of the
+(b)(4)
+puck
+(b)(4)
+, or related acceptance criteria.
+Over four years of
+(b)(4)
+manufacturing,
+(b)(4)
+have caused damage or failed to pick up parts, requiring corrective maintenance to adjust
+(b)(4)
+. FDA investigators observed approximately
+(b)(4)
+corrective maintenance activities for puck
+(b)(4)
+and
+(b)(4)
+since 2021. Records describe parts being damaged or not picked up, with adjustments made without established specifications or controls. For example, REQ-1204527 documents turning "
+(b)(4)
+," then running cycles until "
+(b)(4)
+" before resuming manufacturing.
+Therefore, associated process validation for the puck assembly process does not demonstrate your process consistently produces product according to your predetermined specifications.
+The adequacy of your firm's response cannot be determined at this time. Your response confirms "
+(b)(4)
+verified the presence of the system manual but did not mandate verification of operation and maintenance instructions for sub-components like the
+(b)(4)
+. This oversight resulted in the absence of specific, detailed
+(b)(4)
+specifications and maintenance procedures for the
+(b)(4)
+." Your firm stated that it has already designed a procedure and setup tool to facilitate
+(b)(4)
+alignment, reassessed PFMEA severity ratings, and evaluated
+(b)(4)
+equipment validations to ensure appropriate manuals are included. You plan to update qualification protocols and reports to qualify tool effectiveness, update the alignment procedure, and ensure documentation supports these activities. Your response (Attachment 14) indicates the tool or "
+(b)(4)
+" thickness now specifies the
+(b)(4)
+(
+(b)(4)
+).
+Your responses to Observations 1 and 3 include plans to qualify the new
+(b)(4)
+and partially revalidate the process to determine effectiveness of the new
+(b)(4)
+specification. However, the Action Plan for Observation 1 states you plan to "Update the Qualification protocols/reports to formally qualify the use and effectiveness of the setup tool (
+(b)(4)
+) (Action 1.1) for Puck lines
+(b)(4)
+" but does not clearly state you intend to validate the process. Partial revalidation described under Observation 3 might be sufficient, but we cannot assess adequacy as it remains in progress without evidence from the revalidation. Please provide updates on revalidation activities as they progress and a summary with supporting documentation upon completion.
+2. Failure to adequately establish and maintain procedures for implementing corrective and preventive action, as required by 21 CFR 820.100(a).
+For example: Your firm did not adequately identify the actions needed to correct and prevent recurrence of nonconforming product and other quality problems.
+This cite is related to the quality problem identified in observation 1 where nonfunctioning devices were caused by improper alignment of the
+(b)(4)
+leading to impact to the leads of the connector causing the
+(b)(4)
+on the PCBA to break. After your firm opened a CAPA on 4/1/2025, it did not identify the actions needed to correct and prevent recurrence of broken components or
+(b)(4)
+connections due to lack of defined specification for the
+(b)(4)
+. As a result, corrective maintenance requests to adjust the
+(b)(4)
+continued after your corrective actions were initiated.
+We reviewed your firm’s response and conclude that it is not adequate. Your firm’s initial response identified multiple corrective actions including but not limited to the need to strengthen guidance for: a) action plan implementation and verification as well as b) handling changes from approved action plans during implementation and verification. Specifically, your firm identified the need to “clarify the technical analysis”. The technical analysis conducted during the FDA-483 remediation identified that establishing a setpoint for the
+(b)(4)
+was critical. The procedural updates are an improvement, but implementation may be subjective for each situation in determining technical analysis (when needed and what is performed) and will have to be reviewed during a subsequent inspection to determine adequacy. Your firm did not include training records, and the status is still in progress. Please provide an update on the verification of effectiveness for this CAPA when it is available later this year.
+Your firm should take prompt action to address any violations identified in this letter. Failure to adequately address this matter may result in regulatory action being initiated by the FDA without further notice. These actions include, but are not limited to, seizure, injunction, and civil money penalties.
+Other federal agencies may take your compliance with the FD&C Act and its implementing regulations into account when considering the award of federal contracts. Additionally, should FDA determine that you have Quality System regulation violations that are reasonably related to premarket approval applications for Class III devices, such devices will not be approved until the violations have been addressed. Should FDA determine that your devices or facilities do not meet the requirements of the Act, requests for Certificates to Foreign Governments (CFG) may not be granted.
+Please notify this office in writing within fifteen business days from the date you receive this letter of the specific steps your firm has taken to address the noted violations, as well as an explanation of how your firm plans to prevent these violations, or similar violations, from occurring again. Include documentation of the corrections and/or corrective actions (which must address systemic problems) that your firm has taken. If your firm’s planned corrections and/or corrective actions will occur over time, please include a timetable for implementation of those activities. If corrections and/or corrective actions cannot be completed within fifteen business days, state the reason for the delay and the time within which these activities will be completed. Your firm’s response should be comprehensive and address any violations included in this Warning Letter. If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration as part of your response.
+Your firm’s response should be sent via email to ORP EAT 3 Assistant Director Jeff Wooley at CDRHEnforcement@fda.hhs.gov. Please include in the subject line, “CMS Case 722180” when replying. If you have any questions about the contents of this letter, please contact: Lauren Priest at Lauren.Priest@fda.hhs.gov.
+Finally, you should know that this letter is not intended to be an all-inclusive list of the violations at your firm’s facility. It is your firm’s responsibility to ensure compliance with applicable laws and regulations administered by FDA. The specific violations noted in this letter and in the Inspectional Observations, FDA 483, issued at the close of the inspection may be symptomatic of serious problems in your firm’s manufacturing and quality management systems. Your firm should investigate and determine the causes of any violations and take prompt actions to address any violations and bring the products into compliance.
+Sincerely,
+/S/
+Barbara C. Marsden
+Acting Director
+Office of Regulatory Programs
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health

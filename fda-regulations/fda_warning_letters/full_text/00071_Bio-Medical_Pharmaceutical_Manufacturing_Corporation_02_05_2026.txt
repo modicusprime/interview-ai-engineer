@@ -1,0 +1,249 @@
+COMPANY: Bio-Medical Pharmaceutical Manufacturing Corporation
+DATE: 02/05/2026
+SUBJECT: CGMP/Finished Pharmaceuticals/Adulterated
+ISSUING_OFFICE: Center for Drug Evaluation and Research (CDER)
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/bio-medical-pharmaceutical-manufacturing-corporation-719654-02052026
+============================================================
+
+Delivery Method:
+VIA UPS
+Reference #:
+320-26-42
+Product:
+Drugs
+Over-the-Counter Drugs
+Recipient:
+Recipient Name
+Mr. Yanzhuan Zheng
+Recipient Title
+Owner/President
+Bio-Medical Pharmaceutical Manufacturing Corporation
+4311 South Drive
+Houston
+,
+TX
+77053
+United States
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+Warning Letter
+320-26-42
+February 5, 2026
+Dear Mr. Zheng:
+The United States Food and Drug Administration (FDA) inspected your drug manufacturing facility, Bio-Medical Pharmaceutical Manufacturing Corporation (Bio-Medical), FEI 1650090, at 4311 South Drive, Houston, from August 25 to 29, 2025.
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+In addition, we reviewed your firm’s drug listing submissions in FDA’s electronic Drug Registration and Listing System (eDRLS) and found that your firm has not fulfilled its drug listing obligations under 510(j) of the FD&C Act, U.S.C. 360(j), and 21 CFR 207, which is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p).
+We reviewed your September 8, 2025, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+CGMP Violations
+1. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile and that include validation of all aseptic and sterilization processes. Your firm also failed to perform operations within specifically defined areas of adequate size and to have separate or defined areas or such other control systems necessary to prevent contamination or mix-ups in aseptic processing areas (21 CFR 211.113(b) and 211.42(c)(10)).
+You are a contract manufacturing organization (CMO) for an over-the-counter (OTC)
+(b)(4)
+drug product for the drug product owner,
+(b)(4)
+. You manufacture this
+(b)(4)
+drug product without adequate facility design, controls, and procedures to ensure sterility of the containers/closures and finished drug product. Your firm neither aseptically processed nor terminally sterilized your product. If
+(b)(4)
+drugs are not sterile, they pose an unacceptable risk to patients, including infection and potential for
+(b)(4)
+.
+During the inspection, you acknowledged you lack an adequate understanding of CGMP and the requirements for manufacturing
+(b)(4)
+drug products.
+Our investigators observed that your facility lacked classified cleanrooms for production, as well as ISO 5 conditions for aseptic filling and sealing. Furthermore, your manufacturing facility lacks appropriate equipment and practices, including environmental controls to ensure your
+(b)(4)
+drug product is sterile. Your drug products intended to be sterile are at risk of contamination due to the insanitary conditions observed at your facility. This includes the condition of the production tank, filling lines lying on an unclean floor made of a rough, porous surface (e.g., concrete) in an open area, lack of appropriate sanitary fittings, and the general overall poor conditions of the facility for manufacturing drug products intended to be sterile. Additionally, investigators observed stagnant
+(b)(4)
+in contact with distribution and sampling equipment, including hoses that dispense
+(b)(4)
+used for drug product formulation.
+Your response is inadequate because you do not provide an adequate plan for corrective action and preventive action (CAPA) for manufacturing
+(b)(4)
+drug products intended to be sterile. Your response lacks an appropriate action plan to ensure sterility of the product. Sterilization, aseptic filling, and closing operations must all be appropriately designed, qualified, and executed under appropriate conditions, including filling and sealing in a high-quality clean environment.
+It should also be noted that, whenever feasible, terminal sterilization should be used to render products sterile.
+See FDA’s guidance document
+Sterile Drug Products Produced by Aseptic Processing—Current Good Manufacturing Practice
+to help you meet the CGMP requirements when manufacturing sterile drugs using aseptic processing at https://www.fda.gov/media/71026/download.
+In response to this letter, provide:
+Comprehensive risk assessment of all contamination hazards with respect to your aseptic processes, equipment, and facilities, including an independent assessment that includes, but is not limited to:
+o All human interactions within the ISO 5 area
+o Equipment placement and ergonomics
+o Air quality in the ISO 5 area and surrounding room
+o Facility layout
+o Personnel Flows and Material Flows (throughout all rooms used to conduct and support sterile operations)
+A detailed remediation plan with timelines to address the findings of the contamination hazards risk assessment. Describe specific tangible improvements to be made to aseptic processing operation design and control.
+An assessment of the potential for terminal sterilization of your
+(b)(4)
+drug products.
+2. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance. Your firm also failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess. Additionally, your firm also failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements. (21 CFR 211.63 and 211.100(a) and 211.67(a)).
+Inadequate Equipment
+You use
+(b)(4)
+as a component to manufacture your sterile and non-sterile OTC drug products. Your
+(b)(4)
+system is inadequately designed and maintained for its intended use. For example, your ambient non-circulating
+(b)(4)
+system included dead legs which could foster the development of biofilms. When not in use, stagnant
+(b)(4)
+remained in the sampling hose and distribution system. You use
+(b)(4)
+from this system to manufacture your drug products.
+In your response, you state that you removed the dead legs and revised your procedure for hose storage. You also state that you will continuously operate your
+(b)(4)
+system, record maintenance events, and increase sampling frequency. Your response is inadequate because you failed to replace the unsuitable
+(b)(4)
+system observed during the inspection with a new appropriately designed system. You also failed to provide corresponding plans for system validation. Additionally, you lack plans for maintenance, control, and appropriate testing and monitoring for
+(b)(4)
+, as well as appropriate microbiological tests.
+The
+(b)(4)
+system must be adequately designed for its intended use and properly maintained and controlled. It is essential that
+(b)(4)
+is routinely tested to ensure ongoing conformance with appropriate chemical and microbiological attributes.
+Lack of process validation
+In addition to inadequate facility and process design, you lacked adequate qualification of equipment and validation of processes used to manufacture your drug products. The “current validated” sterilization manufacturing process provided in your response is fundamentally flawed as evidenced by:
+insanitary conditions in your facility;
+use of a
+(b)(4)
+not sufficient for sterile
+(b)(4)
+;
+reliance on a manually intensive process;
+lack of batch sterility testing (your firm performed “CFU testing”).
+Also, you lacked other basic elements of a reliable sterile manufacturing operation needed to support a validated process.
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately to ensure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality are necessary to ensure that you maintain a stable manufacturing operation throughout the product lifecycle.
+See FDA’s guidance document
+Process Validation: General Principles and Practices
+for general principles and approaches that FDA considers appropriate elements of process validation, at https://www.fda.gov/media/71021/download.
+Lack of cleaning validation
+You manufacture sterile and non-sterile OTC drug products and cosmetics on non-dedicated manufacturing equipment in a shared area. You failed to conduct cleaning validation studies to demonstrate that your cleaning, disinfection, and sterilization practices, as applicable, are adequate to remove contaminants and residues from your drug product manufacturing equipment.
+Your procedure for cleaning production equipment used to manufacture
+(b)(4)
+drug products, “Special Cleaning Procedure For Other Equipment,” relies on
+(b)(4)
+(e.g.,
+(b)(4)
+) as the “sterilization” agent. While
+(b)(4)
+can be an effective disinfectant, your procedure lacks critical elements such as validated contact times, concentration verification, residue removal, and demonstration that the cleaning process consistently achieves the sterility assurance levels required for sterile drug products.
+Inadequate removal of active ingredients and residues from manufacturing equipment during cleaning can result in cross-contamination of the drug products.
+In response to this letter, provide:
+Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+A comprehensive remediation plan for the design, control, and maintenance of the
+(b)(4)
+system.
+Validation report for the
+(b)(4)
+system obtained after an appropriately designed system has been installed. Include the system validation protocol, the complete test results, and the final validation report.
+Your total microbial count limits to monitor whether this system is producing
+(b)(4)
+suitable for the intended uses for each of your products. Also, explain whether you intend to conduct endotoxin testing.
+A detailed risk assessment addressing the potential effects of the observed
+(b)(4)
+system failures on the quality of all drug product batches currently in U.S. distribution or within expiry. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+A timeline for performing appropriate process performance qualification (PPQ) for each of your marketed drug products. Also provide a risk assessment and any follow up actions to be taken for the distributed drug products produced without performing any process validation studies.
+Process performance protocol(s), and written procedures for qualification of equipment and facilities.
+A detailed program for designing, validating, maintaining, controlling and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+A CAPA plan, based on the retrospective assessment of your cleaning and disinfection program, that includes appropriate remediations to your cleaning and disinfection processes and practices, and timelines for completion. Provide a detailed summary of vulnerabilities in your process for lifecycle management of equipment cleaning and disinfection. Describe improvements to your cleaning and disinfection program, including enhancements to cleaning effectiveness; improved ongoing verification of proper cleaning and disinfection execution for all products and equipment; and all other needed remediations.
+Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+o drugs with higher toxicities
+o drugs with higher drug potencies
+o drugs of lower solubility in their cleaning solvents
+o drugs with characteristics that make them difficult to clean
+o swabbing locations for areas that are most difficult to clean
+o maximum hold times before cleaning
+In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+3. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release. Your firm failed to conduct, for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable microorganisms. Additionally, your firm failed to conduct appropriate laboratory testing to determine whether each batch of drug product purporting to be sterile and pyrogen-free conforms to such requirements (21 CFR 211.165(a) and 211.165(b) and 211.167(a)).
+You failed to conduct adequate release testing of all your drug products. For example:
+You did not conduct appropriate laboratory testing, including sterility testing, for each batch of
+(b)(4)
+drug product that is required to be sterile.
+You did not conduct appropriate laboratory testing of each batch of drug product, such as
+(b)(4)
+, required to be free of objectionable microorganisms.
+In your response, you specify the microbiological media lots used to perform testing are validated. Your response is inadequate. For example, media used, sample size, incubation time and temperatures, and other elements of your test methods are inappropriate. You also do not provide sufficient details as to how you will ensure that your laboratory or your contract testing laboratories will perform adequate release testing on all OTC finished drug products. In addition to compendial methods, additional batch testing may be necessary to fully identify microbes that, based on the intended use of your non-sterile products, may be objectionable.
+Moreover, you failed to perform appropriate sterility testing on your
+(b)(4)
+drug products prior to batch release. It is essential that you conduct sterility testing on
+(b)(4)
+drug products prior to making batch disposition decisions. Additionally, you do not consider a risk assessment or retrospective review of products that have been released without appropriate testing.
+Full release testing, including for identity, strength, and purity, must be performed prior to batch release and distribution. Without appropriate testing, you do not have adequate scientific evidence to ensure that your drug products conform to established specifications before release.
+In response to this letter, provide:
+A comprehensive independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+A list of chemical and microbial specifications, including test methods, used to analyze each batch of your drug products before a batch disposition decision.
+o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+Drug Listing Violations
+Section 510(j) of the FD&C Act, 21 U.S.C. 360(j), and 21 CFR Part 207 set forth the requirements for the listing of drugs. Under section 510(j)(1) of the FD&C Act and 21 CFR 207.41(a), a registrant must list each drug that it manufactures for commercial distribution. Your firm failed to provide listing information for the drug “
+(b)(4)
+Solution.” Therefore, your firm has failed to provide listing information for a drug in accordance with 510(j) of the FD&C Act, 21 U.S.C. 360(j), which is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p).
+Complete, accurate, and up-to-date establishment registration and drug listing information is essential to promote and protect patient safety. FDA relies on establishment registration and drug listing information for several key programs, including drug establishment inspections, supply chain security, and post-market surveillance. Establishment registration and drug listing information is also widely used outside FDA for purposes such as electronic prescribing and electronic health records, insurance reimbursement, and patient education.
+It is your responsibility to ensure that all drugs manufactured at your establishment comply with all establishment registration and drug listing requirements under section 510 of the FD&C Act, 21 U.S.C. 360, 21 CFR Part 207, and all other applicable FDA regulations. Registration and listing information and instructions on how to properly register an establishment or submit drug listings can be found at Electronic Drug Registration and Listing Instructions.
+Drug Recall and Suspended Distribution
+On November 4, 2025, FDA held a teleconference with you. We recommended you remove any batches of OTC
+(b)(4)
+solution (e.g.,
+(b)(4)
+Solution) currently in distribution and within expiry from the U.S. market. We also recommended you consider ceasing further distribution. Your firm erroneously indicated that your
+(b)(4)
+solution is not a drug product. However, be advised that this
+(b)(4)
+and other drug products that your firm has manufactured are all subject to CGMP requirements.
+The
+(b)(4)
+solutions manufactured by your firm are distributed by
+(b)(4)
+.
+On
+(b)(4)
+, your customer
+(b)(4)
+notified FDA that it suspended distribution of
+(b)(4)
+on
+(b)(4)
+.
+On
+(b)(4)
+initiated a voluntary recall of all batches of
+(b)(4)
+within expiry.
+In response to this letter, clarify whether you intend to continue manufacturing
+(b)(4)
+drugs required to be sterile for the U.S. market at this facility. You are responsible for resolving all deficiencies and systemic flaws to ensure your firm is capable of ongoing CGMP compliance. In your response, provide a summary of your remediations to demonstrate that you have appropriately completed all CAPA.
+CGMP Consultant Recommended
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit
+1
+of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+Cosmetics Manufactured for Distribution in the United States
+In addition, some of the products you manufacture may be regulated as cosmetics, as defined in section 201(i) of the FD&C Act [21 U.S.C. 321(i)]. Any cosmetics you manufacture must comply with applicable statutory and regulatory requirements, including the FD&C Act. We note that under section 301(a) of the FD&C Act [21 U.S.C. 331(a)], it is a prohibited act to introduce or deliver for introduction into interstate commerce a cosmetic that is adulterated or misbranded.
+We also note that the Modernization of Cosmetics Regulation Act of 2022 (MoCRA) provides new requirements with which facilities that manufacture cosmetic products must comply. You may find the FD&C Act, MoCRA, and FDA’s regulations through links on FDA’s website at www.fda.gov.
+Conclusion
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 1650090 and ATTN: William Fowler.
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+/S/
+Tina Smith
+Captain, U.S. Public Health Service
+Director
+Office of Unapproved Drugs & Labeling Compliance
+Office of Compliance
+Center for Drug Evaluation and Research
+______________________
+1
+i.e. Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

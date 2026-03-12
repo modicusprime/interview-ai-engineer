@@ -1,0 +1,52 @@
+COMPANY: Rio Verde Food Service Inc.
+DATE: 02/27/2026
+SUBJECT: Seafood HACCP/CGMP for Foods/Adulterated/Insanitary Conditions
+ISSUING_OFFICE: Human Foods Program
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/rio-verde-food-service-inc-719149-02272026
+============================================================
+
+Delivery Method:
+VIA ELECTRONIC DELIVERY
+Product:
+Food & Beverages
+Recipient:
+Recipient Name
+Ruben Acosta Galicia
+Recipient Title
+President/Owner
+Rio Verde Food Service Inc.
+1800 Dixon Street, Suite H
+Des Moines
+,
+IA
+50316-2172
+United States
+ra@rioverdefoodservice.com
+Issuing Office:
+Human Foods Program
+United States
+February 27, 2026
+WARNING LETTER
+Re: CMS #719149
+Dear Mr. Galicia:
+The United States Food and Drug Administration (FDA) conducted an inspection of your seafood processing facility, located at 1800 Dixon Street, Suite H, Des Moines, IA 50316, from July 22, 2025, to July 25, 2025. During our inspection, the FDA investigators found serious violations of the seafood Hazard Analysis and Critical Control Point (HACCP) regulation, Title 21, Code of Federal Regulations, Part 123. At the conclusion of the inspection, the FDA investigator issued your facility a Form FDA 483 (FDA-483), Inspectional Observations, listing the deviations found at your firm. You provided a response to the FDA-483 on September 19, 2025, including your revised HACCP plan for “HACCP Plan – Live Oysters”, approved August 9, 2025. Your written response did not include any supporting HACCP documentation. After reviewing your response, we continue to have concerns with your HACCP program for Live Oysters, as further described in this letter.
+In accordance with 21 CFR 123.6(g), failure of a processor of fish or fishery products to have and implement a HACCP plan that complies with this section or otherwise operate in accordance with the requirements of Part 123, renders the fish or fishery products adulterated within the meaning of section 402(a)(4) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 342(a)(4). Accordingly, your Live Oysters are adulterated, in that they have been prepared, packed, or held under conditions whereby they may have been rendered injurious to health. You may find the Act, the seafood HACCP regulation, and the June 2022 4th Edition of the Fish and Fisheries Products Hazards & Controls Guidance (the Hazards Guide) through links in FDA’s home page at www.fda.gov.
+Your significant violations of the seafood HACCP regulation are as follows:
+1. You must have a HACCP plan that, at a minimum, lists the critical limits that must be met, to comply with 21 CFR 123.6(c)(3). A critical limit is defined in 21 CFR 123.3(c) as “the maximum or minimum value to which a physical, biological, or chemical parameter must be controlled at a critical control point to prevent, eliminate, or reduce to an acceptable level the occurrence of the identified food safety hazard.” However:
+a. Your revised HACCP plan for “Live Oysters” submitted with your September 19, 2025, response lists a critical limit in the plan for receiving refrigerated product that does not control the pathogen hazard. Processors of seafood intended to be eaten raw must ensure the temperature of the product was held at or below an ambient temperature of 40°F (4.4°C) throughout transit. Your plan lists “
+(b)(4)
+” as the critical limit at the “
+(b)(4)
+” critical control point.
+b. Your revised HACCP plan for “Live Oysters submitted with your September 19, 2025, response lists a critical limit in the plan for storage of live oysters that does not control the pathogen hazard. Processors of live oysters to be eaten raw should ensure the oysters are continuously held at or below 40°F during storage.
+2. Because you chose to include corrective action plans in your HACCP, your described corrective actions must be appropriate, to comply with 21 CFR 123.7(b). However, your corrective action plan listed in your HACCP plan for “Live Oysters” does not ensure that affected product does not enter into commerce.
+This letter notifies you of our concerns and provides you an opportunity to address them. Failure to adequately address this matter may result in legal action including, without limitation, seizure, injunction, or administrative action for suspension of food facility registration if criteria and conditions warrant.
+Please notify FDA in writing within fifteen (15) working days of receipt of this letter, of the specific steps you have taken to address any violations. Include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. If you cannot complete corrective actions within fifteen (15) working days, state the reason for the delay and the time within which you will do so. If you believe that your products are not in violation of the Act, include your reasoning and any supporting information for our consideration.
+Please send your reply to the Food and Drug Administration, Attention: Bruce E. Taylor, Compliance Officer, Human Foods Program – Office of Compliance and Enforcement, Office of Enforcement – Division of Conventional Foods Enforcement (HFS-607), 5001 Campus Drive, College Park, MD 20740 U.S.A. If you have any questions regarding any issues in this letter, please contact Bruce E. Taylor via email at: Bruce.Taylor@fda.hhs.gov. Please include reference #719149 CMS Number on any submissions and within the subject line of any email correspondence to the agency.
+Sincerely,
+/S/
+Maria S. Knirk, JD, MBA
+Acting Director
+Division of Conventional Foods Enforcement
+Office of Compliance and Enforcement
+Human Foods Program

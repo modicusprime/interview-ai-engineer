@@ -1,0 +1,97 @@
+COMPANY: Louisville Reproductive Center
+DATE: 01/23/2026
+SUBJECT: Deviations/CFR/Regulations for Human Cells, Tissues & Cellular Products (HCT/Ps)
+ISSUING_OFFICE: Center for Biologics Evaluation and Research
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/louisville-reproductive-center-722350-01232026
+============================================================
+
+Delivery Method:
+VIA UPS and Electronic Mail
+Reference #:
+CBER 26-722350
+Product:
+Biologics
+Recipient:
+Recipient Name
+Dr. Miriam S. Krause
+Recipient Title
+Medical Director
+Louisville Reproductive Center
+4123 Dutchmans Lane, Suite 416
+Louisville
+,
+KY
+40207-4733
+United States
+Mkrause@ivfkentucky.com
+Issuing Office:
+Center for Biologics Evaluation and Research
+United States
+WARNING LETTER
+CBER 26-722350
+January 23, 2026
+Dear Dr. Krause:
+During an inspection of your firm, Louisville Reproductive Center located at 4123 Dutchmans Lane, Suite 416, Louisville, KY, conducted between April 23, 2025, and April 28, 2025, the United States Food and Drug Administration (FDA) documented significant violations from the regulations for human cells, tissues, and cellular and tissue-based products (HCT/Ps) set forth in Title 21, Code of Federal Regulations (CFR) Part 1271 [21 CFR 1271] and issued under the authority of Section 361 of the Public Health Service Act [42 U.S.C. § 264].
+The observations documented on the Form FDA-483, List of Inspectional Observations (FDA 483), were presented to and discussed with you at the conclusion of the inspection, and following FDA’s review, your violations include, but are not limited to, the following:
+1) Failure to test a specimen from an anonymous or directed reproductive donor of cells or tissue, whether viable or non-viable, for evidence of infection due to relevant communicable disease agents [21 CFR 1271.85(a)]. For example:
+a. Semen was collected from directed donor
+(b)(6)
+on
+(b)(6)
+. However, the donor was not tested for human immunodeficiency virus, type-1 (HIV-1), hepatitis C virus (HCV), hepatitis B virus (HBV) by the nucleic acid test (NAT) method, or hepatitis B core antigen (anti-HBc). Directed semen donor
+(b)(6)
+was determined “eligible” on July 12, 2024.
+b. Semen was collected from directed donor
+(b)(6)
+on
+(b)(6)
+. However, the donor was not tested for West Nile Virus (WNV). Directed semen donor
+(b)(6)
+was determined “eligible” on July 12, 2024.
+2) Failure to test a specimen from a donor of viable, leukocyte-rich cells or tissue for cell-associated diseases [21 CFR 1271.85(b)(1)]. For example, semen was collected from directed donor
+(b)(6)
+on
+(b)(6)
+. However, the donor was not tested for Human T-lymphotropic virus, types 1 and 2 (HTLV-I and HTLV-II). Directed semen donor
+(b)(6)
+was determined “eligible” on July 12, 2024.
+3) Failure to screen a donor of reproductive cells or tissue by reviewing the donor’s relevant medical records for risk factors for, and clinical evidence of, relevant communicable disease agents and diseases [21 CFR 1271.75(a)(1)]. Your firm’s
+Donor Medical History Interview Questionnaire, FDA Donor Screening for Risk Factors or Conditions For Donor Eligibility Evaluator
+form is used as a relevant medical record to screen donors and determine their eligibility. This form is missing questions, timeframes, and/or deferral periods to assess a donor’s relevant communicable disease risk. For example:
+a. Question 6 states, “In the past 12 months, have you had sex with a person known or suspected to have HIV infection, active hepatitis B infection or hepatitis C infection, clinically active hepatitis B infection, or hepatitis C infection?” To adequately and appropriately reduce the risk of transmission of the disease, the question needs to ask about hepatitis B infection and clinically active (symptomatic) hepatitis C infection.
+b. Question 9 states, “In the past 12 months, have you been in jail for more than 72 consecutive hours?” This question needs to ask about
+juvenile detention, lock up,
+and
+prison
+in addition to jail.
+c. The form fails to ask whether donors have tested positive or reactive for WNV infection using an FDA-licensed or investigational WNV NAT donor screening test in the preceding 120 days.
+d. The form fails to ask whether donors are current or former U.S. military members, civilian military employees, or dependents of a military member or civilian employee who resided at U.S. military bases in Northern Europe (Germany, Belgium, and the Netherlands) for 6 months or more
+cumulatively
+from 1980 through 1990, or elsewhere in Europe (Greece, Turkey, Spain, Portugal, and Italy) for 6 months or more
+cumulatively
+from 1980 through 1996.
+e. The form fails to ask whether donors have been diagnosed with Variant Creutzfeldt-Jakob Disease (vCJD) or any other form of CJD.
+4) Failure to establish and maintain procedures for all steps performed in testing, screening, and determining donor eligibility, and complying with all other requirements of Subpart C “Donor Eligibility” [21 CFR 1271.45 - 1271.90]. “Establish and maintain” means define, document, and implement; then follow, review, and as needed, revise on an ongoing basis [21 CFR 1271.47(a)]. For example, your firm’s procedures do not include all steps and risk factors for donor screening, donor physical examination, steps and requirements for determining donor eligibility, and all additional relevant requirements in Subpart C of 21 CFR Part 1271.
+The violations identified above are not intended to be an all-inclusive list of violations at your facility. It is your responsibility to ensure that your establishment complies with all applicable federal regulations. You are responsible for reviewing your firm’s operations, including firms within the same organization, as a whole to ensure that you are in compliance with the law.
+Additional information regarding the regulation of HCT/Ps is available at:
+https://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products
+https://www.fda.gov/vaccines-blood-biologics/biologics-guidances/tissueguidances
+FDA Workshop for the Reproductive Tissue Industry - Sept 29 and Oct 1, 2020 - 09/29/2020 - 10/01/2020 | FDA
+We acknowledge receipt of your email correspondence submitted on May 1, 2025, responding to the inspectional observations. We have reviewed your response, and we have determined that the response is inadequate to address our concerns. In response to Observations 1 and 2, we acknowledge your commitment to retrain staff on the donor eligibility process and donor summary of records; however, you made this commitment previously and failed to honor it. On April 8, 2021, Louisville Reproductive Center was cited for similar violations and on April 12, 2021, you responded and stated that your staff would be retrained on the
+Donor Summary of Records
+which details all required testing for semen donors. Despite that commitment, the current inspection documented the same violations, indicating that your corrective actions were either not implemented or were not effective to prevent the recurrence of the previously identified violations. The Agency continues to have serious concerns about your establishment’s ability to maintain compliance with 21 CFR Part 1271.
+Please note that if you still have oocytes and/or semen in storage from donors whose screening and/or testing was not completed in accordance with 21 CFR Part 1271, FDA considers the donor eligibility determinations to be incomplete for these donors. For
+example, this includes donors who were not appropriately tested for relevant communicable disease agents and diseases and/or who were not appropriately screened for relevant communicable disease risk factors which includes using previous versions of donor history questionnaires that did not screen for all conditions and/or behaviors that increase a donor’s relevant communicable disease risk. Therefore, as required by 21 CFR 1271.60(a), you must keep these HCT/Ps in quarantine.
+Should the need arise in the future to remove any of these HCT/Ps from quarantine, either for use in your own establishment or for transport to another establishment, you may request an exemption or alternative from a requirement in Subpart C, 21 CFR Part 1271, as specified in 21 CFR 1271.155. Additional information can be found at Exemptions and Alternatives | FDA. The email address for submissions is HCTPExemptions@fda.hhs.gov.
+Please note that 21 CFR 1271.155 requires that you provide justification for use of HCT/Ps from these donors, as well as information on how you have mitigated the risk consistent with the goals of protecting the public health and/or preventing the introduction, transmission, or spread of communicable diseases. Before any of these HCT/Ps can be removed from quarantine, the request must be granted by FDA.
+If you still have embryos in storage for which the donor eligibility requirements under 21 CFR 1271, Subpart C are not met, please note that FDA considers the donor eligibility determinations to be incomplete for these donors. Therefore, as required by 21 CFR 1271.60(a), you must keep these HCT/Ps in quarantine. Should the need arise in the future to remove any of these HCT/Ps from quarantine, either for use in your own establishment or for transport to another establishment, you may release these HCT/Ps from quarantine [21 CFR 1271.90(b)] provided they are labeled in accordance with the applicable regulations at 21 CFR 1271.90(c).
+You should take prompt action to correct any violations addressed in this letter and prevent their recurrence. Failure to promptly correct any violations may result in regulatory action being initiated by FDA without further notice.
+We request that you respond in writing within fifteen (15) working days from your receipt of this letter, outlining the specific steps you have taken or plan to take to correct any violations, including an explanation of how you plan to prevent them, or similar violations, from occurring again. Additionally, include any documentation necessary to show that correction has been achieved. If you believe that your products are not in violation of the law, include your reasoning and any supporting information for our consideration. If you cannot complete all corrective actions within fifteen (15) working days, please explain the reason for your delay and the timeframe within which the remaining corrections will be completed.
+Your written response should be sent to the following address: U.S. Food and Drug Administration, Center for Biologics Evaluation and Research, Document Control Center, 10903 New Hampshire Avenue, WO71-G112, Silver Spring, MD 20993-0002. Please also email your response to CBERDCMRecommendations@fda.hhs.gov.
+If you have any questions regarding this letter, please contact CBER’s Division of Case Management at CBERDCMRecommendations@fda.hhs.gov. Please be advised that only written communications are considered official.
+Sincerely,
+/S/
+Melissa J. Mendoza
+Director
+Office of Compliance and Biologics Quality
+Center for Biologics Evaluation and Research
