@@ -2,7 +2,7 @@
 
 ## Goal
 
-Build a maintainable proof of concept using FDA regulatory data, with clear reasoning and solid documentation that demonstrates ability to create AI/ML applications with production-ready standards
+Build a maintainable proof of concept using FDA regulatory data, with clear reasoning and solid documentation that demonstrates ability to create AI/ML applications with production-ready standards. Provide structured insights from the data sources below for a pharma manufacturing company.
 
 ## Rules
 
@@ -10,7 +10,7 @@ The assignment should take around 4 hours to complete, but you do not need to ti
 
 The assignment is intentionally open-ended; part of what we are evaluating is how you prioritize and decide what to build. You may use any open-source tools or LLM assistance, provided the end result runs locally on macOS with Docker Desktop installed.
 
-Be sure to use the provided Python `uv` project named `fda-regulations`. Utilize Python 3.13 and type hints as much as possible. Include clear instructions for everything you provide and be prepared to walk through your decisions.
+Be sure to use the provided Python `uv` project named `fda-regulations`. Utilize Python 3.13 and type hints as much as possible. Be sure to narrow your types as much as possible. Include clear instructions for everything you provide and be prepared to walk through your decisions.
 
 ## Data
 
@@ -32,7 +32,7 @@ If for some reason you are unable to access the resources from these data source
 
 ## Deliverables
 
-In order to submit your assignment, please fork this repository and open a PR with your changes.
+In order to submit your assignment, please fork this repository, create a branch on your repository, and open a PR from your branch to your forked repository's main branch.
 
 As mentioned, the assignment is deliberately open-ended. However, to provide some structure to the project and ensure some consistency in the end result, we would like you to take into account two rough phases:
 
@@ -51,7 +51,7 @@ As mentioned, the assignment is deliberately open-ended. However, to provide som
 - Does the service build and run on macOS with Docker Desktop?
 - Is your documentation complete and concise, without obvious LLM-generated filler?
 - Could a senior-level software engineer understand the basics of your code based upon its documentation?
-- Did you use `uv` and type hints effectively? For example, did you avoid untyped `dict`, `str`, `Any`, or `Unknown` where possible?
+- Did you use `uv` and type hints effectively? For example, did you avoid untyped `dict`, `str`, `Any`, or `Unknown` where possible? Did you use as many narrow types as possible?
 
 ## Questions
 
